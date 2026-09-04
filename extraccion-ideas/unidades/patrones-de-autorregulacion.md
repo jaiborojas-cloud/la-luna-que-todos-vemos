@@ -8,7 +8,8 @@ apariciones:
   - notas-crudas/nota-03-limites-del-autoconocimiento.md (2026-07-31, parcial)
   - notas-crudas/nota-04-realidad-relacional-informacion-y-conciencia.md (2026-08-17)
   - notas-crudas/nota-05-cristales-del-tiempo-computacion-cuantica-ontologia-relacional.md (2026-08-17, parcial)
-pensadores_relacionados: [Norbert Wiener, W. Ross Ashby, Humberto Maturana, Francisco Varela]
+  - notas-crudas/nota-08-curvatura-sin-metrica-perspectividad-dinamica.md (2026-09-04)
+pensadores_relacionados: [Norbert Wiener, W. Ross Ashby, Humberto Maturana, Francisco Varela, Karl Friston, John Vervaeke]
 resumen: >
   Cinco patrones recurrentes en sistemas que sostienen su identidad en el tiempo:
   (1) retroalimentación negativa; (2) conectividad parcial (ni rigidez por exceso
@@ -44,7 +45,18 @@ Frase-ancla: «Está cerrado en su operación. Está abierto en su interacción.
   gramática vista en los [[cristales-del-tiempo]]. Aparece como principio, no como los
   cinco patrones.
 
-**Veredicto de recurrencia**: recurrente (5 notas) pero siempre en versión
-completa (los cinco patrones) solo en la nota 01; en 02, 03, 04 y 05 aparece como
-marco —el ciclo de retroalimentación (04), la repetición organizada (05)—, no como la
-enumeración desarrollada.
+- *nota-08*: la reaparición **más sustantiva desde la nota 01**, porque añade un patrón
+  que los cinco originales no contemplan. Los cinco son *homeostáticos*: describen cómo
+  un sistema vuelve a su rango. La nota 08 propone un patrón **migratorio**: la
+  regulación como desplazamiento sistemático de la perspectiva por el espacio de
+  descripciones ([[perspectividad-dinamica]]), con su criterio de disparo local
+  ([[desacuerdo-entre-cartas-vecinas]]) y su motor local
+  ([[relevancia-como-gradiente-local]]). Es autorregulación de segundo orden en un
+  sentido más fuerte que la [[meta-red-memoria-estadistica]]: no se trata de recordar
+  qué relaciones funcionaron, sino de detectar que **la descripción entera se está
+  quedando obsoleta** y cambiarla. Candidato a **patrón (6)** de la gramática.
+
+**Veredicto de recurrencia**: recurrente (6 notas) pero en versión completa (los cinco
+patrones) solo en la nota 01; en 02, 03, 04 y 05 aparece como marco —el ciclo de
+retroalimentación (04), la repetición organizada (05)—, no como la enumeración
+desarrollada. La nota 08 es la excepción: no la repite, la **amplía**.

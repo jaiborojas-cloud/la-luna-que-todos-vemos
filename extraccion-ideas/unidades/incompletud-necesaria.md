@@ -6,6 +6,8 @@ apariciones:
   - notas-crudas/nota-01-la-relacion-como-unidad-fundamental.md (2026-07-31)
   - notas-crudas/nota-02-relaciones-acumulacion-y-cibernetica.md (2026-07-31)
   - notas-crudas/nota-03-limites-del-autoconocimiento.md (2026-07-31)
+  - notas-crudas/nota-08-curvatura-sin-metrica-perspectividad-dinamica.md (2026-09-04)
+  - notas-crudas/nota-09-geometria-de-las-cartas-de-perspectiva.md (2026-09-04, parcial)
 pensadores_relacionados: [Kurt Gödel, Alan Turing, W. Ross Ashby, Humberto Maturana, Francisco Varela]
 resumen: >
   Ningún sistema puede poseer conocimiento completo de sí mismo, y eso no es una
@@ -38,4 +40,21 @@ que hace posible su adaptación.»
   exigiría un modelo tan complejo como la realidad) es la versión intuitiva del
   argumento de Ashby.
 
-**Veredicto de recurrencia**: núcleo duro — presente en las 3 notas.
+- *nota-08*: reaparece ya **como premisa dada**, no como hallazgo — «ningún sistema
+  finito sostiene representación completa de sí mismo ni de aquello de lo que
+  depende». Es la primera nota que **parte** de la incompletud en vez de argumentarla,
+  y su aporte es el paso siguiente: si el resultado es negativo y firme, ¿qué modelo de
+  regulación se sigue de él? De ahí [[perspectividad-dinamica]]. Señal de madurez de la
+  unidad: dejó de ser tesis en disputa dentro del corpus y pasó a ser cimiento.
+
+- *nota-09 (parcial)*: la incompletud aparece **convertida en objeto matemático**, que
+  es la forma más fuerte de asumirla. El «observador finito» que no puede sostener el
+  estado completo x de la red se formaliza como un **canal con pérdida** p(t | x; θ)
+  ([[compresion-con-perdida-y-tasa-distorsion]]). La opacidad estructural deja de ser
+  una tesis sobre los límites del conocer y pasa a ser un **parámetro del modelo**: la
+  distorsión D. Marcada como parcial porque la nota no argumenta la incompletud —la
+  construye dentro.
+
+**Veredicto de recurrencia**: núcleo duro — presente en 5 notas (01, 02, 03, 08, 09·).
+Su trayectoria en el corpus resume el proyecto entero: tesis a demostrar (01–03) →
+premisa dada (08) → **magnitud del formalismo** (09).

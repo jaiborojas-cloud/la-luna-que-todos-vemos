@@ -5,7 +5,7 @@
 > (para no re-discutirlo) y cuáles son los caminos naturales a seguir, en orden.
 > El texto fundacional es `00-documento-puente.md`, en esta misma carpeta.
 
-Última actualización: 2026-08-17.
+Última actualización: 2026-09-04.
 
 ---
 
@@ -37,9 +37,10 @@ prosa desarrollada todavía.** El siguiente trabajo es §4 de este archivo.
    citas reales, y la regla de oro (abajo).
 4. **La obra derivada vive en carpeta propia** (`ontologia-relacional/`), separada
    del repo-herramienta de extracción.
-5. **La extracción se reabre solo con material nuevo.** Estado actual: **7 notas**
-   (las notas 04–07 la reabrieron el 2026-08-17) → **27 unidades** (18 en el núcleo).
-   Cerrada de nuevo hasta que llegue material fresco.
+5. **La extracción se reabre solo con material nuevo.** Estado actual: **8 notas**
+   (las notas 04–07 la reabrieron el 2026-08-17; la nota 08 entró el 2026-09-04) →
+   **32 unidades** (20 en el núcleo). Cerrada de nuevo hasta que llegue material
+   fresco. *Anunciado por el usuario: una segunda nota pendiente de pegar.*
 
 ## 3. Reglas permanentes del proyecto
 
@@ -155,11 +156,124 @@ cuándo considerarlo terminado.
 - **Criterio de hecho:** un argumento que diga con precisión *qué* del límite
   individual se transfiere a lo colectivo y *qué no*, y por qué.
 
+### Camino I — De la imposibilidad a la regulación (perspectividad dinámica) ★ prioridad alta
+- **Abierto por:** la nota 08 (2026-09-04), «Curvatura sin métrica».
+- **Qué:** el Camino A termina en un resultado **negativo** (el auto-modelo completo es
+  imposible → la perspectiva es forzada). Este camino da el paso siguiente: **qué
+  régimen de regulación se sigue de esa imposibilidad**. La respuesta propuesta es la
+  *perspectividad dinámica* — si no puedes tener la vista completa, desplaza
+  sistemáticamente la que tienes — con tres piezas: hacia dónde (relevancia como
+  gradiente local), cuándo (desacuerdo entre cartas vecinas) y a qué precio (pago
+  disipativo por transición).
+- **Por qué:** es lo único del material reciente que produce **argumento y no marco**
+  —el test del Camino E—, y es el primer contenido *positivo* del proyecto. Todo lo
+  demás hasta ahora dice qué no se puede; esto dice qué sí, sin violar lo anterior.
+- **Insumos ya escritos:** `unidades/perspectividad-dinamica.md`,
+  `relevancia-como-gradiente-local.md`, `desacuerdo-entre-cartas-vecinas.md`,
+  `espacio-de-descripciones-y-geodesicas.md`, `holonomia-y-memoria-como-torsion.md`.
+- **Dónde toca:** nuevo archivo `ontologia-relacional/I-perspectividad-dinamica.md`;
+  retroalimenta el §3 del documento-puente (la derivación gana un paso 0': de la
+  parcialidad forzada al desplazamiento obligado) y el §7.1.
+
+Se divide en dos ramas con prioridades muy distintas — **no confundirlas**:
+
+La nota 09 cambió el orden interno de este camino. Lo que estaba aparcado (formalizar
+D) recibió candidatos concretos el mismo día en que se abrió, así que el camino se
+reorganiza en **tres sub-pasos, y el primero es una prueba de humo barata que puede
+matar a los otros dos**. Hacerla antes que nada.
+
+- **I.0 — La prueba de humo: ¿la curvatura es distinta de cero?** (★ hacer primero,
+  es corto). Todo el Test B —y con él la rehabilitación de la holonomía— depende de que
+  el espacio tenga curvatura. Hay **dos maneras de que devuelva cero en silencio**, las
+  dos detectadas al revisar la nota 09:
+  1. **Conexión mal elegida.** «Fisher da una conexión canónica» es ambiguo: la
+     geometría de la información trae la familia de α-conexiones de Amari, y las dos
+     más naturales para familias exponenciales (α = ±1, exponencial y de mezcla) son
+     **planas** — holonomía trivial por construcción. Hay que usar la **Levi-Civita**
+     de la métrica de Fisher (α = 0), y dejarlo escrito.
+  2. **Parametrización mal elegida.** El modelo de **Bernoullis independientes** de la
+     opción (1) del §7 de la nota es **plano para todo N**: una Fisher diagonal cuyo
+     `g_ii` depende solo de `θ_i` es una métrica producto de variedades de dimensión 1;
+     con `u_i = 2·arcsin(√θ_i)` queda `g = Σ du_i²`, euclidiana sobre la caja (0,π)^N.
+     Riemann ≡ 0, holonomía trivial, **Test B ≡ 0**. Esto responde por cálculo la
+     pregunta que la nota dejaba para «un ejemplo de 3–4 relaciones»: no hace falta el
+     ejemplo, la opción (1) tal como está escrita queda descartada para sostener el
+     test.
+  **La lectura conceptual del cálculo es el hallazgo, no el cálculo:** la curvatura
+  viene de la **dependencia entre relaciones**. Bernoullis independientes = relaciones
+  que no se enteran unas de otras = espacio plano = ninguna señal. Modelar las
+  relaciones como interruptores independientes es, literalmente, aplanar la ontología
+  del proyecto. **Criterio de hecho:** una decisión escrita sobre conexión y
+  parametrización, con la curvatura verificada no nula. Ver
+  `unidades/parametrizacion-de-t-blanda-vs-grassmanniana.md`, donde queda además
+  propuesta una tercera opción que no estaba en la nota —**Bernoulli con
+  acoplamientos** (tipo Ising / campo aleatorio de Markov)—: conserva la lectura
+  literal «relaciones más o menos activas» *y* recupera la curvatura, al precio de que
+  la Fisher deje de ser diagonal.
+- **I.1 — El mecanismo de recalibración.** Desarrollar los *dos tests* como mecanismo
+  completo: cuántas cartas, cómo se generan, qué umbral de divergencia dispara el
+  desplazamiento y —lo más importante— **quién paga la señal**. El atractivo original
+  del criterio era ser barato; el Test B exige métrica, conexión y segundas derivadas.
+  Como todo el edificio descansa en presupuesto finito (L2), hay que mostrar que el
+  regulador **puede costear el instrumento con el que detecta que se degrada**. Si no
+  puede, la geometría es correcta y el regulador igualmente ciego. **Criterio de
+  hecho:** una especificación implementable y refutable, más el párrafo que declara el
+  precedente (query by committee, desacuerdo de ensambles como incertidumbre
+  epistémica) y dice en qué se separa el proyecto — que es en *derivarlo* de una
+  restricción termodinámico-estructural en vez de adoptarlo como heurística.
+- **I.2 — Cerrar el formalismo.** Con I.0 resuelto, terminar de fijar el objeto: la
+  métrica de Fisher sobre el canal con pérdida p(t | x; θ), el residuo como distorsión
+  D, la relación entre R(D) y el pago, y **la que falta**: el *information bottleneck*,
+  que dejó de ser «extensión futura» para volverse necesario — al elegir compresión y
+  no predicción, la nota 09 dejó la **relevancia fuera del formalismo**, y sin variable
+  relevante nada dice qué vale la pena conservar.
+
+**Deudas honestas del camino (dejarlas a la vista, no taparlas):**
+1. **La premisa de no-estacionariedad.** «Hay que desplazarse» solo se sigue si el
+   entorno o el sistema cambian. En un mundo estacionario, quedarse quieto puede ser
+   óptimo. Sigue **sin enunciarse en ninguna nota**: es el flanco más barato de tapar y
+   el más caro de que te lo encuentren.
+2. **El costo de la señal** (ver I.1). Es hoy la pregunta abierta más importante del
+   camino.
+3. **Φ/IIT entró por la puerta lateral.** La nota 09 declara de pasada que la variable
+   ontológica de la obra «es Φ/IIT», y **eso no está documentado en ningún archivo del
+   repo**. Es un compromiso caro (teoría en disputa activa; Φ intratable de calcular) y
+   adoptarlo como subproducto de una decisión técnica sobre métricas roza justo lo que
+   el **Camino F** prohíbe. Decidirlo de frente o degradarlo a *place-holder declarado*
+   («una medida de integración causal, de la cual Φ es un candidato»).
+4. **Chentsov, con su salvedad.** «La única métrica invariante bajo estadísticos
+   suficientes» vale **salvo escala y sobre el símplex finito**. El proyecto ya asume
+   finitud en todas partes, así que la salvedad cuesta poco y compra rigor — pero hay
+   que escribirla.
+5. **Idealización de tasa-distorsión.** R(D) es el mínimo asintótico para codificación
+   por bloques de una fuente estacionaria sin memoria; un observador finito y singular
+   no habita ese régimen y paga más.
+6. **Óptimos locales.** El gradiente local hereda la tensión exploración/explotación y
+   no la resuelve; las cartas vecinas la alivian, no la cierran.
+
+*Deudas ya saldadas por la nota 09, para no re-litigarlas:* D sin métrica (Fisher
+candidata); «residuo» sin definir (= distorsión D); Landauer acota el borrado (una
+compresión con pérdida *es* descarte, la premisa se cumple sola); «qué cuenta como
+vecina» (radio de inyectividad / escala de curvatura, derivado y no tuneado).
+
 ### Orden sugerido
-**A → C → G → H → B → D → E**, con **F** como restricción permanente (no un paso).
-A, C y G pueden ir en paralelo; **H** es la contraparte social de A (conviene
-hacerlas juntas). B, D y E se benefician de tener A, C, G y H hechos; E (el test
-de la metáfora) depende de G y de H.
+**A ✅ → C ✅(quirúrgico) → E ✅ → [integrar A y E al puente] → I.0 → I.1 + G + H →
+I.2 → B → D**, con **F** como restricción permanente (no un paso).
+
+- **Pendiente inmediato y bloqueante:** integrar A y E al documento-puente. Está
+  esperando desde el 2026-08-17, y el Camino I quiere apoyarse en un §3 que todavía no
+  incorpora A. Cada nota nueva aumenta la deuda.
+- **I.0 va antes que todo lo demás del camino I** y es corto. No construir encima sin
+  haber verificado que la curvatura no es cero.
+- **I.1, G y H pueden ir en paralelo.** H sigue siendo la contraparte social de A.
+- **G se vuelve claramente más urgente con este lote:** las unidades nuevas tienen
+  vecinos muy poblados y muy citables (Vervaeke en *relevance realization*, la
+  inferencia activa en acción epistémica, el desacuerdo de ensambles en aprendizaje
+  automático, y ahora **toda la geometría de la información** — Amari, Chentsov,
+  Efron). El diferencial defendible no es haber inventado estas herramientas, sino
+  **derivar su necesidad desde una restricción termodinámico-estructural**. Si el
+  proyecto no lo declara así, el primer lector informado lo hará por él.
+- B, D e I.2 se benefician de tener lo anterior hecho.
 
 > **Reencuadre de la ambición (2026-07-31):** el objetivo NO es "una filosofía
 > nueva" (los pilares ya existen), sino **(a)** una síntesis con voz propia,
@@ -178,7 +292,9 @@ de la metáfora) depende de G y de H.
 - `extraccion-ideas/indice.md` — 16 unidades de las notas (ontología relacional).
 - `extraccion-ideas/indice-obra.md` — 16 unidades de la obra original.
 - `extraccion-ideas/unidades/` y `unidades-obra/` — las unidades individuales.
-- `extraccion-ideas/notas-crudas/` — las 3 notas fuente.
+- `extraccion-ideas/notas-crudas/` — las 8 notas fuente.
+- `ontologia-relacional/A-bisagra-inferencia-activa-buen-regulador.md` — Camino A.
+- `ontologia-relacional/E-prueba-de-la-metafora-y-del-marco.md` — Camino E.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
 
