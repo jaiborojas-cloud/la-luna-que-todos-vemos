@@ -62,8 +62,8 @@ costo paga.
 **Estatuto:** *literal.* Son afirmaciones empíricas sobre un cerebro físico. El
 costo metabólico es un hecho medible; el principio de energía libre es un marco
 formal (y, conviene decirlo para no inflar: **influyente pero debatido** en su
-alcance explicativo). Lo que aquí importa y es robusto: **auto-sostenerse cuesta,
-y ese costo es finito.**
+alcance explicativo; véanse Bruineberg et al., 2022; Colombo & Wright, 2021). Lo
+que aquí importa y es robusto: **auto-sostenerse cuesta, y ese costo es finito.**
 
 > Unidades de origen: `unidades-obra/pago-metabolico-de-la-conciencia`,
 > `percepcion-como-alucinacion-controlada`.
@@ -283,18 +283,42 @@ La relación entre mentes no puede ser *fusión* ni *comprensión completa*:
   consenso ni suma: es emergencia (propiedad del conjunto irreducible a las
   partes).
 
-**Estatuto:** *mixto.* El límite epistémico entre mentes es corolario riguroso
-del §2–§3; la lectura de la realidad compartida como *emergencia* es una tesis
-sistémica bien fundada pero no formalizada aquí.
+**Estatuto:** *mixto.* El límite epistémico entre mentes es corolario del núcleo
+robusto de §2–§3 (no de sus tesis pendientes); la lectura de la realidad
+compartida como *emergencia* es una tesis sistémica bien fundada pero no
+formalizada aquí.
 
 ---
 
-## 5. Piso macro — la ontología relacional (ESTRUCTURAL + ANALÓGICO, deslindados)
+## 5. Piso macro — la ontología relacional como marco (ESTRUCTURAL + ANALÓGICO, deslindados)
+
+**Advertencia de estatuto (Camino E).** El mejor argumento del documento —§3, la
+composición L1a + L2— **no usa la ontología relacional**. Está construido con
+teoría de control, conteo y termodinámica, todos enunciables en términos
+objetuales. La relacionalidad no es una premisa de §3: es una *interpretación río
+abajo* de su conclusión. Esto no destruye el proyecto; **relocaliza su valor**:
+§3 es el argumento; la ontología relacional es el marco.
+
+### 5.1 Qué puede y qué no puede hacer un marco
 
 En el nivel del sistema completo, la tesis se vuelve ontológica: **la unidad
 fundamental no es el objeto sino la relación** (`unidades/relacion-unidad-fundamental`).
 El conocimiento reside *entre* los nodos, no *en* ellos; y su forma natural es la
 distribución, no la excepción.
+
+Pero hay que decir con precisión qué estatuto tiene esa tesis. Para que «la
+relación es primaria» fuera una **tesis predictiva** —y no una redescripción
+elegante de «hay objetos que se relacionan»— tendría que **prohibir** algo que una
+ontología de objetos permita. El único candidato fuerte es un relacionalismo
+ontológico fuerte (sin propiedades intrínsecas), cuyo caso límite es la identidad
+de los indiscernibles relacional; ese compromiso tiene problemas conocidos (las
+dos esferas de Max Black). El proyecto no lo necesita.
+
+**Veredicto:** la ontología relacional es un **marco** —programa de investigación,
+lente, voz—, no una tesis con contenido predictivo propio. Es legítima como
+marco: organiza, conecta y da vocabulario. Se vuelve ideología si se la vende como
+si prohibiera algo. Regla: **puede *enmarcar* §3; no puede *fundar* §3 (es al
+revés).**
 
 Convergen aquí tres apoyos **independientes** entre sí —y esa independencia hay
 que subrayarla, porque su convergencia es sugestiva pero no es una sola prueba—:
@@ -304,103 +328,190 @@ que subrayarla, porque su convergencia es sugestiva pero no es una sola prueba�
   económico.)
 - **Rovelli (1996), mecánica cuántica relacional:** los valores de las magnitudes
   físicas son relativos a la interacción; un sistema no tiene estado "en sí". (Una
-  *interpretación* física, no consenso.)
+  *interpretación* física en disputa, no consenso; y su sentido de «relación» es
+  físico, no epistémico-social: ilumina, no se transfiere.)
 - **Teoría de categorías:** un objeto matemático se caracteriza por sus morfismos
   —sus relaciones— y no por su interior. (Formal.)
 
-**La costura mayor —y la más importante de todo el documento—:** el salto desde
-"el conocimiento se distribuye" hasta **"la sociedad es un sistema monetario-
-cognitivo donde circula una moneda de existencia"** es **analógico**. La moneda
-es un modelo iluminador (con linaje serio: Simmel, 1900, sobre el dinero como
-puro valor relacional), no un mecanismo demostrado. Lo que *sí* es literal viaja
-con ella —el costo metabólico, la incompletud— pero la economía de la mente
+La convergencia es sugestiva; no es una prueba única. Cada apoyo habla de un tipo
+distinto de relación, y el documento no debe borrar esa diferencia.
+
+### 5.2 La moneda: de columna a herramienta de dos usos
+
+El salto desde «el conocimiento se distribuye» hasta «la sociedad es un sistema
+monetario-cognitivo donde circula una moneda de existencia» es **analógico**. La
+moneda es un modelo iluminador (con linaje serio: Simmel, 1900, sobre el dinero
+como puro valor relacional), no un mecanismo demostrado. Lo que *sí* es literal
+viaja con ella —el costo metabólico, la incompletud—, pero la economía de la mente
 colectiva es, hasta prueba en contrario, una **metáfora estructural productiva**,
-no una identidad. La obra derivada será rigurosa en la medida en que sostenga esa
-distinción sin soltar la metáfora.
+no una identidad.
+
+El Camino E añadió una precisión incómoda: la metáfora no es inocua. Su propiedad
+definitoria —la **fungibilidad**— contradice la tesis-corazón del proyecto, la
+singularidad irreproducible de cada perspectiva. Un dólar no tiene punto de vista;
+una mente es *toda* punto de vista. «Cada mente es una denominación» arrastra un
+supuesto que falsea lo que quiere decir.
+
+**Dos usos, dos fronteras:**
+
+- **Consérvala** donde el tema es la *dinámica de la circulación y sus patologías*:
+  atesoramiento, trampas de liquidez, deflación por dinero que no circula,
+  concentración que ahoga el flujo. Ahí la metáfora **nombra una forma de fallo**
+  que «distribuido y relacional» a secas no nombra.
+- **Retírala** —o marca su límite— donde el tema es la *singularidad de la
+  perspectiva*. Ahí la fungibilidad del dinero contradice la tesis y usarla es
+  «fuera de rigor» en el sentido de §6.
+
+> **Un límite normativo, no un fallo:** crear orden no implica crear justicia. El
+> criterio entrópico puede describir qué se conserva y a qué costo; no basta para
+> lo normativo. Esa frontera se declara, no se disimula.
 
 > Unidades de origen: `unidades/relacion-unidad-fundamental`,
 > `conocimiento-distribuido`, `mente-como-denominacion-moneda-cognitiva`,
-> `de-predecir-a-comprender-relaciones`.
+> `de-predecir-a-comprender-relaciones`, `acumulador-saludable-vs-patologico`,
+> `economia-biomimetica-y-limites-a-la-concentracion`.
 
 ---
 
-## 6. Las tres costuras (el libro mayor de cuentas)
+## 6. El libro mayor de cuentas
+
+Regla de la obra: **ninguna fila puede citarse con el estatuto de otra.** El
+cuadro se divide en dos proyectos porque tienen estatutos distintos: el argumento
+(6.1) y el marco/la metáfora (6.2). Mezclarlos —usar la moneda como si demostrara,
+o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
+
+### 6.1 Proyecto A — el argumento
 
 | Afirmación | Estatuto | Base |
 |---|---|---|
 | Sostener una mente cuesta energía finita, real y continua | **Literal** | Raichle & Gusnard 2002; Friston 2010 |
 | La percepción es inferencia predictiva ("alucinación controlada") | **Literal** (marco debatido) | Seth 2021; Clark 2013 |
-| Ningún sistema formal/regulador contiene un modelo completo de sí mismo | **Demostrable** (en su dominio) | Gödel 1931; Turing 1936; Ashby 1956; Conant-Ashby 1970 |
+| Solo la variedad absorbe variedad | **Demostrable** (teoría de control) | Ashby 1956 |
+| Una parte propia finita no modela fielmente el todo | **Demostrable** (caso finito) | conteo; §2.1 |
+| L2 (energía libre finita) licencia la finitud que L1a necesita | **Tesis-refinamiento** (candidata fuerte) | §1–§2 |
+| El agente debe regular un todo que lo incluye | **Tesis motivada** | §2.1, Paso 2 |
+| Deber regular × no poder completar → perspectiva | **Síntesis** | §3.1 |
+| Los límites de Gödel y Turing valen en sus dominios formales | **Demostrable** (en su dominio) | Gödel 1931; Turing 1936 |
+| El límite formal se transporta sin más a cerebros y sociedades | **No: requiere tesis** | §2.3 |
+| "Todo buen regulador es un modelo" (forma fuerte) | **No sostenida en su forma fuerte** | Conant & Ashby 1970; Wentworth 2021 |
+| El regulador óptimo y simple es un modelo con pérdida del sistema externo | **Demostrable** (forma débil) | Conant & Ashby 1970 |
+| El FEP implica el buen regulador (P2: el buen regulador como caso del FEP) | **Tesis atribuida a Friston, contestada** | Friston 2010; Colombo & Wright 2021; Bruineberg et al. 2022 |
+| El modelo es atribuido por un observador | **Resultado publicado; compatible con el perspectivismo** | Virgo et al. 2025 |
 | Un cerebro / una sociedad *es* uno de esos sistemas | **Tesis argumentada** | analogía motivada, no teorema transportado |
-| Micro y macro son el mismo límite (incompletud sobredeterminada) | **Síntesis** | §3 |
+| Micro y macro comparten el mismo límite estructural (incompletud sobredeterminada) | **Síntesis** | §3 |
 | Dos mentes se reconocen, no se comprenden del todo | **Corolario** | §2–§4 |
 | La realidad compartida es emergencia de modelos parciales | **Tesis sistémica** | §4 |
-| La relación es la unidad ontológica fundamental | **Estructural** (convergencia de 3 apoyos indep.) | §5 |
-| La sociedad es una economía de moneda cognitiva | **Analógico** | Simmel 1900; metáfora productiva |
 
-Regla de la obra: **ninguna fila puede citarse con el estatuto de otra.** Si un
-pasaje usa la moneda como si fuera mecanismo, está fuera de rigor.
+### 6.2 Proyecto B — el marco y la metáfora
+
+| Afirmación | Estatuto | Base |
+|---|---|---|
+| La relación es la unidad ontológica fundamental | **Marco** (no tesis predictiva) | §5.1; Camino E |
+| La ontología relacional funda el argumento de §3 | **Falso / inversión de orden** | §5; Camino E |
+| La sociedad es una economía de moneda cognitiva | **Analógico** (herramienta) | Simmel 1900; §5.2 |
+| La moneda describe patologías de circulación | **Analógico productivo** (ilumina formas de fallo) | §5.2 |
+| La moneda describe la singularidad de la perspectiva | **Prohibido** (la fungibilidad contradice la tesis) | §5.2 |
+| Crear orden no implica crear justicia | **Límite declarado** | §5.2 |
 
 ---
 
 ## 7. Lo que queda por demostrar (agenda honesta)
 
-1. **Formalizar la bisagra Conant-Ashby → cerebro:** ¿bajo qué condiciones un
-   sistema de inferencia activa hereda el límite del "buen regulador"? (Puente
-   real entre §1 y §2, hoy solo esbozado.)
-2. **Precisar "emergencia" de la realidad compartida:** ¿qué la distingue de un
-   mero promedio estadístico de percepciones? (¿Hay un criterio operacional?)
-3. **Poner a prueba la analogía monetaria:** ¿qué predice que una teoría
-   relacional *sin* la metáfora no prediga? Si no añade poder explicativo, es
-   ornamento; si lo añade, hay que decir cuál.
-4. **La conciencia:** el documento explica la incompletud y la distribución, no
+1. **C1 residual — Paso 2 y L2 ⇒ finitud.** Justificar que un agente *deba*
+   regular un todo que lo incluye (no solo que pueda) y refinar la inferencia
+   «energía finita ⇒ estados finitos». El teorema del buen regulador ya no es la
+   tarea: quedó como corroboración débil. (Camino A.)
+2. **C2 — emergencia.** Precisar qué distingue la realidad compartida de un mero
+   promedio estadístico de percepciones; proponer un criterio operacional. (Camino D.)
+3. **C3 — salto intra→inter-sistema.** Explicitar qué se transfiere de la
+   economía interna de un cerebro a una red social de cerebros, y qué no. (Camino H.)
+4. **La moneda — veredicto y frontera.** El Camino E cerró la pregunta «¿añade
+   poder explicativo?» con un veredicto de dos usos: sirve como vocabulario para
+   patologías de circulación; no sirve para la singularidad. La tarea pendiente
+   no es re-litigarla, sino **aplicar la frontera** y desarrollar el vocabulario
+   de fallos de circulación sin ontologizar la metáfora.
+5. **La conciencia.** El documento explica la incompletud y la distribución, no
    *por qué hay experiencia*. La "circulación consciente"
    (`unidades/circulacion-consciente-pregunta-abierta`) sigue siendo pregunta
    abierta, y debe declararse como tal, no resolverse por metáfora.
+6. **Situarse frente a la literatura (Camino G).** El documento no inventa la
+   relacionalidad: Simondon, Barad, Metzinger, Ladyman & Ross, Luhmann,
+   Whitehead, Hofstadter, Nāgārjuna. El diferencial no es la tesis relacional,
+   sino **derivar su necesidad de una restricción termodinámico-estructural**
+   (§1–§3). Falta el trabajo de situar esa diferencia sin reclamar originalidad
+   donde solo hay convergencia.
 
 ---
 
 ## 8. Mapa de procedencia (qué unidad alimenta cada piso)
 
 - **§1 micro:** `unidades-obra/`: pago-metabolico-de-la-conciencia,
-  percepcion-como-alucinacion-controlada, frutos-unicos-singularidad-irreproducible.
+  percepcion-como-alucinacion-controlada, frutos-unicos-singularidad-irreproducible;
+  + `unidades/entropia-como-variable-relacional`.
 - **§2 estructural:** `unidades/`: incompletud-necesaria,
-  patrones-de-autorregulacion, topologia-forma-de-la-relacion.
-- **§3 nudo:** síntesis de §1 + §2 (aportación nueva de este documento).
+  patrones-de-autorregulacion, topologia-forma-de-la-relacion,
+  entropia-como-variable-relacional; + Camino A.
+- **§3 nudo:** síntesis de §1 + §2 (aportación nueva de este documento); integra
+  el motor y la ruta L1a + L2 del Camino A.
 - **§4 meso:** `unidades-obra/`: reconocimiento-en-vez-de-comprension,
   templates-universales-vs-singularidad; + realidad compartida (anotada en
   `unidades/conocimiento-distribuido`).
 - **§5 macro:** `unidades/`: relacion-unidad-fundamental, conocimiento-distribuido,
-  mente-como-denominacion-moneda-cognitiva, de-predecir-a-comprender-relaciones.
+  mente-como-denominacion-moneda-cognitiva, de-predecir-a-comprender-relaciones,
+  acumulador-saludable-vs-patologico,
+  economia-biomimetica-y-limites-a-la-concentracion; + auditoría del Camino E.
+- **§6 libro mayor:** sin unidades nuevas; reorganiza estatutos de §1–§5.
 - **§7 agenda:** `unidades/circulacion-consciente-pregunta-abierta`,
-  conciencia-como-forma-de-relacion, modelos-que-descubren-relaciones.
+  conciencia-como-forma-de-relacion, modelos-que-descubren-relaciones;
+  + Caminos A, D, E, G, H.
+- **Anexos:** `A-bisagra-inferencia-activa-buen-regulador.md` (§2–§3, §5–§7) y
+  `E-prueba-de-la-metafora-y-del-marco.md` (§5–§7).
 
 ---
 
 ## Referencias
 
 - Ashby, W. R. (1956). *An Introduction to Cybernetics.* Chapman & Hall.
+- Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
+- Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). "The Emperor's
+  New Markov Blankets." *Behavioral and Brain Sciences*, 45, e183.
+  DOI: 10.1017/S0140525X21002351.
 - Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the
-  future of cognitive science." *Behavioral and Brain Sciences*, 36(3).
+  future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
+- Colombo, M., & Wright, C. (2021). "First principles in the life sciences: the
+  free-energy principle, organicism, and mechanism." *Synthese*, 198(14),
+  3463–3488. DOI: 10.1007/s11229-018-01932-w.
 - Conant, R. C., & Ashby, W. R. (1970). "Every good regulator of a system must be
-  a model of that system." *International Journal of Systems Science*, 1(2).
+  a model of that system." *International Journal of Systems Science*, 1(2),
+  89–97. DOI: 10.1080/00207727008920220.
 - Friston, K. (2010). "The free-energy principle: a unified brain theory?"
-  *Nature Reviews Neuroscience*, 11(2).
+  *Nature Reviews Neuroscience*, 11(2), 127–138.
 - Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica
-  und verwandter Systeme I."
+  und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38,
+  173–198.
 - Hayek, F. A. (1945). "The Use of Knowledge in Society." *American Economic
-  Review*, 35(4).
+  Review*, 35(4), 519–530.
 - Maturana, H., & Varela, F. (1980). *Autopoiesis and Cognition.* Reidel.
 - Raichle, M. E., & Gusnard, D. A. (2002). "Appraising the brain's energy budget."
-  *PNAS*, 99(16).
+  *PNAS*, 99(16), 10237–10239.
 - Rovelli, C. (1996). "Relational Quantum Mechanics." *International Journal of
-  Theoretical Physics*, 35.
+  Theoretical Physics*, 35(8), 1637–1678.
 - Seth, A. (2021). *Being You: A New Science of Consciousness.* Faber.
 - Simmel, G. (1900). *Philosophie des Geldes.*
 - Turing, A. (1936). "On Computable Numbers, with an Application to the
-  Entscheidungsproblem." *Proc. London Math. Soc.*
+  Entscheidungsproblem." *Proceedings of the London Mathematical Society*,
+  s2-42(1), 230–265.
+- Virgo, N., Biehl, M., Baltieri, M., & Capucci, M. (2025). "A 'good regulator
+  theorem' for embodied agents." *ALIFE 2025*; arXiv:2508.06326.
+  DOI: 10.48550/arXiv.2508.06326.
+- Wentworth, J. (2021). "Fixing the Good Regulator Theorem." *Alignment Forum*
+  (entrada de blog, no arbitrada).
+  https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
 
 > **Nota de verificación:** las referencias son atribuciones estándar de cada
-> tesis; antes de cualquier publicación conviene cotejar ediciones, páginas y la
-> formulación exacta de cada resultado (en especial Conant-Ashby y el alcance que
-> Friston mismo reclama para el principio de energía libre).
+> tesis. Antes de publicación, cotejar ediciones, páginas y formulación exacta
+> (en especial Conant-Ashby, la forma débil del teorema y el alcance que Friston
+> mismo reclama para el FEP). Las citas de Black, Bruineberg et al., Colombo &
+> Wright, Virgo et al. y Wentworth se añadieron en la integración A/E
+> (2026-10-20); Wentworth es una fuente no arbitrada y se usa solo como crítica
+> técnica.
