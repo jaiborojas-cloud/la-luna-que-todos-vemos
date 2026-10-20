@@ -19,13 +19,13 @@
 
 **epilogo_material_luna_roja.md** (antes capitulo_00.md)
 - Destino: Epílogo "La Luna Otra Vez — La Síntesis Final"
-- Acción pendiente: Reescribir últimas 2-3 secciones para conectar con Jetta blanco/paternidad/andar
+- Acción pendiente: Reescribir últimas 2-3 secciones para conectar con auto blanco/paternidad/andar
 - Contenido actual: ~2,200 palabras (epifanía luna roja)
 
 **capitulo_01.md** → Capítulo I "Los Patrones Universales — Los Templates del Temple"
 - Destino: Integrar neurociencia como evidencia de patrones biológicos universales
 - Acción pendiente:
-  - Agregar introducción que conecte con Jetta blanco
+  - Agregar introducción que conecte con auto blanco
   - Reducir tecnicismos, mantener ejemplos evocativos
   - Recontextualizar desde amor/genealogía
 - Contenido actual: ~6,400 palabras (neurociencia predictiva)
@@ -34,9 +34,9 @@
 
 ## Capítulos por Escribir (Nueva Estructura v3.0)
 
-**Capítulo 0: El Jetta Blanco** [EN PROGRESO]
+**Capítulo 0: El auto blanco** [EN PROGRESO]
 - Origen genealógico del libro
-- Carretera de Michoacán, tarde, Aaron y Priscila dormidos
+- Carretera de Michoacán, tarde, mi hermano y mi hermana dormidos
 - Primera vez viendo tranquilidad y seguridad en ellos
 - La visión del navegador de emociones
 

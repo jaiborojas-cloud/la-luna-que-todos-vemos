@@ -6,9 +6,9 @@
 
 ---
 
-## I. Después del Jetta Blanco
+## I. Después del auto blanco
 
-Aaron y Priscila despertaron una hora después.
+Mi hermano y mi hermana despertaron una hora después.
 
 El sol ya estaba bajando. La carretera seguía extendiéndose hacia adelante. Nadie dijo nada profundo sobre lo que había pasado. Fue solo un momento — un descanso, una paz, una hora de tranquilidad.
 
@@ -157,7 +157,7 @@ Llevas contigo **preguntas profundas**.
 
 No las respuestas. Las **preguntas**.
 
-En el Jetta blanco, cuando imaginé el navegador de emociones, no tenía respuestas. Tenía preguntas:
+En el auto blanco, cuando imaginé el navegador de emociones, no tenía respuestas. Tenía preguntas:
 
 - ¿Cómo se busca lo sentido?
 - ¿Puede existir compañía genuina sin ego?
@@ -327,10 +327,10 @@ Si puedes aplicar lo que te enseñaron de formas nuevas, heredaste **bien**.
 
 Si puedes crear algo completamente nuevo que lleva la marca de lo que te enseñaron pero va a lugares que tu maestro nunca pisó, heredaste **extraordinariamente**.
 
-Cuando imaginé el navegador de emociones en el Jetta blanco, estaba creando algo que nadie me había enseñado a crear.
+Cuando imaginé el navegador de emociones en el auto blanco, estaba creando algo que nadie me había enseñado a crear.
 
 Pero no estaba creando desde la nada. Estaba creando desde:
-- El amor que sentía por Aaron y Priscila (genealogía emocional)
+- El amor que sentía por mi hermano y mi hermana (genealogía emocional)
 - Los patrones que reconocía en el sufrimiento humano (genealogía de observación)
 - Las herramientas que conocía como ingeniero (genealogía técnica)
 
@@ -368,7 +368,7 @@ Y el almacenamiento no genera. Se estanca.
 
 ### Opción 3: Cerrar el libro y andar
 
-Puedes tomar lo que resonó. Reconocer el origen (este libro nació del Jetta blanco, del amor filial, del deseo de que el sufrimiento no sea el final).
+Puedes tomar lo que resonó. Reconocer el origen (este libro nació del auto blanco, del amor filial, del deseo de que el sufrimiento no sea el final).
 
 Y luego **andar hacia tu propia dirección**.
 
@@ -414,7 +414,7 @@ Y el andar — el movimiento generativo desde raíces profundas hacia lugares nu
 
 ## XIV. La Última Invitación
 
-Aaron y Priscila siguen andando.
+Mi hermano y mi hermana siguen andando.
 
 Yo sigo andando.
 
@@ -471,7 +471,7 @@ Y eso — eso exactamente — es todo lo que un padre puede desear.
 - Andar como conversación con la realidad
 - Test final: crear lo que el padre nunca imaginó
 
-**Conexión genealógica:** Capítulo enraizado en Jetta blanco (Aaron/Priscila despertaron y seguimos andando), culminación de Cap IV (moneda) y Cap VI (paternidad), prepara para Epílogo (síntesis final)
+**Conexión genealógica:** Capítulo enraizado en auto blanco (mi hermano/mi hermana despertaron y seguimos andando), culminación de Cap IV (moneda) y Cap VI (paternidad), prepara para Epílogo (síntesis final)
 
 **Tono:** El más abierto y generativo del libro. No cierra — abre. No responde — invita. No retiene — suelta.
 

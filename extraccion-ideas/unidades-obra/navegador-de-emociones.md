@@ -2,9 +2,9 @@
 titulo: El navegador de emociones — buscar lo sentido, no la información
 estado: en desarrollo
 fuente: obra (La Luna Que Todos Vemos)
-primera_aparicion: capitulos/capitulo_00_el_jetta_blanco.md
+primera_aparicion: capitulos/capitulo_00_el_auto_blanco.md
 apariciones:
-  - capitulos/capitulo_00_el_jetta_blanco.md
+  - capitulos/capitulo_00_el_auto_blanco.md
   - CLAUDE_CONTEXT.md
   - README.md
   - recursos/MENTEMONEDA_RESUMEN_EJECUTIVO.md
@@ -15,7 +15,7 @@ resumen: >
   embargo debería poder encontrarse; no tiene keywords ni metadata.
 ---
 
-Es el mito de origen de la obra (la escena del Jetta blanco). Convierte la
+Es el mito de origen de la obra (la escena del auto blanco). Convierte la
 [[frutos-unicos-singularidad-irreproducible|singularidad de lo vivido]] en un
 problema de búsqueda, y anticipa la tensión de
 [[templates-universales-vs-singularidad]] (si lo sentido es único, ¿cómo se
