@@ -10,6 +10,11 @@
 > fuerza retórica de la metáfora de la moneda haga pasar una analogía por una
 > demostración. Deriva de las unidades extraídas en `extraccion-ideas/`; al final
 > se mapea cada tramo con su unidad de origen.
+>
+> **Versión:** v2 — 2026-10-20. Integra los resultados de los caminos A
+> (`A-bisagra-inferencia-activa-buen-regulador.md`) y E
+> (`E-prueba-de-la-metafora-y-del-marco.md`). El título conserva la metáfora de
+> la moneda; su estatuto queda precisado en §5.
 
 ---
 
@@ -17,13 +22,20 @@
 
 > **El conocimiento se comporta como una moneda —tiene valor solo en la
 > circulación— porque contener el conocimiento completo de un sistema dentro de
-> uno de sus nodos es imposible por dos razones convergentes: una física
-> (termodinámica/metabólica) y otra estructural (lógico-cibernética). La
-> incompletud no es una carencia: es la condición que obliga a la distribución.**
+> uno de sus nodos es imposible: un sistema finito no puede alojar una
+> representación fiel del todo que lo incluye. La finitud la paga la termodinámica
+> (L2); la imposibilidad la garantiza el conteo (L1a). La incompletud no es una
+> carencia: es la condición que obliga a la distribución.**
 
 El resto del documento sostiene esta frase por pisos, del cerebro individual
 (micro) a la red relacional (macro), y expone con honestidad dónde el argumento
 demuestra y dónde solo ilumina por analogía.
+
+La metáfora monetaria no es una identidad ontológica. Es una herramienta
+expositiva que conserva su valor donde describe **patologías de la circulación**
+—atesoramiento, concentración, bloqueo del flujo— y lo pierde donde la
+fungibilidad del dinero contradice la singularidad irreproducible de cada
+perspectiva (§5).
 
 ---
 
@@ -58,12 +70,48 @@ y ese costo es finito.**
 
 ---
 
-## 2. Piso estructural — el límite del auto-modelado (DEMOSTRABLE, con una costura)
+## 2. Piso estructural — el límite del auto-modelado (DEMOSTRABLE EN SU NÚCLEO, con dos tesis)
 
-**Afirmación:** ningún sistema suficientemente rico puede contener un modelo
-completo de sí mismo. Esto no depende de la biología: es un límite formal.
+**Afirmación:** ningún sistema finito y suficientemente rico puede contener un
+modelo completo y fiel de sí mismo. La forma más robusta de este límite no
+depende de Gödel, del regreso auto-inclusivo ni del principio de energía libre:
+se sigue de la variedad requerida más un argumento de conteo.
 
-Cuatro resultados convergen, y conviene separar lo que cada uno demuestra:
+### 2.1 La ruta robusta: variedad y finitud (L1a)
+
+**Paso 1 — Persistir exige regular (Ashby, 1956).** Para mantener sus variables
+esenciales dentro de rango frente a las perturbaciones de aquello de lo que
+depende, un sistema necesita al menos tanta variedad como la que debe absorber:
+`V(regulador) ≥ V(perturbación)` para anular la variación. Solo la variedad
+absorbe variedad. *Estatuto: demostrable (teoría de control).*
+
+**Paso 2 — El caso auto-inclusivo.** En un sistema que actúa y planifica, las
+causas que debe regular **lo incluyen a él**: sus propios estados y acciones son
+parte de aquello que debe anticipar. Un modelo *completo* de ese todo tendría que
+ser una parte propia —el modelo vive dentro del sistema— con variedad mayor o
+igual que la del todo, incluida la del propio modelo. *Estatuto: tesis motivada;
+acota el alcance a sistemas agentes auto-modeladores (cerebros, colectivos que se
+representan). No vale para «cualquier sistema»: eso es honestidad, no debilidad.*
+
+**Paso 3 — La imposibilidad, por conteo.** Para un sistema **finito**, una parte
+propia tiene estrictamente menos estados distinguibles que el todo. No hay
+representación *fiel e inyectiva* del todo en la parte; luego el auto-modelo
+completo es imposible. *Estatuto: demostrable para el caso finito.*
+
+> **La finitud no es gratis: la paga L2.** Un sistema *infinito* podría poner una
+> parte propia en biyección con el todo (Dedekind) y el conteo no mordería. ¿Qué
+> garantiza que un cerebro sea finito? El **presupuesto de energía libre finito
+> (L2)**: energía finita ⇒ número finito de estados físicamente distinguibles ⇒
+> el casillero aplica. *Estatuto: tesis-refinamiento (candidata fuerte), no
+> teorema.* Por eso **L2 no es una obstrucción *aparte* de L1a: es su premisa.**
+> Sin termodinámica, la obstrucción de conteo ni siquiera arranca.
+
+### 2.2 Las convergencias (no los pilares)
+
+Cuatro resultados clásicos convergen con esta ruta. Uno de ellos —Ashby— es
+además la pieza portante del Paso 1; los otros tres se citan como corroboración y
+con su dominio propio. Ninguno es, por sí solo, la bisagra que el documento usaba
+antes:
 
 1. **Gödel (1931):** todo sistema formal consistente y suficientemente potente
    contiene enunciados verdaderos que no puede demostrar, y no puede demostrar su
@@ -74,29 +122,38 @@ Cuatro resultados convergen, y conviene separar lo que cada uno demuestra:
    la computación.*
 3. **Ashby (1956) — Ley de la variedad requerida:** un regulador solo puede
    controlar la variedad de un sistema si dispone de al menos esa misma variedad.
-   Un observador que representara *por completo* al sistema del que forma parte
-   necesitaría la complejidad del sistema entero —incluida la de su propia
-   representación—, y la brecha reaparece. *Demostrado, en teoría de control.*
+   *Demostrado, en teoría de control.* Es la pieza que sostiene el Paso 1.
 4. **Conant & Ashby (1970) — "Todo buen regulador de un sistema debe ser un
-   modelo de ese sistema":** el regulador óptimo es (isomorfo a) un modelo del
-   sistema regulado. Aplicado a la **auto**-regulación, el sistema tendría que
-   contener un modelo de sí mismo *que incluyera ese mismo modelo* → regreso al
-   infinito con recursos finitos. Es la bisagra formal más limpia entre "control"
-   y "auto-conocimiento imposible".
+   modelo de ese sistema":** la prueba garantiza que *algunos* reguladores óptimos
+   son modelos, y que el modelo es un **homomorfismo con pérdida** del sistema
+   *externo* regulado. No garantiza que *todo* buen regulador lo sea ni que el
+   sistema se modele a sí mismo. Se usa solo en esa forma débil, que converge con
+   el Paso 3: lo forzado es un modelo **parcial**.
 
 A ello se suma la clausura operacional de Maturana & Varela (1980): los sistemas
 vivos se conservan por organización recursiva, no por transparencia sobre sí
 mismos.
 
-**La costura honesta:** Gödel y Turing hablan de *sistemas formales y máquinas*;
-Ashby y Conant-Ashby, de *reguladores*. Extender estos resultados a *un cerebro*
-o a *una sociedad* no es un corolario automático: es una **tesis** que hay que
-sostener (el cerebro como sistema de control auto-referente; la sociedad como
-red de reguladores parciales). El argumento es fuerte y bien motivado, pero es un
-argumento, no un teorema transportado. Marcarlo así *es* el rigor.
+### 2.3 La costura honesta
+
+Gödel y Turing hablan de *sistemas formales y máquinas*; Ashby y Conant-Ashby,
+de *reguladores*. Extender estos resultados a *un cerebro* o a *una sociedad* no
+es un corolario automático: es una **tesis**. Lo que sí queda demostrado es el
+núcleo de conteo para un sistema finito; lo que queda como tesis es (a) que el
+agente deba regular un todo que lo incluye (Paso 2) y (b) que L2 garantice la
+finitud que el conteo necesita.
+
+- **Se demuestra:** la variedad requerida (Ashby) y la imposibilidad de una
+  representación fiel del todo en una parte finita (conteo).
+- **Queda como tesis:** la auto-inclusión regulatoria (Paso 2) y el refinamiento
+  L2 ⇒ finitud.
+- **Lo falsificaría:** exhibir un agente finito que se auto-modele completa y
+  fielmente, o desacoplar la persistencia de toda regulación de lo que incluye al
+  agente.
 
 > Unidades de origen: `unidades/incompletud-necesaria`,
-> `topologia-forma-de-la-relacion`, `patrones-de-autorregulacion`.
+> `patrones-de-autorregulacion`, `topologia-forma-de-la-relacion`,
+> `entropia-como-variable-relacional`.
 
 ---
 
@@ -104,42 +161,68 @@ argumento, no un teorema transportado. Marcarlo así *es* el rigor.
 
 Aquí las dos obras se sueldan, y es el tramo con mayor pretensión de originalidad
 del documento. Los pisos §1 y §2 describen dos obstrucciones al mismo objeto —un
-modelo interno *completo* de S dentro de S— pero con recursos distintos:
+modelo interno *completo* de S dentro de S—: una estructural (L1, en dos
+formulaciones) y otra termodinámica (L2).
 
-- **L1, lógico-estructural (§2):** el modelo completo exige un *regreso infinito
-  de auto-inclusión* (el modelo debe modelarse a sí mismo, sin fin), más el límite
-  de variedad (una parte propia tiene menos variedad que el todo). Obstrucción
-  **topológica**: valdría incluso con energía infinita.
-- **L2, físico-termodinámico (§1):** el modelo completo exige recursos ilimitados,
-  pero el sistema tiene presupuesto de energía libre *finito*. Obstrucción **de
-  escasez**: valdría incluso sin paradoja de auto-referencia.
+- **L1a, lógico-estructural (conteo):** una parte propia de un sistema finito
+  tiene menos estados distinguibles que el todo; no puede contener una
+  representación fiel e inyectiva de él. Obstrucción **de tamaño**: no requiere
+  regreso ni auto-referencia.
+- **L1b, lógico-estructural (regreso):** el modelo completo exigiría un *regreso
+  infinito de auto-inclusión* (el modelo debe modelarse a sí mismo, sin fin).
+  Obstrucción **topológica**: valdría incluso con energía infinita, pero su
+  transporte a cerebros es una tesis más frágil.
+- **L2, físico-termodinámico (§1):** el modelo completo exige recursos
+  ilimitados, pero el sistema tiene presupuesto de energía libre *finito*.
+  Obstrucción **de escasez**; y, además, la premisa que hace finito al sistema y
+  habilita L1a.
 
-**El movimiento clave — no son paralelas, se componen.** L1 fija la *estructura*
-de la imposibilidad (un regreso de pasos de auto-inclusión); L2 fija el *precio
-por paso* (cada paso es representación física y cuesta energía). Su producto:
+**El movimiento clave — no son paralelas, se componen.** L1a fija la *estructura*
+de la imposibilidad (no cabe una copia fiel del todo en una parte finita); L2 fija
+el *precio* de representar y, sobre todo, garantiza la finitud que L1a necesita.
+La composición fuerte es:
 
-> estructura del regreso (L1) × precio por paso (L2) = **impagable.**
-> Un sistema de energía finita no puede siquiera *empezar* a saldar el regreso que
-> L1 describe.
+> finitud (L2) → conteo (L1a) → auto-modelo completo imposible.
+> Y el precio por paso (L2) vuelve impagable el regreso que L1b describe.
 
 **Imagen rectora:** *un mapa que es parte del territorio no puede ser un mapa
-completo de ese territorio.* L1 es su versión informacional (la entrada «el mapa»
-exige otra entrada → regreso); L2 es su versión termodinámica (dibujar el mapa
-completo *sobre* el territorio consume más territorio del que hay). La bisagra que
-une ambas caras es una sola idea: **representar es un acto a la vez auto-incluyente
-y físico** — su auto-inclusión genera el regreso; su fisicalidad lo vuelve
-impagable.
+completo de ese territorio.* L1a es el casillero (no cabe una copia fiel del todo
+en una parte finita); L1b es el mapa dentro del mapa (la copia exige otra copia);
+L2 es el costo de dibujar y, a la vez, lo que mantiene finito el tablero.
 
 **Por qué "sobredeterminada" no es adorno.** La conclusión resiste el fallo de
-cualquier premisa contestable: si se refutara la universalidad del principio de
-energía libre (que es debatido), L1 sigue prohibiendo el modelo completo; si se
-rechazara aplicar Gödel/Ashby a cerebros de carne, L2 (energía finita) sigue
-prohibiéndolo. Una tesis sostenida por dos obstrucciones independientes es mucho
-más difícil de tumbar que una que descansa en una sola premisa fuerte.
+cualquiera de sus dos rutas, pero no de las dos a la vez: si se rechaza la premisa
+termodinámica (L2), L1b sigue prohibiendo el modelo completo; si se rechaza el
+transporte de Gödel/Ashby a cerebros, L1a + L2 sigue prohibiéndolo. Lo que ya no
+se sostiene es presentar L1a y L2 como obstrucciones *independientes*: L2 es la
+premisa de L1a. La independencia real es entre la ruta de conteo (L1a + L2) y la
+ruta de regreso (L1b).
 
-**La derivación (de la imposibilidad a lo relacional):**
-1. **Imposibilidad → parcialidad.** El modelo de cada nodo es forzosamente
-   parcial: una compresión perspectiva. No es defecto: es la única opción viable.
+### 3.1 El motor: deber regular × no poder completar → perspectiva
+
+La fuerza no está en la imposibilidad sola —eso sería «otra prueba de
+incompletud»— sino en la **tensión entre deber y no poder**:
+
+- **Debe** regular lo que lo sostiene, o deja de existir (Paso 1). Modelar y
+  regular no es opcional: es la condición de persistir.
+- **No puede** completar el modelo del todo auto-inclusivo (Paso 3).
+
+**Deber regular + no poder completar = parcialidad forzada.** Y un modelo parcial
+de aquello que te incluye *es una compresión con punto de vista*: una
+**perspectiva**.
+
+> No hay «vista desde ningún lugar» no por decreto filosófico, sino porque el
+> único auto-modelo que un ser finito y auto-incluido puede sostener es parcial.
+> El perspectivismo, aquí, se *deriva* de una imposibilidad; no se postula.
+
+De aquí, la derivación que sigue arranca con su primer paso **ganado**, no
+supuesto.
+
+### 3.2 La derivación (de la imposibilidad a lo relacional)
+
+1. **Imposibilidad → parcialidad (ganada, no supuesta).** El modelo de cada nodo
+   es forzosamente parcial: una compresión perspectiva. No es defecto: es la
+   única opción viable.
 2. **Parcialidad → complementariedad.** Historias distintas de minimización de
    energía libre esculpen modelos distintos (los *frutos únicos*); cada nodo capta
    lo que otros omiten.
@@ -154,10 +237,14 @@ más difícil de tumbar que una que descansa en una sola premisa fuerte.
    almacena entero y solo existe circulando *se comporta* como dinero. Ilumina, no
    demuestra.
 
-**Las cuatro costuras del nudo (lo que falta saldar):**
-- **C1 — L1 → cerebro:** que un sistema de inferencia activa *instancie* la
-  condición del buen regulador (Conant-Ashby) es promesa, no teorema. Sin esto, la
-  composición L1×L2 no está garantizada para cerebros. → **Camino A.**
+### 3.3 Las cuatro costuras del nudo (lo que falta saldar)
+
+- **C1 — L1a → cerebro (acotada, verificada y explícita):** la ruta de conteo no
+  necesita el teorema del buen regulador ni el FEP. Lo que queda abierto es (a) el
+  **Paso 2** —justificar que un agente deba regular un todo que lo incluye— y
+  (b) el refinamiento **L2 ⇒ finitud**. El teorema del buen regulador queda como
+  corroboración débil (homomorfismo con pérdida sobre el sistema externo); el FEP,
+  como modelo biológico plausible de L2, contestado en su alcance. → **Camino A.**
 - **C2 — cobertura:** el paso 3 asume que el conjunto de nodos *cubre* el todo; la
   unión de puntos ciegos podría dejar un punto ciego global. Falta mostrar que
   distribuir *mejora* la cobertura, no solo que es forzoso. → **Camino D.**
@@ -165,13 +252,17 @@ más difícil de tumbar que una que descansa en una sola premisa fuerte.
   de *un* cerebro a una red *social* de cerebros; son argumentos distintos y el
   salto debe hacerse explícito, no por juego de palabras con «sistema». →
   **Camino H.**
-- **C4 — no sobre-reclamar identidad:** «la misma pared» es la *composición*
-  (regreso × costo), no una identidad metafísica profunda entre lógica y
-  termodinámica.
+- **C4 — no sobre-reclamar identidad:** la composición (conteo × costo) no es una
+  identidad metafísica profunda entre lógica y termodinámica. L1b queda como
+  formulación de respaldo, no como segunda prueba independiente.
 
 **Estatuto:** *síntesis argumentada, con núcleo robusto y perímetro por demostrar.*
-Robusto: la sobredeterminación y la composición L1×L2. Por demostrar: las costuras
-C1–C3.
+Robusto: la ruta L1a + L2 y la sobredeterminación con L1b. Por demostrar: el Paso
+2, el refinamiento L2 ⇒ finitud y las costuras C2–C3. C1 queda acotada.
+
+> Unidades de origen: `unidades/incompletud-necesaria`,
+> `patrones-de-autorregulacion`, `entropia-como-variable-relacional`,
+> `perspectividad-dinamica`.
 
 ---
 
