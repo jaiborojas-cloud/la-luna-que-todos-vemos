@@ -4,7 +4,7 @@ estado: maduro
 fuente: obra (La Luna Que Todos Vemos)
 primera_aparicion: capitulos/capitulo_06_la_paternidad_como_legado.md
 apariciones:
-  - capitulos/capitulo_00_el_jetta_blanco.md
+  - capitulos/capitulo_00_el_auto_blanco.md
   - capitulos/capitulo_04_la_moneda_adecuada.md
   - capitulos/capitulo_06_la_paternidad_como_legado.md
   - capitulos/capitulo_07_el_andar.md

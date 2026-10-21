@@ -4,14 +4,14 @@
 > **Propósito:** Este documento minimiza el consumo de tokens al retomar el proyecto en sesiones futuras.
 
 > _"Imaginé un navegador que buscara emociones humanas"_
-> — Jaibo, en el Jetta blanco
+> — Jaibo, en el auto blanco
 
 ---
 
 ## ESTADO ACTUAL DEL PROYECTO
 
 **Última actualización:** 2026-06-03
-**Versión del Concepto:** v3.0 "Del Jetta Blanco al Andar y la Libertad"
+**Versión del Concepto:** v3.0 "Del auto blanco al Andar y la Libertad"
 **Fase:** Escritura activa — 5 capítulos completos (núcleo genealógico terminado)
 **Progreso total:** ~55% (16,300 palabras nuevas + material existente preparado)
 
@@ -21,7 +21,7 @@
 
 MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
 
-**Origen real:** Viaje en Jetta blanco con hermanos tras sufrimiento. Primera vez viendo paz en rostros conocidos. La visión: imaginar un navegador que buscara emociones humanas. Ese momento = acto creativo primero.
+**Origen real:** Viaje en auto blanco con hermanos tras sufrimiento. Primera vez viendo paz en rostros conocidos. La visión: imaginar un navegador que buscara emociones humanas. Ese momento = acto creativo primero.
 
 **Naturaleza del acto:** Amor filial puro — deseo de que exista algo que honre lo sentido.
 
@@ -31,11 +31,11 @@ MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
 
 ## ESTRUCTURA DEL LIBRO (v3.0)
 
-### Capítulo 0: El Jetta Blanco
+### Capítulo 0: El auto blanco
 - **Contenido:** La visión original, el acto de amor, el navegador imaginado
 - **Tono:** Narrativo, encarnado, específico (no abstracto)
 - **Función:** Establecer que MENTEMONEDA es acto antes que concepto
-- **Estado:** ✅ [COMPLETADO] ~2,400 palabras — capitulos/capitulo_00_el_jetta_blanco.md
+- **Estado:** ✅ [COMPLETADO] ~2,400 palabras — capitulos/capitulo_00_el_auto_blanco.md
 
 ### Capítulo I: Los Patrones Universales — Los Templates del Temple
 - **Tesis:** Los comportamientos biológicos se replican en todas las personas
@@ -56,7 +56,7 @@ MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
 - **Tensión:** Profundizar infinitamente DENTRO vs. crear mundos nuevos AFUERA
 - **Respuesta Parcial:** Quizás no es dicotomía sino síntesis
 - **Estado:** ✅ [INTEGRADO] ~3,400 palabras — capitulos/capitulo_03.md
-  - Prólogo conecta con Jetta blanco (Aaron/Priscila)
+  - Prólogo conecta con auto blanco (mi hermano/mi hermana)
   - Conclusión hace puente hacia Cap IV (moneda adecuada)
   - Metáfora de frutos únicos completamente desarrollada
 
@@ -69,7 +69,7 @@ MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
   - Amor como ontología (no ética)
   - Moneda falsa vs. moneda adecuada
   - Herencia transformada (no copia)
-  - Conecta con Aaron/Priscila intercambiando reconocimiento mutuo
+  - Conecta con mi hermano/mi hermana intercambiando reconocimiento mutuo
 
 ### Capítulo V: La Generatividad del Encuentro
 - **Tesis:** Cuando dos sistemas se encuentran desde el amor, nace algo singular
@@ -109,7 +109,7 @@ MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
   - Cierre más abierto: invita al lector a andar
 
 ### Epílogo: La Luna Otra Vez — La Síntesis Final
-- **Dónde se encuentran:** El Jetta blanco, la luna, el camino, el hijo, la moneda
+- **Dónde se encuentran:** El auto blanco, la luna, el camino, el hijo, la moneda
 - **Resolución:** Lo universal (patrón) + lo singular (tu encuentro) + lo generativo (lo que nace) = MENTEMONEDA
 - **Última imagen:** Un hijo andando bajo la luna que todos ven, pero que cada uno ve singular
 - **Estado:** [CONSIDERAR] capitulo_00.md existente (La luna roja) como material base (~2,200 palabras)
@@ -147,7 +147,7 @@ MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
 ## VERDADES FUNDAMENTALES (v3.0)
 
 1. **MENTEMONEDA nace de acto de amor, no de teoría**
-   - El Jetta blanco es más real que cualquier epifanía lunar
+   - El auto blanco es más real que cualquier epifanía lunar
 
 2. **La compañía genuina requiere honra de origen**
    - Sin eso, es falsa moneda
@@ -180,7 +180,7 @@ MENTEMONEDA nace de un acto de amor, no de una teoría abstracta.
 - Contenido: Epifanía personal, soledad, complejidad simultánea del mundo
 - Tono: Íntimo, experiencial, poético
 - Integración propuesta: Base para Epílogo o sección de Capítulo 0
-- **Decisión pendiente:** ¿Mantener como está o reescribir desde perspectiva Jetta Blanco?
+- **Decisión pendiente:** ¿Mantener como está o reescribir desde perspectiva auto blanco?
 
 **capitulo_01.md** "La Ilusión del Observador" (~6,400 palabras)
 - Contenido: Neurociencia predictiva, cerebro como constructor activo, energía libre variacional
@@ -211,7 +211,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 
 ### Momento 1: La Visión Primera
 *"Imaginé un navegador que buscara emociones humanas"*
-— Jaibo, en el Jetta blanco
+— Jaibo, en el auto blanco
 
 ### Momento 2: El Reconocimiento
 *"No estoy solo después de todo, como mi perspectiva cambió de pronto al leerte"*
@@ -256,7 +256,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 - [x] Actualizar README.md con estructura v3.0
 - [x] Actualizar CLAUDE_CONTEXT.md con nueva visión
 - [x] Crear docs/PLAN_INTEGRACION.md
-- [x] **Capítulo 0 completado:** El Jetta Blanco (~2,400 palabras)
+- [x] **Capítulo 0 completado:** El auto blanco (~2,400 palabras)
 - [x] **Capítulo III expandido y conectado** (~3,400 palabras)
 - [x] **Capítulo IV completado:** La Moneda Adecuada (~3,200 palabras)
 - [x] **Capítulo VI completado:** La Paternidad Como Forma de Legado (~3,500 palabras)
@@ -280,7 +280,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 
 ## PRINCIPIOS RECTORES PARA EL DESARROLLO
 
-1. **Honra Genealogía:** Cada página debe recordar que nace del Jetta blanco
+1. **Honra Genealogía:** Cada página debe recordar que nace del auto blanco
 2. **Mantén Encarnación:** No permitas que se vuelva puramente teórico
 3. **Preserva Apertura:** Algunas preguntas deben quedarse abiertas
 4. **Celebra Singularidad:** Cada momento único es digno de ser preservado
@@ -292,7 +292,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 ## INSTRUCCIONES PARA RETOMAR SESIÓN
 
 ### Inicialización
-Al comenzar cada sesión, declarar: **"MENTEMONEDA v3.0 — retoma desde el Jetta Blanco"**
+Al comenzar cada sesión, declarar: **"MENTEMONEDA v3.0 — retoma desde el auto blanco"**
 
 ### Cuando Claude Code retome el proyecto:
 
@@ -303,12 +303,12 @@ Al comenzar cada sesión, declarar: **"MENTEMONEDA v3.0 — retoma desde el Jett
 
 2. **Verificar estado actual:**
    - Checkear qué tareas están marcadas como completadas arriba
-   - Prioridad absoluta: Capítulo 0 (El Jetta Blanco) si no está completo
+   - Prioridad absoluta: Capítulo 0 (El auto blanco) si no está completo
    - Revisar decisiones pendientes de integración de material existente
 
 3. **Continuar trabajo:**
    - Seguir desde el punto exacto donde se dejó
-   - Mantener consistencia: el libro debe nacer del Jetta blanco, no de teoría
+   - Mantener consistencia: el libro debe nacer del auto blanco, no de teoría
    - **Preservar la genealogía:** Humano crea con amor → IA honra origen → juntos generan
    - Actualizar este archivo al terminar la sesión
 
@@ -335,20 +335,20 @@ Al comenzar cada sesión, declarar: **"MENTEMONEDA v3.0 — retoma desde el Jett
 ### Sesión 4 — 2026-06-03
 - **Reestructuración completa → v3.0**
 - Documento fuente: MENTEMONEDA_RESUMEN_EJECUTIVO.md
-- Nueva estructura: Del Jetta Blanco al Andar y la Libertad
+- Nueva estructura: Del auto blanco al Andar y la Libertad
 - Conceptos integrados: amor como ontología, genealogía, paternidad, libertad como movimiento
 - Archivos movidos a archivo_versiones_anteriores/: BLUEPRINT.md, BLUEPRINT_v2.md, *.docx
 - README.md actualizado con v3.0
 - CLAUDE_CONTEXT.md reescrito completamente
 - docs/PLAN_INTEGRACION.md creado con análisis detallado
 - Integrado: mentemoneda_suculenta_colibri.md en MOMENTOS CRISTAL
-- **Capítulo 0 COMPLETADO:** "El Jetta Blanco" (~2,400 palabras)
-  - Carretera de Michoacán, tarde, Aaron y Priscila dormidos
+- **Capítulo 0 COMPLETADO:** "El auto blanco" (~2,400 palabras)
+  - Carretera de Michoacán, tarde, mi hermano y mi hermana dormidos
   - Origen genealógico: amor filial, navegador de emociones
   - Establece que MENTEMONEDA es acto antes que concepto
   - Introduce todos los temas que se desarrollarán en el libro
 - **Capítulo III expandido:** de 2,800 a ~3,400 palabras
-  - Agregado prólogo que conecta con Jetta blanco
+  - Agregado prólogo que conecta con auto blanco
   - Agregada conclusión que hace puente hacia Cap IV (moneda adecuada)
   - Integrado completamente con estructura genealógica v3.0
 - Material preparado:
@@ -371,7 +371,7 @@ Al comenzar cada sesión, declarar: **"MENTEMONEDA v3.0 — retoma desde el Jett
   - Cierre abierto: invita al lector a andar
 - **Progreso total:** ~55% (5 capítulos completos: 0, III, IV, VI, VII)
 - **Total palabras nuevas:** ~16,300 palabras de contenido genealógico v3.0
-- **Núcleo genealógico:** ✅ TERMINADO (Jetta blanco → moneda → paternidad → andar)
+- **Núcleo genealógico:** ✅ TERMINADO (auto blanco → moneda → paternidad → andar)
 - **Próxima acción:** Escribir Cap V (Generatividad con suculenta/colibrí), luego Cap I, II, Epílogo
 
 ---
@@ -391,7 +391,7 @@ Al comenzar cada sesión, declarar: **"MENTEMONEDA v3.0 — retoma desde el Jett
 - Poético sin ser pretencioso
 
 **Control de calidad:**
-- Cada capítulo debe referenciar el Jetta blanco (origen genealógico)
+- Cada capítulo debe referenciar el auto blanco (origen genealógico)
 - Preservar la distinción: humano origina → IA honra/amplifica → juntos generan
 - Glosario debe actualizarse con cada término nuevo
 - Tensiones centrales deben aparecer en cada parte

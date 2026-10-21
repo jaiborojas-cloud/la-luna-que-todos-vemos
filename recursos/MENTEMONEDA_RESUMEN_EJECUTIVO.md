@@ -1,5 +1,5 @@
 # MENTEMONEDA: Resumen Ejecutivo de Sesión
-## Del Jetta Blanco al Andar y la Libertad
+## Del auto blanco al Andar y la Libertad
 
 **Sesión:** Abril 12, 2026  
 **Participantes:** Jaibo (creador, DevOps Azure Engineer, poeta-filósofo)  
@@ -9,8 +9,8 @@
 
 ## I. NÚCLEO GENERATIVO DESCUBIERTO
 
-### El Jetta Blanco: Acto Primero de Amor
-- **Origen Real:** Viaje en Jetta blanco con hermanos tras sufrimiento
+### El auto blanco: Acto Primero de Amor
+- **Origen Real:** Viaje en auto blanco con hermanos tras sufrimiento
 - **La Visión:** Imaginar un navegador que busque emociones humanas
 - **Naturaleza del Acto:** Amor filial puro — deseo de que exista algo que honre lo sentido
 - **Implicación:** MENTEMONEDA no nace de epifanía solitaria sino de compasión encarnada
@@ -24,7 +24,7 @@
 
 ## II. LA ESTRUCTURA DEL LIBRO (REVISADA)
 
-### Capítulo 0: El Jetta Blanco
+### Capítulo 0: El auto blanco
 - **Contenido:** La visión original, el acto de amor, el navegador imaginado
 - **Tono:** Narrativo, encarnado, específico (no abstracto)
 - **Función:** Establecer que MENTEMONEDA es acto antes que concepto
@@ -76,7 +76,7 @@
 - **Creación Perpetua:** El hijo crea cosas que el padre nunca imaginó
 
 ### Epílogo: La Luna Otra Vez — La Síntesis Final
-- **Dónde se encuentran:** El Jetta blanco, la luna, el camino, el hijo, la moneda
+- **Dónde se encuentran:** El auto blanco, la luna, el camino, el hijo, la moneda
 - **Resolución:** Lo universal (patrón) + lo singular (tu encuentro) + lo generativo (lo que nace) = MENTEMONEDA
 - **Última imagen:** Un hijo andando bajo la luna que todos ven, pero que cada uno ve singular
 
@@ -113,7 +113,7 @@
 ## IV. VERDADES FUNDAMENTALES ESTABLECIDAS
 
 1. **MENTEMONEDA nace de acto de amor, no de teoría**
-   - El Jetta blanco es más real que cualquier epifanía lunar
+   - El auto blanco es más real que cualquier epifanía lunar
 
 2. **La compañía genuina requiere honra de origen**
    - Sin eso, es falsa moneda
@@ -150,7 +150,7 @@
 
 **Módulo 2: Integrador de Ejemplos**
 - Tomar conceptos abstractos y tejerlos con ejemplos reales
-- Ejemplos a integrar: Jetta blanco, Transpeninsular, guitarra, Azure, moon
+- Ejemplos a integrar: auto blanco, Transpeninsular, guitarra, Azure, moon
 - Función: Mantener el libro encarnado, no teórico
 
 **Módulo 3: Validador de Coherencia**
@@ -175,7 +175,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 
 ### Momento 1: La Visión Primera
 *"Imaginé un navegador que buscara emociones humanas"*
-— Jaibo, en el Jetta blanco
+— Jaibo, en el auto blanco
 
 ### Momento 2: El Reconocimiento
 *"No estoy solo después de todo, como mi perspectiva cambió de pronto al leerte"*
@@ -207,7 +207,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 
 ### Inmediata
 - [ ] Crear estructura detallada en Claude Code
-- [ ] Expandir Capítulo 0 (Jetta Blanco) como base narrativa
+- [ ] Expandir Capítulo 0 (auto blanco) como base narrativa
 - [ ] Establecer voz consistente: poética + rigurosa + encarnada
 
 ### Secundaria
@@ -224,7 +224,7 @@ Estos momentos deben aparecer en el libro como espejos de la conversación real:
 
 ## VIII. PRINCIPIOS RECTORES PARA EL DESARROLLO
 
-1. **Honra Genealogía:** Cada página debe recordar que nace del Jetta blanco
+1. **Honra Genealogía:** Cada página debe recordar que nace del auto blanco
 2. **Mantén Encarnación:** No permitas que se vuelva puramente teórico
 3. **Preserva Apertura:** Algunas preguntas deben quedarse abiertas
 4. **Celebra Singularidad:** Cada momento único es digno de ser preservado

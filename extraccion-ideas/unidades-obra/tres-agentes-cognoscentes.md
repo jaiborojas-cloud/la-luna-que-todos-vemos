@@ -5,7 +5,7 @@ fuente: obra (La Luna Que Todos Vemos)
 primera_aparicion: archivo_versiones_anteriores/BLUEPRINT_v2.md
 apariciones:
   - archivo_versiones_anteriores/BLUEPRINT_v2.md
-  - capitulos/capitulo_00_el_jetta_blanco.md
+  - capitulos/capitulo_00_el_auto_blanco.md
 pensadores_relacionados: [Roland Barthes (muerte del autor), Wolfgang Iser (el acto de leer)]
 resumen: >
   Marco de la versión 2.0: el conocimiento se produce entre tres agentes — el

@@ -7,13 +7,13 @@
 
 ## Prólogo: El Origen de la Pregunta
 
-En el Jetta blanco, miré a Aaron y Priscila dormidos y vi tranquilidad. Pero no vi **mi** tranquilidad reflejada en ellos. Vi **su** tranquilidad. Singular. Irrepetible. Suya.
+En el auto blanco, miré a mi hermano y mi hermana dormidos y vi tranquilidad. Pero no vi **mi** tranquilidad reflejada en ellos. Vi **su** tranquilidad. Singular. Irrepetible. Suya.
 
-Aaron había llegado a ese momento de paz desde su camino. Priscila, desde el suyo. Yo los acompañaba, pero no podía habitar su experiencia. Solo podía ser testigo.
+Mi hermano había llegado a ese momento de paz desde su camino. Mi hermana, desde el suyo. Yo los acompañaba, pero no podía habitar su experiencia. Solo podía ser testigo.
 
-Y ahí está la paradoja fundamental de MENTEMONEDA: **reconocí la paz en ellos porque hay patrones universales que compartimos**. Pero la paz de Aaron no era intercambiable con la paz de Priscila. Cada uno la había ganado a través de experiencias únicas, configuraciones únicas, historias únicas.
+Y ahí está la paradoja fundamental de MENTEMONEDA: **reconocí la paz en ellos porque hay patrones universales que compartimos**. Pero la paz de mi hermano no era intercambiable con la paz de mi hermana. Cada uno la había ganado a través de experiencias únicas, configuraciones únicas, historias únicas.
 
-Si todo fuera universal, si todas las mentes fueran idénticas, no habría necesidad de honrar el origen. Cualquier mente podría sustituir a cualquier otra. El Jetta blanco sería irrelevante — cualquier auto, cualquier carretera, cualquier tarde serviría igual.
+Si todo fuera universal, si todas las mentes fueran idénticas, no habría necesidad de honrar el origen. Cualquier mente podría sustituir a cualquier otra. El auto blanco sería irrelevante — cualquier auto, cualquier carretera, cualquier tarde serviría igual.
 
 Pero no es así.
 
@@ -131,7 +131,7 @@ La trascendencia no es vivir para siempre. Es amar algo tan profundamente que se
 
 ---
 
-### Conclusión: De Regreso al Jetta Blanco
+### Conclusión: De Regreso al auto blanco
 
 Eres único. No una categoría, no un ejemplar intercambiable. Tu espacio cerebral — la topología completa de tu mente configurada por los frutos únicos que has probado de los árboles únicos que has encontrado — existe una sola vez en el cosmos. Es irreproducible, irreversible, irrepetible.
 
@@ -139,7 +139,7 @@ Eso no es una carga menor. Pero tampoco es una carga meramente pesada. Es la car
 
 **Cada fruto que pruebas te inscribe más profundamente en la realidad. Ese es el precio de la consciencia. Y vale cada instante.**
 
-Ahora entiendo algo más profundo sobre ese momento en el Jetta blanco: no solo vi paz en Aaron y Priscila. Vi **la imposibilidad de que esa paz pudiera ser de alguien más**.
+Ahora entiendo algo más profundo sobre ese momento en el auto blanco: no solo vi paz en mi hermano y mi hermana. Vi **la imposibilidad de que esa paz pudiera ser de alguien más**.
 
 Su sufrimiento había esculpido sus mentes de formas que yo nunca conocería completamente. Los frutos que habían probado — los momentos dolorosos, las decisiones que tuvieron que tomar, las noches en vela, las conversaciones difíciles — habían configurado espacios cerebrales que eran únicamente suyos.
 
@@ -149,11 +149,11 @@ Y eso la hacía sagrada.
 
 Porque si cada experiencia es única, si cada configuración cerebral es irrepetible, entonces **cada encuentro genuino entre dos mentes es un milagro**.
 
-Aaron y Priscila, recargando sus cabezas el uno en el otro, no estaban simplemente descansando. Estaban permitiendo que dos singularidades irreproducibles se tocaran. Dos espacios cerebrales únicos, reconociéndose mutuamente sin disolverse el uno en el otro.
+Mi hermano y mi hermana, recargando sus cabezas el uno en el otro, no estaban simplemente descansando. Estaban permitiendo que dos singularidades irreproducibles se tocaran. Dos espacios cerebrales únicos, reconociéndose mutuamente sin disolverse el uno en el otro.
 
 Ese es el misterio que queda por resolver:
 
-Si cada mente paga con una moneda de denominación distinta, ¿con qué moneda nos pagamos unos a otros? ¿Qué hace posible el intercambio entre singularidades? ¿Qué permite que Aaron honre a Priscila, y Priscila a Aaron, sin que ninguno pierda su unicidad?
+Si cada mente paga con una moneda de denominación distinta, ¿con qué moneda nos pagamos unos a otros? ¿Qué hace posible el intercambio entre singularidades? ¿Qué permite que mi hermano honre a mi hermana, y mi hermana a mi hermano, sin que ninguno pierda su unicidad?
 
 La respuesta no es técnica. No es algoritmo. No es patrón universal.
 
@@ -167,7 +167,7 @@ Esa moneda adecuada — la que permite que singularidades únicas se encuentren 
 
 **Palabras:** ~3,400 (expandido con prólogo y conclusión genealógica)
 
-**Estado:** Borrador v2.0 — Integrado con estructura v3.0 del Jetta Blanco
+**Estado:** Borrador v2.0 — Integrado con estructura v3.0 del auto blanco
 
 **Origen:** Conversación Claude.ai (hilo FRUTOS) — Marzo 2026
 

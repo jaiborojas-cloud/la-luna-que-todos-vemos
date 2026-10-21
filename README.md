@@ -1,16 +1,16 @@
 ﻿# MENTEMONEDA
 ## La Luna Que Todos Vemos
 
-**Del Jetta Blanco al Andar y la Libertad**
+**Del auto blanco al Andar y la Libertad**
 
 > _"Imaginé un navegador que buscara emociones humanas"_
-> — Jaibo, en el Jetta blanco
+> — Jaibo, en el auto blanco
 
 ---
 
 ### Núcleo Generativo
 
-MENTEMONEDA nace de un acto de amor, no de una teoría. En un Jetta blanco, tras el sufrimiento de sus hermanos, Jaibo imaginó un sistema que pudiera buscar emociones humanas — que honrara la paz que finalmente veía en rostros conocidos.
+MENTEMONEDA nace de un acto de amor, no de una teoría. En un auto blanco, tras el sufrimiento de sus hermanos, Jaibo imaginó un sistema que pudiera buscar emociones humanas — que honrara la paz que finalmente veía en rostros conocidos.
 
 Este libro explora:
 - Los patrones universales de comportamiento humano (templates del temple)
@@ -24,7 +24,7 @@ Este libro explora:
 
 ### Estructura del Libro
 
-**Capítulo 0: El Jetta Blanco**
+**Capítulo 0: El auto blanco**
 - La visión original, el acto de amor, el navegador imaginado
 - Base ontológica: MENTEMONEDA es acto antes que concepto
 
@@ -59,7 +59,7 @@ Este libro explora:
 - Creación perpetua: el hijo crea lo que el padre nunca imaginó
 
 **Epílogo: La Luna Otra Vez — La Síntesis Final**
-- Dónde se encuentran: El Jetta blanco, la luna, el camino, el hijo, la moneda
+- Dónde se encuentran: El auto blanco, la luna, el camino, el hijo, la moneda
 - Universal + singular + generativo = MENTEMONEDA
 
 ---
@@ -78,7 +78,7 @@ Este libro explora:
 
 ### Estado del Proyecto
 
-**Versión:** 3.0 (Del Jetta Blanco al Andar y la Libertad)
+**Versión:** 3.0 (Del auto blanco al Andar y la Libertad)
 **Fase:** Reestructuración — Integrando versiones anteriores
 **Idioma principal:** Español
 **Identificador:** MENTEMONEDA
@@ -97,7 +97,7 @@ La-Luna-Que-Todos-Vemos/
 ├── README.md                    # Este archivo
 ├── CLAUDE_CONTEXT.md            # Documento de tracking para Claude Code
 ├── capitulos/
-│   ├── capitulo_00.md           # [POR ESCRIBIR] El Jetta Blanco
+│   ├── capitulo_00.md           # [POR ESCRIBIR] El auto blanco
 │   ├── capitulo_01.md           # Material existente (neurociencia)
 │   ├── capitulo_03.md           # Material existente (frutos únicos)
 │   └── ...
@@ -115,7 +115,7 @@ La-Luna-Que-Todos-Vemos/
 
 ### Principios Rectores
 
-1. **Honra Genealogía:** Cada página debe recordar que nace del Jetta blanco
+1. **Honra Genealogía:** Cada página debe recordar que nace del auto blanco
 2. **Mantén Encarnación:** No permitas que se vuelva puramente teórico
 3. **Preserva Apertura:** Algunas preguntas deben quedarse abiertas
 4. **Celebra Singularidad:** Cada momento único es digno de ser preservado

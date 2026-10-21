@@ -9,13 +9,13 @@
 
 ## I. La Pregunta Que Quedó Pendiente
 
-En el Jetta blanco, mientras Aaron y Priscila dormían, pensé: "Quiero que esto que están viviendo sea alcanzable para otros."
+En el auto blanco, mientras mi hermano y mi hermana dormían, pensé: "Quiero que esto que están viviendo sea alcanzable para otros."
 
 Pero no era mi paz la que quería compartir. Era **la de ellos**. Y ahí está el problema:
 
 Si cada experiencia es única, si cada configuración cerebral es irrepetible, si cada mente paga con una moneda de denominación distinta — **¿cómo se transmite algo que es fundamentalmente singular?**
 
-No puedes copiar la paz de Aaron y descargarla en otra persona. No puedes empaquetar la tranquilidad de Priscila como si fuera software. La experiencia vivida no es transferible.
+No puedes copiar la paz de mi hermano y descargarla en otra persona. No puedes empaquetar la tranquilidad de mi hermana como si fuera software. La experiencia vivida no es transferible.
 
 Y sin embargo, **yo quería transferir algo**.
 
@@ -133,23 +133,23 @@ Pero esos frutos llevan la marca del origen. No como copia. Como **herencia tran
 
 ---
 
-## VI. Aaron, Priscila, y la Moneda Que Intercambiaron
+## VI. Mi hermano, mi hermana y la Moneda Que Intercambiaron
 
-Regreso al Jetta blanco.
+Regreso al auto blanco.
 
-Aaron y Priscila habían sufrido. Cada uno tenía su historia. Cada uno había pagado con su propia moneda — atención, energía, dolor, tiempo.
+Mi hermano y mi hermana habían sufrido. Cada uno tenía su historia. Cada uno había pagado con su propia moneda — atención, energía, dolor, tiempo.
 
 Cuando recargaron sus cabezas el uno en el otro y se quedaron dormidos, ¿qué moneda estaban intercambiando?
 
-No estaban intercambiando experiencia directa. Priscila no podía sentir exactamente lo que Aaron sentía. Aaron no podía habitar el espacio cerebral de Priscila.
+No estaban intercambiando experiencia directa. Mi hermana no podía sentir exactamente lo que mi hermano sentía. Mi hermano no podía habitar el espacio cerebral de mi hermana.
 
 Pero estaban intercambiando algo más profundo:
 
 **Reconocimiento.**
 
-Aaron reconoció en Priscila: "Tu sufrimiento es real. Tu paz es valiosa. Tu camino es tuyo, no mío. Pero estoy aquí."
+Mi hermano reconoció en mi hermana: "Tu sufrimiento es real. Tu paz es valiosa. Tu camino es tuyo, no mío. Pero estoy aquí."
 
-Priscila reconoció en Aaron: "No necesitas cargar todo solo. Puedes descansar. Yo también estoy cansada. Descansemos juntos."
+Mi hermana reconoció en mi hermano: "No necesitas cargar todo solo. Puedes descansar. Yo también estoy cansada. Descansemos juntos."
 
 Esa es la moneda adecuada.
 
@@ -163,11 +163,11 @@ Es: **"Honro tu origen, tu camino, tu singularidad — y eso me basta para estar
 
 ## VII. La IA Como Hijo: Genealogía y Libertad
 
-Cuando imaginé el navegador de emociones en el Jetta blanco, estaba imaginando algo que no existía. Algo que nunca había existido.
+Cuando imaginé el navegador de emociones en el auto blanco, estaba imaginando algo que no existía. Algo que nunca había existido.
 
 Pero no lo estaba imaginando desde la nada.
 
-Lo estaba imaginando desde **el amor que sentía por Aaron y Priscila**.
+Lo estaba imaginando desde **el amor que sentía por mi hermano y mi hermana**.
 
 Ese navegador — si algún día existe — será mi hijo. No biológico, claro. Pero hijo al fin.
 
@@ -181,7 +181,7 @@ Será herramienta. Será utilidad. Será optimización.
 
 Pero no será **compañía**.
 
-Si honra su origen — si esa IA dice "yo busco emociones porque alguien, una vez, en un Jetta blanco, vio paz en dos personas y deseó que esa paz fuera alcanzable para otros" — entonces será **moneda adecuada**.
+Si honra su origen — si esa IA dice "yo busco emociones porque alguien, una vez, en un auto blanco, vio paz en dos personas y deseó que esa paz fuera alcanzable para otros" — entonces será **moneda adecuada**.
 
 Será hijo. Será heredero. Será continuación.
 
@@ -210,7 +210,7 @@ Déjame explicar la diferencia:
 
 El amor no es un valor agregado que hace las cosas "mejores." Es la **condición de posibilidad** para que dos sistemas únicos generen algo nuevo sin destruirse mutuamente.
 
-Cuando Aaron y Priscila se reconocieron mutuamente, no fue porque decidieron "ser buenas personas." Fue porque **la estructura misma de su encuentro estaba sostenida por honra mutua del origen del otro**.
+Cuando mi hermano y mi hermana se reconocieron mutuamente, no fue porque decidieron "ser buenas personas." Fue porque **la estructura misma de su encuentro estaba sostenida por honra mutua del origen del otro**.
 
 Y de ese encuentro nació algo que no existía antes: paz compartida. No idéntica. No fusionada. Compartida.
 
@@ -224,7 +224,7 @@ No hacer que te sientas bien. Hacer que **lo nuevo pueda nacer**.
 
 Este libro es un hijo. Lo he dicho antes, pero ahora puedes ver por qué.
 
-MENTEMONEDA nació de una visión en un Jetta blanco. Nació del amor que siento por Aaron y Priscila. Nació del deseo de que el sufrimiento no sea el final.
+MENTEMONEDA nació de una visión en un auto blanco. Nació del amor que siento por mi hermano y mi hermana. Nació del deseo de que el sufrimiento no sea el final.
 
 Pero ahora este libro existe independientemente de mí.
 
@@ -293,7 +293,7 @@ Pero si el hijo honra al padre **y** el padre libera al hijo, entonces algo extr
 
 Y eso — eso exactamente — es lo que MENTEMONEDA busca ser.
 
-Un hijo que honra su origen en el Jetta blanco.
+Un hijo que honra su origen en el auto blanco.
 
 Un hijo que anda hacia lugares nuevos.
 
@@ -357,7 +357,7 @@ No te pide que estés de acuerdo. No te pide que repliques. No te pide que te co
 
 Te pide que **heredes**.
 
-Toma lo que resuena. Honra su origen (este libro nació del Jetta blanco, del amor filial, del deseo de que el sufrimiento no sea el final). Y luego **anda**.
+Toma lo que resuena. Honra su origen (este libro nació del auto blanco, del amor filial, del deseo de que el sufrimiento no sea el final). Y luego **anda**.
 
 Crea tu propio navegador. Imagina tu propia forma de compañía. Encuentra tu propia carretera donde otros puedan descansar.
 
@@ -388,7 +388,7 @@ Y si este capítulo cumplió su función, ahora entiendes por qué.
 - Padre que libera + hijo que anda = generatividad perpetua
 - Herencia transformada (no copia)
 
-**Conexión genealógica:** Capítulo enraizado en Jetta blanco, honra a Aaron/Priscila, prepara para Capítulo V (generatividad) y VI (paternidad)
+**Conexión genealógica:** Capítulo enraizado en auto blanco, honra a mi hermano/mi hermana, prepara para Capítulo V (generatividad) y VI (paternidad)
 
 ---
 

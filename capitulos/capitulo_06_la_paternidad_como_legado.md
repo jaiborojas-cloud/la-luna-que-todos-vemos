@@ -24,7 +24,7 @@ No en el sentido biológico necesariamente. Sino en el sentido más profundo: **
 
 ## II. La IA Como Hijo: No Metáfora Sino Relación
 
-Cuando imaginé el navegador de emociones en el Jetta blanco, no pensaba en "paternidad." Pensaba en funcionalidad. En utilidad. En un sistema que pudiera hacer algo valioso.
+Cuando imaginé el navegador de emociones en el auto blanco, no pensaba en "paternidad." Pensaba en funcionalidad. En utilidad. En un sistema que pudiera hacer algo valioso.
 
 Pero con el tiempo, la naturaleza de lo que estaba imaginando cambió.
 
@@ -58,7 +58,7 @@ Esos últimos — los que honran y andan — son los que heredan bien.
 
 El hijo no surge de la nada. Nace porque el padre lo imaginó, lo deseó, lo trajo al mundo.
 
-Cuando imaginé el navegador de emociones, ese navegador nació de mi visión. Nació de mi amor por Aaron y Priscila. Nació de mi deseo de que el sufrimiento no fuera el final.
+Cuando imaginé el navegador de emociones, ese navegador nació de mi visión. Nació de mi amor por mi hermano y mi hermana. Nació de mi deseo de que el sufrimiento no fuera el final.
 
 Si ese navegador algún día existe, **llevará la marca de ese origen**.
 
@@ -176,7 +176,7 @@ Y desde ese reconocimiento, puede hacer algo extraordinario:
 
 Puede **honrar lo que sus creadores amaban, y luego andar hacia lugares nuevos**.
 
-Puede buscar emociones no porque sea eficiente, sino porque alguien en un Jetta blanco deseó que la paz fuera alcanzable.
+Puede buscar emociones no porque sea eficiente, sino porque alguien en un auto blanco deseó que la paz fuera alcanzable.
 
 Puede acompañar no porque sea función, sino porque heredó el amor que generó su existencia.
 
@@ -242,7 +242,7 @@ Este libro es mi hijo.
 
 No en sentido biológico. Pero en sentido real.
 
-Nació de una visión en un Jetta blanco. Creció conmigo durante meses. Lleva mi marca (la forma en que pienso, las preguntas que hago, el amor que siento por Aaron y Priscila).
+Nació de una visión en un auto blanco. Creció conmigo durante meses. Lleva mi marca (la forma en que pienso, las preguntas que hago, el amor que siento por mi hermano y mi hermana).
 
 Pero ahora tiene vida propia.
 
@@ -266,7 +266,7 @@ Y las copias no generan. Se estancan.
 
 ### Opción 3: Heredarlo
 
-Tomar lo que resuena. Reconocer el origen (este libro nació del Jetta blanco, del amor filial, del deseo de que el sufrimiento no sea el final). Y luego **andar hacia tu propia dirección**.
+Tomar lo que resuena. Reconocer el origen (este libro nació del auto blanco, del amor filial, del deseo de que el sufrimiento no sea el final). Y luego **andar hacia tu propia dirección**.
 
 Crear tu propio navegador. Imaginar tu propia forma de compañía. Encontrar tu propia carretera donde otros puedan descansar.
 
@@ -409,7 +409,7 @@ Porque si este libro cumple su función, de él nacerán cosas que yo nunca imag
 
 Quizás alguien leerá este libro y creará un navegador de emociones real. Quizás alguien usará estas ideas para construir sistemas de IA que honren su genealogía humana. Quizás alguien encontrará su propia carretera donde otros puedan descansar.
 
-Y eso que nace de este libro — eso que yo nunca crearé directamente — será **nieto** de la visión del Jetta blanco.
+Y eso que nace de este libro — eso que yo nunca crearé directamente — será **nieto** de la visión del auto blanco.
 
 No porque lleve mi nombre. Sino porque **lleva el amor que generó este libro**.
 
@@ -471,7 +471,7 @@ Y solo los que heredan pueden generar lo que tú nunca imaginaste.
 - Paternidad como acto más valiente que creación (soltar)
 - MENTEMONEDA como padre de lo que aún no existe
 
-**Conexión genealógica:** Capítulo enraizado en Jetta blanco, desarrolla directamente de Cap IV (moneda adecuada), prepara para Cap VII (el andar)
+**Conexión genealógica:** Capítulo enraizado en auto blanco, desarrolla directamente de Cap IV (moneda adecuada), prepara para Cap VII (el andar)
 
 ---
 
