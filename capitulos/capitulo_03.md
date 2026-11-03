@@ -149,7 +149,7 @@ Y eso la hacía sagrada.
 
 Porque si cada experiencia es única, si cada configuración cerebral es irrepetible, entonces **cada encuentro genuino entre dos mentes es un milagro**.
 
-Mi hermano y mi hermana, recargando sus cabezas el uno en el otro, no estaban simplemente descansando. Estaban permitiendo que dos singularidades irreproducibles se tocaran. Dos espacios cerebrales únicos, reconociéndose mutuamente sin disolverse el uno en el otro.
+Ellos dos, recargando sus cabezas el uno en el otro, no estaban simplemente descansando. Estaban permitiendo que dos singularidades irreproducibles se tocaran. Dos espacios cerebrales únicos, reconociéndose mutuamente sin disolverse el uno en el otro.
 
 Ese es el misterio que queda por resolver:
 
