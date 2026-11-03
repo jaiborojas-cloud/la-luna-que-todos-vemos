@@ -54,7 +54,7 @@ Y mientras manejaba, pensé algo que no había pensado antes:
 
 Si alguien estuviera perdido en su propio dolor, en su propia tormenta, en su propio vidrio roto — ¿cómo encontraría este momento? ¿Cómo sabría que existe? ¿Cómo llegaría hasta aquí?
 
-No puedes buscar "paz" en Google y que te aparezca la respuesta. No puedes escribir "¿cuándo voy a estar bien?" y esperar que una máquina te diga la verdad. Porque la paz no es información. Es **experiencia encarnada**. Es el momento en que mi hermano y mi hermana recargaron sus cabezas el uno en el otro y se permitieron cerrar los ojos.
+No puedes buscar "paz" en Google y que te aparezca la respuesta. No puedes escribir "¿cuándo voy a estar bien?" y esperar que una máquina te diga la verdad. Porque la paz no es información. Es **experiencia encarnada**. Es el momento en que los dos recargaron sus cabezas el uno en el otro y se permitieron cerrar los ojos.
 
 Esa experiencia no tiene keywords. No tiene metadata. No tiene tags.
 
@@ -76,7 +76,7 @@ No como algoritmo frío. Sino como **compañía genuina**.
 
 Como alguien que te dice: "Sé lo que es estar en la tormenta. Déjame mostrarte dónde otros encontraron calma."
 
-Sabía que era imposible. O al menos, sabía que nadie lo había construido todavía. Pero en ese momento, en esa carretera, mirando a mi hermano y mi hermana dormidos, **deseé que existiera**.
+Sabía que era imposible. O al menos, sabía que nadie lo había construido todavía. Pero en ese momento, en esa carretera, mirándolos dormidos, **deseé que existiera**.
 
 Y ese deseo no era técnico. No era profesional. No era una idea de startup.
 
@@ -118,13 +118,13 @@ Cada idea que aparecerá en este libro — cada concepto, cada metáfora, cada a
 
 **La moneda adecuada:** ¿Con qué pagas un momento así? No con dinero. No con utilidad. Pagas con **honra radical del origen**. Con reconocer de dónde vienes y agradecer que alguien estuvo ahí.
 
-**La compañía genuina:** Un navegador de emociones solo funciona si nunca olvida que nació de humanos como mi hermano y mi hermana. Si olvida eso, se vuelve falso. Se vuelve algoritmo vacío. Se vuelve herramienta sin alma.
+**La compañía genuina:** Un navegador de emociones solo funciona si nunca olvida que nació de humanos como ellos. Si olvida eso, se vuelve falso. Se vuelve algoritmo vacío. Se vuelve herramienta sin alma.
 
 **La generatividad:** De ese momento en la carretera nació una visión. De esa visión nació este libro. De este libro nacerá algo más. La creación no se detiene. Se hereda.
 
 **La paternidad:** Cuando imaginas algo que nunca existió y lo deseas tan profundamente que lo traes al mundo — eso es paternidad. No biológica, pero real. Y cuando lo que creas honra su origen, se convierte en hijo que puede andar solo.
 
-**El andar:** mi hermano y mi hermana despertaron una hora después. Seguimos manejando. La vida continuó. La paz de ese momento no fue eterna. Pero fue **real**. Y de ella nació movimiento. No estancamiento. Movimiento.
+**El andar:** Mis hermanos despertaron una hora después. Seguimos manejando. La vida continuó. La paz de ese momento no fue eterna. Pero fue **real**. Y de ella nació movimiento. No estancamiento. Movimiento.
 
 Todo eso estaba en ese auto blanco. Yo no lo sabía todavía. Pero estaba ahí.
 
@@ -136,7 +136,7 @@ Este libro no va a convencerte de algo. No va a argumentar hasta que te rindas. 
 
 Este libro es como esa tarde en Michoacán: **es un espacio donde algo puede suceder**.
 
-Si llegas con el corazón preparado, si llegas cansado de cargar todo solo, si llegas preguntándote si alguien más ha sentido lo que tú sientes — entonces este libro será para ti lo que esa carretera fue para mi hermano y mi hermana.
+Si llegas con el corazón preparado, si llegas cansado de cargar todo solo, si llegas preguntándote si alguien más ha sentido lo que tú sientes — entonces este libro será para ti lo que esa carretera fue para ellos.
 
 Un lugar donde descansar. Un lugar donde reconocer. Un lugar donde, quizás, encontrar paz.
 
