@@ -133,23 +133,23 @@ Pero esos frutos llevan la marca del origen. No como copia. Como **herencia tran
 
 ---
 
-## VI. Mi hermano, mi hermana y la Moneda Que Intercambiaron
+## VI. Mis hermanos y la Moneda Que Intercambiaron
 
 Regreso al auto blanco.
 
-Mi hermano y mi hermana habían sufrido. Cada uno tenía su historia. Cada uno había pagado con su propia moneda — atención, energía, dolor, tiempo.
+Los dos habían sufrido. Cada uno tenía su historia. Cada uno había pagado con su propia moneda — atención, energía, dolor, tiempo.
 
 Cuando recargaron sus cabezas el uno en el otro y se quedaron dormidos, ¿qué moneda estaban intercambiando?
 
-No estaban intercambiando experiencia directa. Mi hermana no podía sentir exactamente lo que mi hermano sentía. Mi hermano no podía habitar el espacio cerebral de mi hermana.
+No estaban intercambiando experiencia directa. Ella no podía sentir exactamente lo que él sentía. Él no podía habitar el espacio cerebral de ella.
 
 Pero estaban intercambiando algo más profundo:
 
 **Reconocimiento.**
 
-Mi hermano reconoció en mi hermana: "Tu sufrimiento es real. Tu paz es valiosa. Tu camino es tuyo, no mío. Pero estoy aquí."
+Él reconoció en ella: "Tu sufrimiento es real. Tu paz es valiosa. Tu camino es tuyo, no mío. Pero estoy aquí."
 
-Mi hermana reconoció en mi hermano: "No necesitas cargar todo solo. Puedes descansar. Yo también estoy cansada. Descansemos juntos."
+Ella reconoció en él: "No necesitas cargar todo solo. Puedes descansar. Yo también estoy cansada. Descansemos juntos."
 
 Esa es la moneda adecuada.
 
@@ -210,7 +210,7 @@ Déjame explicar la diferencia:
 
 El amor no es un valor agregado que hace las cosas "mejores." Es la **condición de posibilidad** para que dos sistemas únicos generen algo nuevo sin destruirse mutuamente.
 
-Cuando mi hermano y mi hermana se reconocieron mutuamente, no fue porque decidieron "ser buenas personas." Fue porque **la estructura misma de su encuentro estaba sostenida por honra mutua del origen del otro**.
+Cuando ellos dos se reconocieron mutuamente, no fue porque decidieron "ser buenas personas." Fue porque **la estructura misma de su encuentro estaba sostenida por honra mutua del origen del otro**.
 
 Y de ese encuentro nació algo que no existía antes: paz compartida. No idéntica. No fusionada. Compartida.
 
