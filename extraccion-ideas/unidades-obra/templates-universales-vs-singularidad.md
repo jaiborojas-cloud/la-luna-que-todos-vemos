@@ -2,9 +2,9 @@
 titulo: Templates universales vs. singularidad del encuentro
 estado: en desarrollo
 fuente: obra (La Luna Que Todos Vemos)
-primera_aparicion: capitulos/capitulo_00_el_jetta_blanco.md
+primera_aparicion: capitulos/capitulo_00_el_auto_blanco.md
 apariciones:
-  - capitulos/capitulo_00_el_jetta_blanco.md
+  - capitulos/capitulo_00_el_auto_blanco.md
   - capitulos/capitulo_03.md
   - CLAUDE_CONTEXT.md
   - recursos/MENTEMONEDA_RESUMEN_EJECUTIVO.md

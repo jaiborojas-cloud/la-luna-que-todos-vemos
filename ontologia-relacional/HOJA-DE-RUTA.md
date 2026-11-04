@@ -5,7 +5,7 @@
 > (para no re-discutirlo) y cuáles son los caminos naturales a seguir, en orden.
 > El texto fundacional es `00-documento-puente.md`, en esta misma carpeta.
 
-Última actualización: 2026-09-04.
+Última actualización: 2026-10-20.
 
 ---
 
@@ -20,42 +20,48 @@ El proyecto tiene **tres piezas** dentro del repo `La-Luna-Que-Todos-Vemos`:
 | **Obra derivada** | `ontologia-relacional/` ← *estás aquí* | La obra "más rigurosa". Fundada en `00-documento-puente.md`. En estado embrionario. |
 
 **Estado de la obra derivada:** existe su columna argumentativa (el documento-
-puente) y esta hoja de ruta. **No hay capítulos, ni estructura de libro, ni
-prosa desarrollada todavía.** El siguiente trabajo es §4 de este archivo.
+puente, **v2**, con los caminos A y E integrados) y esta hoja de ruta. **No hay
+capítulos, ni estructura de libro, ni prosa desarrollada todavía.** El siguiente
+trabajo es I.0 del Camino I (§4).
 
 ---
 
 ## 2. Decisiones ya tomadas (NO re-litigar sin motivo)
 
-1. **Son dos obras distintas, casi disjuntas.** Solo 4 de las 16 unidades de las
-   notas aparecen en la obra original. La derivada es *sistémica/epistémica*; la
-   original es *neuro-poético-existencial*.
-2. **El puente entre ambas es la metáfora de la moneda:** abstracta en las notas
-   (`mente-como-denominacion-moneda-cognitiva`), encarnada en la obra
-   (`pago-metabolico-de-la-conciencia`).
+1. **Son dos obras distintas, casi disjuntas.** En el cruce original (16
+   unidades de notas vs. la obra) solo 4 aparecían en la obra; la separación de
+   registros se mantiene como decisión de trabajo. La derivada es
+   *sistémica/epistémica*; la original es *neuro-poético-existencial*.
+2. **El puente entre ambas es la metáfora de la moneda**, con la precisión de E:
+   abstracta en las notas (`mente-como-denominacion-moneda-cognitiva`), encarnada
+   en la obra (`pago-metabolico-de-la-conciencia`); sirve para patologías de
+   circulación, no para la singularidad.
 3. **Registro de la obra derivada: filosófico riguroso.** Argumentación formal,
    citas reales, y la regla de oro (abajo).
 4. **La obra derivada vive en carpeta propia** (`ontologia-relacional/`), separada
    del repo-herramienta de extracción.
-5. **La extracción se reabre solo con material nuevo.** Estado actual: **8 notas**
-   (las notas 04–07 la reabrieron el 2026-08-17; la nota 08 entró el 2026-09-04) →
-   **32 unidades** (20 en el núcleo). Cerrada de nuevo hasta que llegue material
-   fresco. *Anunciado por el usuario: una segunda nota pendiente de pegar.*
+5. **La extracción se reabre solo con material nuevo.** Estado actual: **9 notas**
+   (las notas 04–07 la reabrieron el 2026-08-17; las notas 08–09 entraron el
+   2026-09-04) → **36 unidades** (25 en el núcleo). Cerrada de nuevo hasta que
+   llegue material fresco.
 
 ## 3. Reglas permanentes del proyecto
 
 - **Regla de oro (rigor):** toda afirmación se marca como **literal** /
   **demostrable** / **tesis argumentada** / **analógica**. Ninguna puede citarse
-  con el estatuto de otra. (Ver la tabla del §6 del documento-puente.)
-- **La moneda ilumina, no demuestra.** Si un pasaje usa la metáfora como si fuera
-  mecanismo, está fuera de rigor.
+  con el estatuto de otra. (Ver las tablas del §6 del documento-puente.)
+- **La moneda ilumina, no demuestra.** Conserva valor para describir
+  *patologías de circulación* (atesoramiento, concentración, bloqueo); se retira
+  para la *singularidad* de la perspectiva, porque la fungibilidad del dinero
+  contradice la tesis. Ver documento-puente §5.2.
 - **Los commits los hace el usuario, a mano.** Claude no commitea salvo que se le
   pida explícitamente.
 - **No proponer estructura de libro / capítulos** hasta que la columna
   argumentativa esté sólida y verificada (es decir, hasta cerrar buena parte del
   §4).
-- **Verificar antes de publicar:** las referencias del documento-puente son
-  atribuciones estándar SIN cotejar contra ediciones originales (ver §4, camino C).
+- **Verificar antes de publicar:** las referencias del documento-puente están
+  **parcialmente cotejadas** (A/E, 2026-10-20); falta la pasada final de
+  ediciones, páginas y formulación exacta antes de publicación.
 
 ---
 
@@ -64,16 +70,18 @@ prosa desarrollada todavía.** El siguiente trabajo es §4 de este archivo.
 Cada camino es independiente; pueden tomarse de a uno. El "criterio de hecho" dice
 cuándo considerarlo terminado.
 
-### Camino A — Formalizar la bisagra inferencia activa → "buen regulador" ★ prioridad alta
-- **Qué:** demostrar (o acotar) bajo qué condiciones un sistema de inferencia
-  activa (Friston) hereda el límite de Conant-Ashby (todo buen regulador es un
-  modelo del sistema → auto-modelado completo imposible).
-- **Por qué:** es el eslabón HOY MÁS DÉBIL y el de mayor rédito. Si se sostiene,
-  el "nudo" (§3 del documento-puente) pasa de *síntesis argumentada* a algo mucho
-  más firme, y con ello todo el edificio.
-- **Dónde toca:** documento-puente §2, §3 y §7.1.
-- **Criterio de hecho:** un argumento escrito, con sus supuestos explícitos, que
-  diga qué se demuestra y qué queda como tesis.
+### Camino A — Formalizar la bisagra inferencia activa → "buen regulador" ✅ acotado (2026-10-20)
+- **Resultado:** la ruta robusta **no** pasa por Conant-Ashby ni por el FEP: es
+  **variedad + finitud (L1a + L2)**. L2 no es una obstrucción aparte: es la
+  premisa que hace finito al sistema y habilita el conteo. El «buen regulador»
+  queda como corroboración débil (homomorfismo con pérdida sobre el sistema
+  externo); el FEP, como marco debatido.
+- **C1 acotada:** lo abierto es (a) el **Paso 2** —deber regular un todo que
+  incluye al agente— y (b) el refinamiento **L2 ⇒ finitud**.
+- **Dónde toca:** documento-puente §2, §3 y §7.1; archivo
+  `A-bisagra-inferencia-activa-buen-regulador.md`.
+- **Criterio de hecho:** cumplido en su forma robusta; quedan las dos tesis
+  nombradas.
 
 ### Camino B — Desarrollar el "nudo" como primer capítulo real
 - **Qué:** convertir el §3 del documento-puente (micro y macro son el mismo
@@ -83,17 +91,22 @@ cuándo considerarlo terminado.
 - **Dónde toca:** nuevo archivo `ontologia-relacional/01-el-nudo.md`.
 - **Criterio de hecho:** un capítulo que un lector filosófico pueda leer solo y
   seguir el argumento sin haber leído las notas.
-- **Depende de:** idealmente, avanzar antes el Camino A.
+- **Depende de:** A ✅; conviene tener I.0/I.1 antes de escribir el capítulo.
 
-### Camino C — Verificar y afinar las referencias
+### Camino C — Verificar y afinar las referencias ✅ quirúrgico (2026-08-17; ampliado 2026-10-20)
 - **Qué:** cotejar con búsqueda web / fuentes las citas del documento-puente
   (ediciones, páginas, formulación exacta). Prioridad: **Conant-Ashby (1970)** y
   **el alcance real que Friston reclama** para el principio de energía libre
   (marco influyente pero debatido).
 - **Por qué:** el rigor prometido exige que las fuentes resistan escrutinio.
+- **Hecho:** Conant-Ashby (páginas 89–97, DOI y forma débil); Friston/FEP
+  contestado; Virgo et al. 2025; Bruineberg et al. 2022; Colombo & Wright 2021;
+  Wentworth 2021 (no arbitrado). Queda la pasada final de ediciones y páginas
+  antes de publicación.
 - **Dónde toca:** documento-puente, sección "Referencias" y nota de verificación.
 - **Criterio de hecho:** cada referencia con edición/página confirmada y cada
-  atribución con su formulación exacta.
+  atribución con su formulación exacta. **Parcialmente cumplido:** las citas
+  nuevas de A/E están cotejadas; falta la revisión final del resto.
 
 ### Camino D — Precisar "emergencia" de la realidad compartida
 - **Qué:** dar un criterio operacional que distinga la realidad compartida
@@ -103,20 +116,22 @@ cuándo considerarlo terminado.
 - **Criterio de hecho:** una definición que permita decir qué contaría como
   contraejemplo.
 
-### Camino E — Poner a prueba la propia metáfora monetaria
-- **Qué:** responder: ¿qué explica la teoría relacional CON la moneda que no
-  explique SIN ella? Si nada, es ornamento; si algo, nombrarlo.
-- **Por qué:** es el test de honestidad del puente entero (§7.3).
-- **Dónde toca:** documento-puente §5 y §7.3.
-- **Criterio de hecho:** una lista de lo que la metáfora añade (o la decisión
-  justificada de degradarla a recurso expositivo).
+### Camino E — Poner a prueba la propia metáfora monetaria ✅ hecho (2026-08-17)
+- **Resultado:** la metáfora tiene **dos usos**: sirve como vocabulario para
+  *patologías de circulación* (atesoramiento, concentración, bloqueo); **no**
+  sirve para la *singularidad* (la fungibilidad del dinero contradice los frutos
+  únicos). Hallazgo fuerte: la **ontología relacional es marco, no tesis
+  predictiva**; §3 no la usa, la relacionalidad interpreta río abajo.
+- **Dónde toca:** documento-puente §5, §6.2 y §7.4; archivo
+  `E-prueba-de-la-metafora-y-del-marco.md`.
+- **Criterio de hecho:** cumplido; la frontera queda declarada en §5.2 y §6.2.
 
 ### Camino F — La conciencia (dejar como pregunta abierta, gestionada)
 - **Qué:** NO resolver por metáfora. Mantener y desarrollar las vías de
   `circulacion-consciente-pregunta-abierta` como problema abierto declarado.
 - **Por qué:** el documento explica incompletud y distribución, no *por qué hay
   experiencia*. Colarlo por analogía rompería la regla de oro.
-- **Dónde toca:** documento-puente §7.4; unidades `circulacion-consciente-...`,
+- **Dónde toca:** documento-puente §7.5; unidades `circulacion-consciente-...`,
   `conciencia-como-forma-de-relacion`.
 - **Criterio de hecho:** que siga marcado como abierto y no se contamine con los
   otros pisos.
@@ -136,9 +151,9 @@ cuándo considerarlo terminado.
   construcción. Sin este posicionamiento, el primer lector informado desarma el
   proyecto como "otra versión de la ontología relacional". Con él, se vuelve *tu*
   ontología relacional. Es además insumo directo del Camino E (qué añade tu
-  versión = §7.3).
+  versión = §7.6).
 - **Dónde toca:** nuevo archivo `ontologia-relacional/02-estado-de-la-cuestion.md`;
-  retroalimenta documento-puente §5 y §7.3.
+  retroalimenta documento-puente §5 y §7.6.
 - **Criterio de hecho:** para cada autor/tradición, una línea "coincide en X / me
   separo en Y", y una frase final que nombre el diferencial propio.
 
@@ -257,12 +272,13 @@ compresión con pérdida *es* descarte, la premisa se cumple sola); «qué cuent
 vecina» (radio de inyectividad / escala de curvatura, derivado y no tuneado).
 
 ### Orden sugerido
-**A ✅ → C ✅(quirúrgico) → E ✅ → [integrar A y E al puente] → I.0 → I.1 + G + H →
-I.2 → B → D**, con **F** como restricción permanente (no un paso).
+**A ✅ → C ✅(quirúrgico) → E ✅ → [integrar A y E al puente] ✅ (2026-10-20) →
+I.0 → I.1 + G + H → I.2 → B → D**, con **F** como restricción permanente (no un
+paso).
 
-- **Pendiente inmediato y bloqueante:** integrar A y E al documento-puente. Está
-  esperando desde el 2026-08-17, y el Camino I quiere apoyarse en un §3 que todavía no
-  incorpora A. Cada nota nueva aumenta la deuda.
+- **Pendiente inmediato:** **I.0** (prueba de humo de curvatura). La integración
+  A/E ya está hecha (rama `integracion-a-e`); el §3 del puente incorpora la ruta
+  L1a + L2 y el perímetro C1–C3 está declarado.
 - **I.0 va antes que todo lo demás del camino I** y es corto. No construir encima sin
   haber verificado que la curvatura no es cero.
 - **I.1, G y H pueden ir en paralelo.** H sigue siendo la contraparte social de A.
@@ -289,14 +305,34 @@ I.2 → B → D**, con **F** como restricción permanente (no un paso).
 
 - `ontologia-relacional/00-documento-puente.md` — tesis vertebral (leer primero).
 - `ontologia-relacional/HOJA-DE-RUTA.md` — este archivo.
-- `extraccion-ideas/indice.md` — 16 unidades de las notas (ontología relacional).
+- `extraccion-ideas/indice.md` — 36 unidades de las notas (25 de núcleo).
 - `extraccion-ideas/indice-obra.md` — 16 unidades de la obra original.
 - `extraccion-ideas/unidades/` y `unidades-obra/` — las unidades individuales.
-- `extraccion-ideas/notas-crudas/` — las 8 notas fuente.
+- `extraccion-ideas/notas-crudas/` — las 9 notas fuente.
 - `ontologia-relacional/A-bisagra-inferencia-activa-buen-regulador.md` — Camino A.
 - `ontologia-relacional/E-prueba-de-la-metafora-y-del-marco.md` — Camino E.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
+
+- **2026-10-20 (integración A/E al documento-puente)** — Trabajo en la rama
+  `integracion-a-e` (worktree separado; `main` local con el commit de
+  normalización `0a9fdfd`, sin push):
+  - **Normalización:** `.gitattributes` (`* text=auto eol=lf`); 88 archivos de
+    texto en LF; commit `0a9fdfd` en `main` (local).
+  - **§2–§3 (commit `c73d8a4`):** el nudo se reescribe sobre **L1a (conteo) +
+    L2 (finitud/costo)**; L1b (regreso) queda como respaldo. L2 es **premisa**
+    de L1a, no obstrucción paralela. El motor «deber regular × no poder
+    completar → perspectiva» da el paso 1 ganado. Conant-Ashby se degrada a
+    corroboración débil; el FEP queda como marco debatido. C1 acotada: quedan
+    Paso 2 y L2 ⇒ finitud.
+  - **§5–§8 y referencias (commit `d4859a4`):** §5 declara la ontología
+    relacional **marco**, no tesis predictiva; la moneda pasa a herramienta de
+    dos usos (patologías de circulación sí; singularidad no); §6 se divide en
+    Proyecto A (argumento) y Proyecto B (marco/metáfora); §7 reordena la agenda
+    (C1 residual, C2, C3, moneda, conciencia, literatura); §8 y referencias
+    actualizadas (Conant-Ashby DOI/páginas, Virgo et al. 2025, Bruineberg et
+    al. 2022, Colombo & Wright 2021, Wentworth 2021).
+  - **Conteos:** 9 notas / 36 unidades / 25 núcleo. **Siguiente:** I.0.
 
 - **2026-08-17 (sesión de Caminos E → A → C)** — Tras el lote 04–07 se hicieron tres
   cosas, todas en archivos nuevos de `ontologia-relacional/` (el documento-puente NO

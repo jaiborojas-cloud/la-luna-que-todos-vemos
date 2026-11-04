@@ -30,7 +30,7 @@ Y de alguna manera — de alguna manera que no puedo explicar pero que entendí 
 
 El mundo.
 
-El mundo que yo también estaba experimentando desde mi cuarto frío, mirando una luna roja que alguien en Tokio ya había visto hace nueve horas y que alguien en Madrid vería en siete.
+El mundo que yo también estaba experimentando desde mi cuarto frío, mirando una luna roja que en ese mismo instante miraban todos los que estaban de noche, en ciudades que yo nunca vería.
 
 ---
 

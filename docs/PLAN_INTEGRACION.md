@@ -2,7 +2,7 @@
 ## MENTEMONEDA v3.0
 
 **Fecha:** 2026-06-03
-**Versión:** Del Jetta Blanco al Andar y la Libertad
+**Versión:** Del auto blanco al Andar y la Libertad
 
 ---
 
@@ -41,7 +41,7 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
   - Encuentro = generación de lo nuevo
 
 - **Alternativamente:** Usar en el Epílogo
-  - Como cierre circular: comenzamos con Jetta blanco, terminamos con suculenta
+  - Como cierre circular: comenzamos con auto blanco, terminamos con suculenta
   - "El libro que escribimos es como esa flor — no argumenta, solo florece"
 
 **Citas clave para integrar:**
@@ -65,16 +65,16 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
 
 **Problema de integración:**
 - Se centra en soledad y epifanía individual
-- NO menciona el Jetta blanco ni el acto de amor primero
+- NO menciona el auto blanco ni el acto de amor primero
 - Es bella pero no es genealógica
 
 **Propuestas:**
 
 **Opción A - Mover al Epílogo (RECOMENDADA)**
 - El Epílogo v3.0 se llama "La Luna Otra Vez — La Síntesis Final"
-- Este capítulo podría funcionar como cierre circular: comenzar con Jetta blanco, terminar con luna
+- Este capítulo podría funcionar como cierre circular: comenzar con auto blanco, terminar con luna
 - Reescribir las últimas secciones para conectar con genealogía/paternidad/andar
-- Agregar referencias al Jetta blanco como origen del camino que llevó a esa noche
+- Agregar referencias al auto blanco como origen del camino que llevó a esa noche
 
 **Opción B - Fragmentar e Integrar**
 - Usar las secciones más poéticas como "momentos cristal" distribuidos
@@ -112,7 +112,7 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
 **Opción A - Integrar en Capítulo I "Los Patrones Universales" (RECOMENDADA)**
 - Usar la neurociencia como **evidencia** de que los patrones biológicos son universales
 - Recontextualizar: "Estos templates no son abstracciones — son biología compartida"
-- Agregar sección inicial que conecte con Jetta blanco: "¿Por qué reconocí paz en sus rostros? Porque hay patrones universales..."
+- Agregar sección inicial que conecte con auto blanco: "¿Por qué reconocí paz en sus rostros? Porque hay patrones universales..."
 - Reducir tecnicismos, mantener ejemplos más evocativos (McGurk, cronóstasis)
 
 **Opción B - Integrar en Capítulo II "La Dualidad IA-Humano"**
@@ -154,14 +154,14 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
 
 **Propuesta (DEFINITIVA):**
 - **Mantener en Capítulo III** "El Análisis de Compartimentos Humanos"
-- Revisar introducción para conectar con Jetta blanco
+- Revisar introducción para conectar con auto blanco
 - Expandir sección de trascendencia para introducir tema de paternidad (preparar Cap VI)
 - Agregar puente hacia Cap IV (moneda adecuada)
 - Objetivo: expandir de ~2,800 a ~4,000-5,000 palabras
 
 **Acciones concretas:**
 1. Leer el capítulo completo para verificar coherencia
-2. Agregar párrafo inicial: "En el Jetta blanco, vi paz en rostros únicos. ¿Por qué únicos?..."
+2. Agregar párrafo inicial: "En el auto blanco, vi paz en rostros únicos. ¿Por qué únicos?..."
 3. Expandir sección de trascendencia con más ejemplos (código, Azure, música)
 4. Agregar cierre que haga puente: "Pero si cada experiencia es única, ¿con qué moneda pagamos unos a otros? Con la única adecuada..."
 
@@ -178,7 +178,7 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
    - Acción: Expandir y conectar con genealogía
 
 ### Siguiente fase
-4. **Escribir Capítulo 0: El Jetta Blanco** (3,000-5,000 palabras)
+4. **Escribir Capítulo 0: El auto blanco** (3,000-5,000 palabras)
    - El más importante — establece genealogía de todo el libro
 5. **Escribir capítulos faltantes según nueva estructura**
 
@@ -198,7 +198,7 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
    - ¿V3.0 debe ser completamente narrativo/poético?
    - ¿O puede tener secciones científicas recontextualizadas?
 
-4. **Sobre el Jetta blanco:**
+4. **Sobre el auto blanco:**
    - ¿Hay detalles adicionales de esa experiencia que debería incluir?
    - ¿Quiénes eran los hermanos? ¿Qué sufrimiento habían pasado?
    - ¿Quieres que sea específico o mantener cierta abstracción?
@@ -226,10 +226,10 @@ El material de v1-v2 NO está obsoleto, pero necesita **recontextualización** p
 2. **Claude ejecuta las decisiones:**
    - Mueve/reescribe según instrucciones
    - Expande capitulo_03.md
-   - Prepara estructura para Capítulo 0 (Jetta Blanco)
+   - Prepara estructura para Capítulo 0 (auto blanco)
 
 3. **Iniciar escritura de capítulos nuevos:**
-   - Prioridad absoluta: Cap 0 (Jetta Blanco)
+   - Prioridad absoluta: Cap 0 (auto blanco)
    - Luego: Cap IV, V, VI, VII según flujo
 
 ---

@@ -1,0 +1,6 @@
+# Normalizar finales de línea: LF en el repositorio y en el working tree
+* text=auto eol=lf
+
+# Binarios: sin diff, sin merge y sin conversión de línea
+*.docx binary
+*.doc binary
