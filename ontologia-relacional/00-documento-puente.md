@@ -15,6 +15,21 @@
 > (`A-bisagra-inferencia-activa-buen-regulador.md`) y E
 > (`E-prueba-de-la-metafora-y-del-marco.md`). El título conserva la metáfora de
 > la moneda; su estatuto queda precisado en §5.
+>
+> **v2.1 — 2026-11-05.** Integra el **corolario de evaluación** (§2.4): el plano
+> cabe dentro; la evaluación completa, no. Precisa el alcance de L1a (copia de
+> estados, no descripción) en §0, §2.1 y §6.1. Declara el compromiso con la
+> mecánica cuántica relacional solo en la capa de contenido del tiempo (§5.1,
+> §6.2) y da criterios candidatos para C2 y C3 (§7.2, §7.3). Situación frente a
+> la literatura: `02-estado-de-la-cuestion.md`.
+>
+> **v2.2 — 2026-11-05.** Tras situar a los vecinos: Breuer (1995) y Wolpert (2008)
+> entran como antecedentes directos del núcleo (§2.2); el §3 reclama la
+> construcción, no los ladrillos.
+>
+> **v2.3 — 2026-11-05.** Acepta a Luhmann (solo circula la comunicación) y lo
+> deriva del corolario; corrige el criterio de C3 (§7.3) y precisa el mecanismo de
+> C2 con las pruebas interactivas (§7.2). Abre la nota 10.
 
 ---
 
@@ -22,10 +37,12 @@
 
 > **El conocimiento se comporta como una moneda —tiene valor solo en la
 > circulación— porque contener el conocimiento completo de un sistema dentro de
-> uno de sus nodos es imposible: un sistema finito no puede alojar una
-> representación fiel del todo que lo incluye. La finitud la paga la termodinámica
-> (L2); la imposibilidad la garantiza el conteo (L1a). La incompletud no es una
-> carencia: es la condición que obliga a la distribución.**
+> uno de sus nodos es imposible: un sistema finito puede alojar el plano del todo
+> que lo incluye, pero no una copia fiel de sus estados ni la evaluación completa
+> de ese plano. La finitud la paga la termodinámica (L2); la imposibilidad de la
+> copia la garantiza el conteo (L1a); la de la evaluación, la irreducibilidad y el
+> argumento diagonal (§2.4). La incompletud no es una carencia: es la condición
+> que obliga a la distribución.**
 
 El resto del documento sostiene esta frase por pisos, del cerebro individual
 (micro) a la red relacional (macro), y expone con honestidad dónde el argumento
@@ -95,8 +112,11 @@ representan). No vale para «cualquier sistema»: eso es honestidad, no debilida
 
 **Paso 3 — La imposibilidad, por conteo.** Para un sistema **finito**, una parte
 propia tiene estrictamente menos estados distinguibles que el todo. No hay
-representación *fiel e inyectiva* del todo en la parte; luego el auto-modelo
-completo es imposible. *Estatuto: demostrable para el caso finito.*
+representación *fiel e inyectiva* de los **estados** del todo en la parte; luego
+el auto-modelo completo, entendido como copia estado por estado, es imposible.
+*Estatuto: demostrable para el caso finito.* **Alcance:** el conteo no prohíbe
+una **descripción** comprimida del todo (un plano, un genoma, un quine); eso cabe
+dentro. El límite que sí alcanza a la descripción es el de su **evaluación** (§2.4).
 
 > **La finitud no es gratis: la paga L2.** Un sistema *infinito* podría poner una
 > parte propia en biyección con el todo (Dedekind) y el conteo no mordería. ¿Qué
@@ -134,6 +154,21 @@ A ello se suma la clausura operacional de Maturana & Varela (1980): los sistemas
 vivos se conservan por organización recursiva, no por transparencia sobre sí
 mismos.
 
+**Dos antecedentes directos del núcleo (v2.2).** No son convergencias lejanas:
+son versiones ya probadas, en física, de piezas de esta ruta.
+
+5. **Breuer (1995):** ningún aparato puede distinguir todos los estados de un
+   sistema del que forma parte. *Demostrado, para física clásica y cuántica.* **Es,
+   en esencia, el argumento de conteo del Paso 3 (L1a).** La obra no lo reclama
+   como aporte.
+6. **Wolpert (2008):** todo dispositivo físico de inferencia (lo que observa,
+   predice o recuerda) deja alguna función sin inferir, y dos dispositivos no
+   pueden inferirse mutuamente (Teorema 1, para inferencia débil entre
+   dispositivos distinguibles; Teorema 3, para inferencia fuerte). *Demostrado,
+   independientemente de las leyes físicas concretas; él lo compara con el problema
+   de la parada.* Es la versión física de la ruta lógica del corolario de
+   evaluación (§2.4).
+
 ### 2.3 La costura honesta
 
 Gödel y Turing hablan de *sistemas formales y máquinas*; Ashby y Conant-Ashby,
@@ -151,6 +186,48 @@ finitud que el conteo necesita.
   fielmente, o desacoplar la persistencia de toda regulación de lo que incluye al
   agente.
 
+### 2.4 Descripción y evaluación — el corolario de evaluación del Axioma 1
+
+> **Corolario de evaluación.** *Un sistema finito puede contener una descripción
+> completa de sí mismo, pero no puede evaluar por completo esa descripción desde
+> dentro.*
+
+Sustituye la formulación anterior («ningún sistema finito sostiene una
+representación completa de sí mismo»), falsa en sentido estricto para la
+descripción. No es un axioma nuevo; se obtiene por dos rutas:
+
+- **Proposición A — el plano sí cabe.** Kleene (teorema de recursión, 1938), los
+  quines y el autómata auto-reproductor de von Neumann (1966): una máquina puede
+  llevar su plano completo, usándolo a la vez como instrucciones y como dato que
+  se copia, sin regreso infinito. El ADN es el caso biológico.
+- **Ruta temporal (desde el Axioma 1).** Si la dinámica es computacionalmente
+  irreducible, el sistema no puede predecir sus estados futuros antes de
+  alcanzarlos: hacerlo sería un atajo. *Estatuto: casi una reformulación de la
+  premisa; su valor es de economía —el límite del autoconocimiento no necesita un
+  principio aparte.*
+- **Ruta lógica (diagonal).** Si el sistema es computacionalmente universal,
+  ningún evaluador interno decide toda propiedad no trivial de su propio
+  comportamiento, ni con tiempo ilimitado. Es el argumento de Turing, Rice y el
+  segundo teorema de Gödel; Lawvere (1969) los unificó como un teorema de punto
+  fijo. *Estatuto: demostrable, en su dominio.*
+
+**La ironía central:** el diagonal funciona *gracias* a la Proposición A. La
+autodescripción completa es lo que vuelve imposible la autoevaluación completa.
+
+**Encaje con §2.1–§3.** L1a (conteo) prohíbe la copia de estados; el corolario
+prohíbe la evaluación del plano. Son límites distintos y complementarios. En
+términos de medida: la descripción se mide por complejidad de Kolmogorov (puede
+ser corta); la evaluación, por profundidad lógica (Bennett, 1988), que no admite
+atajo si la dinámica es irreducible. Evaluar cuesta (Landauer): el residuo no
+evaluado es el precio impagable que L2 nombra.
+
+**Alcance:** no prohíbe el autoconocimiento parcial, aproximado o estadístico; no
+es un argumento sobre la conciencia (evita la trampa de Lucas–Penrose); depende de
+premisas empíricas (que un sistema físico concreto sea irreducible o universal); y
+no impide que un evaluador externo sepa de S más de lo que S sabe de sí: el límite
+es reflexivo, no general. Formalización completa: doc *Corolario de evaluación —
+límite del autoconocimiento* (2026-11-04).
+
 > Unidades de origen: `unidades/incompletud-necesaria`,
 > `patrones-de-autorregulacion`, `topologia-forma-de-la-relacion`,
 > `entropia-como-variable-relacional`.
@@ -160,7 +237,11 @@ finitud que el conteo necesita.
 ## 3. El nudo — las dos obstrucciones se componen (SÍNTESIS: el aporte candidato)
 
 Aquí las dos obras se sueldan, y es el tramo con mayor pretensión de originalidad
-del documento. Los pisos §1 y §2 describen dos obstrucciones al mismo objeto —un
+del documento. **Precisión (v2.2):** ningún ladrillo del §2 es nuevo —el conteo
+está en Breuer (1995), el diagonal físico en Wolpert (2008)—. Lo que el §3 reclama
+es la **construcción**: la composición con L2, la separación descripción /
+evaluación (§2.4), el motor deber × no poder → perspectiva, y el criterio de
+herencia de §7.3 (`02-estado-de-la-cuestion.md` §3.10). Los pisos §1 y §2 describen dos obstrucciones al mismo objeto —un
 modelo interno *completo* de S dentro de S—: una estructural (L1, en dos
 formulaciones) y otra termodinámica (L2).
 
@@ -328,8 +409,16 @@ que subrayarla, porque su convergencia es sugestiva pero no es una sola prueba�
   económico.)
 - **Rovelli (1996), mecánica cuántica relacional:** los valores de las magnitudes
   físicas son relativos a la interacción; un sistema no tiene estado "en sí". (Una
-  *interpretación* física en disputa, no consenso; y su sentido de «relación» es
-  físico, no epistémico-social: ilumina, no se transfiere.)
+  *interpretación* física en disputa, no consenso; empíricamente equivalente a la
+  mecánica cuántica estándar, así que adoptarla no da a la ontología relacional
+  contenido predictivo propio.) **Compromiso declarado (v2.1):** la obra la adopta
+  solo en la *capa de contenido* del tiempo relacional —qué es un hecho, relativo
+  a la interacción en que ocurre—, porque el Axioma 1 ya lo exige; la partición
+  causal (qué pudo alcanzar a quién) se funda en la relatividad especial, que es
+  literal; el acuerdo entre observadores requiere un postulado adicional (Adlam &
+  Rovelli, 2023). Su sentido de «relación» sigue siendo físico, no
+  epistémico-social: no se transfiere por sí solo a la red de mentes (C3). Detalle
+  en `02-estado-de-la-cuestion.md` §1.
 - **Teoría de categorías:** un objeto matemático se caracteriza por sus morfismos
   —sus relaciones— y no por su interior. (Formal.)
 
@@ -387,7 +476,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 | Sostener una mente cuesta energía finita, real y continua | **Literal** | Raichle & Gusnard 2002; Friston 2010 |
 | La percepción es inferencia predictiva ("alucinación controlada") | **Literal** (marco debatido) | Seth 2021; Clark 2013 |
 | Solo la variedad absorbe variedad | **Demostrable** (teoría de control) | Ashby 1956 |
-| Una parte propia finita no modela fielmente el todo | **Demostrable** (caso finito) | conteo; §2.1 |
+| Una parte propia finita no copia fielmente los estados del todo | **Demostrable** (caso finito) | conteo; §2.1; Breuer 1995 |
+| Un sistema finito puede contener su descripción completa | **Demostrable** | Kleene 1938; von Neumann 1966; §2.4 |
+| Un sistema no puede evaluar por completo su descripción desde dentro | **Corolario** (temporal: condicional a la irreducibilidad; lógico: demostrable para sistemas universales) | §2.4; Turing 1936; Lawvere 1969; Wolpert 2008 |
 | L2 (energía libre finita) licencia la finitud que L1a necesita | **Tesis-refinamiento** (candidata fuerte) | §1–§2 |
 | El agente debe regular un todo que lo incluye | **Tesis motivada** | §2.1, Paso 2 |
 | Deber regular × no poder completar → perspectiva | **Síntesis** | §3.1 |
@@ -412,6 +503,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 | La moneda describe patologías de circulación | **Analógico productivo** (ilumina formas de fallo) | §5.2 |
 | La moneda describe la singularidad de la perspectiva | **Prohibido** (la fungibilidad contradice la tesis) | §5.2 |
 | Crear orden no implica crear justicia | **Límite declarado** | §5.2 |
+| La partición causal del tiempo (región) es la misma para todo observador | **Literal** | relatividad especial; `02` §1.2 |
+| Los hechos son relativos a la interacción en que ocurren (capa de contenido) | **Tesis interpretativa declarada** (coherente con el Axioma 1) | Rovelli 1996; §5.1 |
+| Dos observadores coinciden en contenido más allá de su pasado común | **Postulado** | Adlam & Rovelli 2023 |
 
 ---
 
@@ -423,8 +517,38 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    tarea: quedó como corroboración débil. (Camino A.)
 2. **C2 — emergencia.** Precisar qué distingue la realidad compartida de un mero
    promedio estadístico de percepciones; proponer un criterio operacional. (Camino D.)
+   **Pista (v2.3):** el corolario de evaluación (§2.4) da un *mecanismo* por el que
+   distribuir mejora la cobertura. El otro no decide por mí: **pone su perspectiva
+   en la mesa y yo la verifico** con mi propio módulo. Modelo formal: los sistemas
+   de prueba interactiva (Goldwasser, Micali & Rackoff, 1985; Babai, 1985), donde un
+   verificador débil queda convencido de verdades que no podría calcular solo
+   (Shamir, 1992). Verificar suele ser mucho más barato que producir: esa asimetría
+   es la ganancia de la distribución. El límite se mantiene: hay verdades sobre mí
+   sin certificado verificable, y dos sistemas no se infieren mutuamente por
+   completo (Wolpert, 2008). Las cadenas de Turing (1939) no tienen último
+   eslabón. Falta mostrar que la unión de puntos ciegos no deja un punto ciego
+   global.
 3. **C3 — salto intra→inter-sistema.** Explicitar qué se transfiere de la
    economía interna de un cerebro a una red social de cerebros, y qué no. (Camino H.)
+   **Criterio candidato (v2.3), en tres piezas:**
+   - *Qué no se transfiere:* el límite de evaluación es **reflexivo, no general**
+     (§2.4). No pasa al colectivo como límite, sino como lo contrario: como razón
+     del otro, porque cada uno puede verificar lo que el otro no puede evaluar de
+     sí.
+   - *Qué circula (con Luhmann):* entre mentes solo circula la comunicación. El
+     marco lo **deriva**: la descripción se comprime y puede viajar (planos,
+     resultados); la evaluación es profundidad lógica, no se comprime y no viaja.
+     **La comunicación es la parte del conocimiento que admite compresión.**
+   - *Qué sí se transfiere:* en la capa de región del tiempo relacional
+     (`02-estado-de-la-cuestion.md` §1), lo que dos observadores pueden afirmar
+     juntos es, como mínimo, la **intersección de sus pasados causales**. Lo que
+     esté fuera de contacto para alguno, y el futuro de cada uno, no se hereda;
+     el acuerdo en contenido más allá de ese mínimo es postulado.
+
+   Con eso el salto deja de apoyarse en el comodín «sistema»: **se hereda el
+   pasado común; los resultados circulan; la evaluación no viaja: cada uno evalúa
+   lo que el otro le ofrece.** Desarrollo y pregunta abierta (¿cómo nace un nodo
+   con una capacidad nueva?): `extraccion-ideas/notas-crudas/nota-10-plano-modulo-de-evaluacion-y-nodo-nuevo.md`.
 4. **La moneda — veredicto y frontera.** El Camino E cerró la pregunta «¿añade
    poder explicativo?» con un veredicto de dos usos: sirve como vocabulario para
    patologías de circulación; no sirve para la singularidad. La tarea pendiente
@@ -434,12 +558,18 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    *por qué hay experiencia*. La "circulación consciente"
    (`unidades/circulacion-consciente-pregunta-abierta`) sigue siendo pregunta
    abierta, y debe declararse como tal, no resolverse por metáfora.
-6. **Situarse frente a la literatura (Camino G).** El documento no inventa la
-   relacionalidad: Simondon, Barad, Metzinger, Ladyman & Ross, Luhmann,
+6. **Situarse frente a la literatura (Camino G) — en curso.** El documento no
+   inventa la relacionalidad: Simondon, Barad, Metzinger, Ladyman & Ross, Luhmann,
    Whitehead, Hofstadter, Nāgārjuna. El diferencial no es la tesis relacional,
    sino **derivar su necesidad de una restricción termodinámico-estructural**
-   (§1–§3). Falta el trabajo de situar esa diferencia sin reclamar originalidad
-   donde solo hay convergencia.
+   (§1–§3). Estado (2026-11-05): `02-estado-de-la-cuestion.md` sitúa ya el **tiempo
+   relacional** (Einstein/Minkowski, Rovelli, Reichenbach, Kaplan) y el
+   **corolario de evaluación** (Kleene, von Neumann, Turing, Rice, Gödel, Lawvere,
+   Bennett, Wolfram) y los ocho vecinos de la lista, más dos que no tenía:
+   **Breuer (1995) y Wolpert (2008)**, antecedentes directos del núcleo (§2.2).
+   La objeción de Luhmann a C3 (circulan comunicaciones, no mentes) quedó
+   **aceptada y derivada** (§7.3, v2.3); el límite de Wolpert a la inferencia
+   mutua acota el mecanismo de §7.2. Falta cotejar fuentes primarias.
 
 ---
 
@@ -471,8 +601,18 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 
 ## Referencias
 
+- Adlam, E., & Rovelli, C. (2023). "Information is physical: cross-perspective
+  links in relational quantum mechanics." *Philosophy of Physics*, 1(1).
+  DOI: 10.31389/pop.8. arXiv:2203.13342.
 - Ashby, W. R. (1956). *An Introduction to Cybernetics.* Chapman & Hall.
+- Babai, L. (1985). "Trading group theory for randomness." *Proceedings of the
+  17th ACM Symposium on Theory of Computing (STOC)*, 421–429.
+- Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
+  (ed.), *The Universal Turing Machine: A Half-Century Survey*, 227–257. Oxford
+  University Press.
 - Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
+- Breuer, T. (1995). "The impossibility of accurate state self-measurements."
+  *Philosophy of Science*, 62(2), 197–214.
 - Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). "The Emperor's
   New Markov Blankets." *Behavioral and Brain Sciences*, 45, e183.
   DOI: 10.1017/S0140525X21002351.
@@ -489,29 +629,46 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica
   und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38,
   173–198.
+- Goldwasser, S., Micali, S., & Rackoff, C. (1985). "The knowledge complexity of
+  interactive proof-systems." *Proceedings of the 17th ACM STOC*, 291–304.
 - Hayek, F. A. (1945). "The Use of Knowledge in Society." *American Economic
   Review*, 35(4), 519–530.
+- Kleene, S. C. (1938). "On notation for ordinal numbers." *Journal of Symbolic
+  Logic*, 3(4), 150–155.
+- Lawvere, F. W. (1969). "Diagonal arguments and cartesian closed categories."
+  *Lecture Notes in Mathematics*, 92, 134–145. Springer.
 - Maturana, H., & Varela, F. (1980). *Autopoiesis and Cognition.* Reidel.
 - Raichle, M. E., & Gusnard, D. A. (2002). "Appraising the brain's energy budget."
   *PNAS*, 99(16), 10237–10239.
 - Rovelli, C. (1996). "Relational Quantum Mechanics." *International Journal of
   Theoretical Physics*, 35(8), 1637–1678.
 - Seth, A. (2021). *Being You: A New Science of Consciousness.* Faber.
+- Shamir, A. (1992). "IP = PSPACE." *Journal of the ACM*, 39(4), 869–877.
 - Simmel, G. (1900). *Philosophie des Geldes.*
 - Turing, A. (1936). "On Computable Numbers, with an Application to the
   Entscheidungsproblem." *Proceedings of the London Mathematical Society*,
   s2-42(1), 230–265.
+- Turing, A. (1939). "Systems of Logic Based on Ordinals." *Proceedings of the
+  London Mathematical Society*, s2-45(1), 161–228.
 - Virgo, N., Biehl, M., Baltieri, M., & Capucci, M. (2025). "A 'good regulator
   theorem' for embodied agents." *ALIFE 2025*; arXiv:2508.06326.
   DOI: 10.48550/arXiv.2508.06326.
+- von Neumann, J. (1966). *Theory of Self-Reproducing Automata* (A. W. Burks,
+  ed.). University of Illinois Press.
 - Wentworth, J. (2021). "Fixing the Good Regulator Theorem." *Alignment Forum*
   (entrada de blog, no arbitrada).
   https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
+- Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
+  1257–1281. DOI: 10.1016/j.physd.2008.03.040. arXiv:0708.1362.
 
 > **Nota de verificación:** las referencias son atribuciones estándar de cada
 > tesis. Antes de publicación, cotejar ediciones, páginas y formulación exacta
 > (en especial Conant-Ashby, la forma débil del teorema y el alcance que Friston
 > mismo reclama para el FEP). Las citas de Black, Bruineberg et al., Colombo &
 > Wright, Virgo et al. y Wentworth se añadieron en la integración A/E
-> (2026-10-20); Wentworth es una fuente no arbitrada y se usa solo como crítica
-> técnica.
+> (2026-10-20); las de Adlam & Rovelli, Bennett, Kleene, Lawvere, Turing (1939) y von
+> Neumann, en la v2.1; Breuer y Wolpert, en la v2.2; Babai, Goldwasser et al. y Shamir, en la v2.3
+> (2026-11-05). Wentworth es una fuente no arbitrada y se usa solo como crítica
+> técnica. **Cotejo del 2026-11-05:** Adlam & Rovelli, Breuer, Wolpert y Lawvere
+> cotejados contra fuente (ver la nota de verificación de
+> `02-estado-de-la-cuestion.md`); siguen pendientes las del párrafo anterior.

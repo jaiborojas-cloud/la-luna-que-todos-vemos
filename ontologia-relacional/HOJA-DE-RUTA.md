@@ -308,11 +308,25 @@ paso).
 - `extraccion-ideas/indice.md` — 36 unidades de las notas (25 de núcleo).
 - `extraccion-ideas/indice-obra.md` — 16 unidades de la obra original.
 - `extraccion-ideas/unidades/` y `unidades-obra/` — las unidades individuales.
-- `extraccion-ideas/notas-crudas/` — las 9 notas fuente.
+- `extraccion-ideas/notas-crudas/` — las 10 notas fuente.
+- `ontologia-relacional/02-estado-de-la-cuestion.md` — Camino G.
 - `ontologia-relacional/A-bisagra-inferencia-activa-buen-regulador.md` — Camino A.
 - `ontologia-relacional/E-prueba-de-la-metafora-y-del-marco.md` — Camino E.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
+
+- **2026-11-05 (Camino G, rama `camino-g-estado-de-la-cuestion`, PR #4)** —
+  Creado `02-estado-de-la-cuestion.md` (v1.0): tiempo relacional en tres capas
+  (región literal; contenido vía RQM, declarado; acuerdo como postulado), con la
+  gramática relacional asignada a MENTEMONEDA; corolario de evaluación y sus
+  vecinos; los ocho vecinos de G más **Breuer (1995)** y **Wolpert (2008)**,
+  antecedentes directos del núcleo. Documento-puente a **v2.3**: el plano cabe, la
+  evaluación no (§2.4); RQM solo en la capa de contenido (§5.1); el §3 reclama la
+  construcción, no los ladrillos; **Luhmann aceptado y derivado** (solo circula lo
+  comprimible) y criterio de C3 corregido: *se hereda el pasado común; los
+  resultados circulan; la evaluación no viaja*. Abierta la **nota 10** (plano +
+  módulo de evaluación; ¿cómo nace un nodo con una capacidad nueva?) para el
+  **Camino H**.
 
 - **2026-10-20 (integración A/E al documento-puente)** — Trabajo en la rama
   `integracion-a-e` (worktree separado; `main` local con el commit de
