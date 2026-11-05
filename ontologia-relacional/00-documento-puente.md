@@ -22,6 +22,10 @@
 > mecánica cuántica relacional solo en la capa de contenido del tiempo (§5.1,
 > §6.2) y da criterios candidatos para C2 y C3 (§7.2, §7.3). Situación frente a
 > la literatura: `02-estado-de-la-cuestion.md`.
+>
+> **v2.2 — 2026-11-05.** Tras situar a los vecinos: Breuer (1995) y Wolpert (2008)
+> entran como antecedentes directos del núcleo (§2.2); el §3 reclama la
+> construcción, no los ladrillos.
 
 ---
 
@@ -146,6 +150,18 @@ A ello se suma la clausura operacional de Maturana & Varela (1980): los sistemas
 vivos se conservan por organización recursiva, no por transparencia sobre sí
 mismos.
 
+**Dos antecedentes directos del núcleo (v2.2).** No son convergencias lejanas:
+son versiones ya probadas, en física, de piezas de esta ruta.
+
+5. **Breuer (1995):** ningún aparato puede distinguir todos los estados de un
+   sistema del que forma parte. *Demostrado, para física clásica y cuántica.* **Es,
+   en esencia, el argumento de conteo del Paso 3 (L1a).** La obra no lo reclama
+   como aporte.
+6. **Wolpert (2008):** ningún dispositivo físico de inferencia puede inferir todo
+   sobre un universo que lo contiene, y dos dispositivos no pueden inferirse
+   mutuamente por completo. *Demostrado, con argumento de tipo diagonal.* Es la
+   versión física de la ruta lógica del corolario de evaluación (§2.4).
+
 ### 2.3 La costura honesta
 
 Gödel y Turing hablan de *sistemas formales y máquinas*; Ashby y Conant-Ashby,
@@ -214,7 +230,11 @@ límite del autoconocimiento* (2026-11-04).
 ## 3. El nudo — las dos obstrucciones se componen (SÍNTESIS: el aporte candidato)
 
 Aquí las dos obras se sueldan, y es el tramo con mayor pretensión de originalidad
-del documento. Los pisos §1 y §2 describen dos obstrucciones al mismo objeto —un
+del documento. **Precisión (v2.2):** ningún ladrillo del §2 es nuevo —el conteo
+está en Breuer (1995), el diagonal físico en Wolpert (2008)—. Lo que el §3 reclama
+es la **construcción**: la composición con L2, la separación descripción /
+evaluación (§2.4), el motor deber × no poder → perspectiva, y el criterio de
+herencia de §7.3 (`02-estado-de-la-cuestion.md` §3.10). Los pisos §1 y §2 describen dos obstrucciones al mismo objeto —un
 modelo interno *completo* de S dentro de S—: una estructural (L1, en dos
 formulaciones) y otra termodinámica (L2).
 
@@ -449,9 +469,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 | Sostener una mente cuesta energía finita, real y continua | **Literal** | Raichle & Gusnard 2002; Friston 2010 |
 | La percepción es inferencia predictiva ("alucinación controlada") | **Literal** (marco debatido) | Seth 2021; Clark 2013 |
 | Solo la variedad absorbe variedad | **Demostrable** (teoría de control) | Ashby 1956 |
-| Una parte propia finita no copia fielmente los estados del todo | **Demostrable** (caso finito) | conteo; §2.1 |
+| Una parte propia finita no copia fielmente los estados del todo | **Demostrable** (caso finito) | conteo; §2.1; Breuer 1995 |
 | Un sistema finito puede contener su descripción completa | **Demostrable** | Kleene 1938; von Neumann 1966; §2.4 |
-| Un sistema no puede evaluar por completo su descripción desde dentro | **Corolario** (temporal: condicional a la irreducibilidad; lógico: demostrable para sistemas universales) | §2.4; Turing 1936; Lawvere 1969 |
+| Un sistema no puede evaluar por completo su descripción desde dentro | **Corolario** (temporal: condicional a la irreducibilidad; lógico: demostrable para sistemas universales) | §2.4; Turing 1936; Lawvere 1969; Wolpert 2008 |
 | L2 (energía libre finita) licencia la finitud que L1a necesita | **Tesis-refinamiento** (candidata fuerte) | §1–§2 |
 | El agente debe regular un todo que lo incluye | **Tesis motivada** | §2.1, Paso 2 |
 | Deber regular × no poder completar → perspectiva | **Síntesis** | §3.1 |
@@ -525,8 +545,11 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    (§1–§3). Estado (2026-11-05): `02-estado-de-la-cuestion.md` sitúa ya el **tiempo
    relacional** (Einstein/Minkowski, Rovelli, Reichenbach, Kaplan) y el
    **corolario de evaluación** (Kleene, von Neumann, Turing, Rice, Gödel, Lawvere,
-   Bennett, Wolfram). Pendientes: los ocho vecinos de la lista, con Metzinger
-   primero.
+   Bennett, Wolfram) y los ocho vecinos de la lista, más dos que no tenía:
+   **Breuer (1995) y Wolpert (2008)**, antecedentes directos del núcleo (§2.2).
+   Riesgos abiertos que deja: la objeción de Luhmann a C3 (circulan
+   comunicaciones, no mentes) y el límite de Wolpert a la inferencia mutua, que
+   acota el mecanismo de cobertura de §7.2. Falta cotejar fuentes primarias.
 
 ---
 
@@ -566,6 +589,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
   (ed.), *The Universal Turing Machine: A Half-Century Survey*, 227–257. Oxford
   University Press.
 - Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
+- Breuer, T. (1995). "The impossibility of accurate state self-measurements."
+  *Philosophy of Science*, 62(2), 197–214.
 - Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). "The Emperor's
   New Markov Blankets." *Behavioral and Brain Sciences*, 45, e183.
   DOI: 10.1017/S0140525X21002351.
@@ -608,6 +633,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Wentworth, J. (2021). "Fixing the Good Regulator Theorem." *Alignment Forum*
   (entrada de blog, no arbitrada).
   https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
+- Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
+  1257–1281. arXiv:0708.1362.
 
 > **Nota de verificación:** las referencias son atribuciones estándar de cada
 > tesis. Antes de publicación, cotejar ediciones, páginas y formulación exacta
@@ -615,6 +642,6 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 > mismo reclama para el FEP). Las citas de Black, Bruineberg et al., Colombo &
 > Wright, Virgo et al. y Wentworth se añadieron en la integración A/E
 > (2026-10-20); las de Adlam & Rovelli, Bennett, Kleene, Lawvere, Turing (1939) y von
-> Neumann, en la v2.1
+> Neumann, en la v2.1; Breuer y Wolpert, en la v2.2
 > (2026-11-05). Wentworth es una fuente no arbitrada y se usa solo como crítica
 > técnica.
