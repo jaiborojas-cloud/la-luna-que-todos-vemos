@@ -5,7 +5,7 @@
 > (para no re-discutirlo) y cuáles son los caminos naturales a seguir, en orden.
 > El texto fundacional es `00-documento-puente.md`, en esta misma carpeta.
 
-Última actualización: 2026-10-20.
+Última actualización: 2026-11-05.
 
 ---
 
@@ -181,9 +181,10 @@ cuándo considerarlo terminado.
 - **Criterio de hecho:** un argumento que diga con precisión *qué* del límite
   individual se transfiere a lo colectivo y *qué no*, y por qué.
 - **Estado (2026-11-05): primera versión hecha** en
-  `ontologia-relacional/H-salto-intra-inter-sistema.md`. Abierto: criterio
-  empírico de agencia colectiva; costo de verificar frente a producir; ritmo de
-  regeneración de diversidad.
+  `ontologia-relacional/H-salto-intra-inter-sistema.md`. Abierto: agencia
+  colectiva (trabajo futuro, con criterio de hecho: variables esenciales,
+  regulación e irreductibilidad a un nodo, aplicados a un caso concreto); costo de
+  verificar frente a producir; ritmo de regeneración de diversidad.
 
 ### Camino I — De la imposibilidad a la regulación (perspectividad dinámica) ★ prioridad alta
 - **Abierto por:** la nota 08 (2026-09-04), «Curvatura sin métrica».

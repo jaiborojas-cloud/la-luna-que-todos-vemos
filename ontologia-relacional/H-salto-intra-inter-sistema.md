@@ -139,6 +139,20 @@ Luhmann ofrece un criterio posible: los sistemas sociales son autopoiéticos. Pe
 autopoiesis no es lo mismo que tener variables esenciales en el sentido de Ashby, y
 el documento no puede saltar de una a la otra sin argumento.
 
+**Criterio de agencia colectiva (pendiente, trabajo futuro).** Una red cuenta como
+agente si se cumplen tres cosas:
+
+1. **Variables esenciales identificables:** magnitudes que, fuera de cierto rango,
+   disuelven la red como tal (no a sus nodos).
+2. **Regulación:** mecanismos de la red que responden a las desviaciones de esas
+   variables y las devuelven al rango.
+3. **Irreductibilidad a un nodo:** esa regulación no es la de un solo nodo que
+   decide por todos.
+
+*Criterio de hecho del trabajo futuro:* aplicar (1)–(3) a un caso concreto (una
+institución, una organización) y mostrar que se cumplen, o cuál falla. Mientras
+no se haga, la perspectiva colectiva queda como condición, no como hecho.
+
 **Estatuto:** *condición declarada*, no hecho. **El deber de regular no se
 hereda.** La frase «la sociedad tiene un punto de vista» no se deriva; la frase
 «en la sociedad hay puntos de vista que circulan», sí.
@@ -179,10 +193,17 @@ la cobertura no lo es: depende de cinco condiciones.
 **V1 — Diversidad (distinguibilidad).** Nodos idénticos comparten puntos ciegos:
 lo que uno no ve, ningún otro lo ve. El propio Teorema 1 de Wolpert necesita
 dispositivos distinguibles. La diferenciación de la nota 10 —mismo plano, módulos
-distintos— satisface V1. Apoyo empírico-formal: los modelos de diversidad en
-resolución de problemas (Hong & Page, 2004), con la advertencia de que su
-interpretación está disputada (Thompson, 2014). *Estatuto: necesaria; tesis
-estructural.*
+distintos— satisface V1. *Estatuto: necesaria; tesis estructural.*
+
+**Posición sobre Hong & Page (2004) y Thompson (2014).** Hong & Page presentaron un
+modelo según el cual grupos diversos superan a grupos de alta habilidad; Thompson
+sostuvo que el resultado matemático es casi trivial y que su lectura social es un
+mal uso. **V1 no depende de ese debate.** Se apoya en dos cosas más débiles y más
+firmes: que nodos idénticos comparten puntos ciegos (lógico) y que el Teorema 1 de
+Wolpert exige distinguibilidad (demostrado). Que los grupos diversos *rindan más*
+en tareas reales es una afirmación empírica que el Camino H **no hace**: queda
+**fuera de su alcance**. Hong & Page se cita solo como antecedente del tema, no
+como apoyo.
 
 **V2 — Asimetría verificar / producir.** La ganancia existe donde verificar es más
 barato que producir. Donde verificar cuesta lo mismo que producir, distribuir es
@@ -318,8 +339,10 @@ Ladyman & Ross, 2007.)
 
 ## 8. Lo que queda abierto
 
-- **Agencia colectiva.** ¿Qué criterio empírico dice que una red tiene variables
-  esenciales? ¿Basta la autopoiesis de Luhmann, o hace falta algo más?
+- **Agencia colectiva (trabajo futuro, con criterio de hecho en §2.3):** aplicar
+  los tres requisitos —variables esenciales, regulación, irreductibilidad a un
+  nodo— a un caso concreto. Pregunta lateral: si la autopoiesis de Luhmann cumple
+  el requisito 2.
 - **El costo de verificar frente a producir** (V2, V4): medible en un caso de
   juguete; candidato a experimento preregistrado.
 - **El ritmo de regeneración.** Zollman muestra que la diversidad debe ser
@@ -341,7 +364,7 @@ Ladyman & Ross, 2007.)
 
 ## Referencias
 
-- Ashby, W. R. (1952). *Design for a Brain.* Chapman & Hall.
+- Ashby, W. R. (1952). *Design for a Brain.* Chapman & Hall (2.ª ed., 1960).
 - Babai, L. (1985). "Trading group theory for randomness." *Proceedings of the
   17th ACM STOC*, 421–429.
 - Breuer, T. (1995). "The impossibility of accurate state self-measurements."
@@ -352,6 +375,7 @@ Ladyman & Ross, 2007.)
   interactive proof-systems." *Proceedings of the 17th ACM STOC*, 291–304.
 - Hong, L., & Page, S. E. (2004). "Groups of diverse problem solvers can outperform
   groups of high-ability problem solvers." *PNAS*, 101(46), 16385–16389.
+  DOI: 10.1073/pnas.0403723101.
 - Ladyman, J., & Ross, D. (2007). *Every Thing Must Go.* Oxford University Press.
 - Luhmann, N. (1984). *Soziale Systeme.* Suhrkamp.
 - March, J. G. (1991). "Exploration and exploitation in organizational learning."
@@ -359,7 +383,8 @@ Ladyman & Ross, 2007.)
 - Popper, K. R. (1957). *The Poverty of Historicism.* Routledge & Kegan Paul.
 - Shamir, A. (1992). "IP = PSPACE." *Journal of the ACM*, 39(4), 869–877.
 - Thompson, A. (2014). "Does diversity trump ability? An example of the misuse of
-  mathematics in the social sciences." *Notices of the AMS*, 61(9), 1024–1030.
+  mathematics in the social sciences." *Notices of the AMS*, 61(9), 1024 ss.
+  DOI: 10.1090/noti1163.
 - Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
   1257–1281. DOI: 10.1016/j.physd.2008.03.040.
 - Zollman, K. J. S. (2010). "The epistemic benefit of transient diversity."
@@ -369,8 +394,12 @@ Ladyman & Ross, 2007.)
 > autorreferencia y añade el efecto Edipo; §2.5 divide la fila del límite de
 > evaluación; V3 recibe el origen del código común.
 >
-> **Nota de verificación (2026-11-05).** Cotejados contra fuente: March 1991
-> (revista, volumen, páginas y resultado), Zollman 2010 (revista, volumen, páginas,
-> DOI y la idea de diversidad transitoria), Hong & Page 2004 (existencia de la
-> crítica). Sin cotejar: la referencia exacta de Thompson 2014, de Ashby 1952 para
-> «variables esenciales» y el lugar exacto del «efecto Edipo» en Popper.
+> **Nota de verificación (2026-11-05, pasada final).** Cotejados contra fuente:
+> March 1991 (revista, volumen, páginas y resultado); Zollman 2010 (revista,
+> volumen, páginas, DOI y la idea de diversidad transitoria); Hong & Page 2004
+> (revista, volumen, número, páginas, DOI); Thompson 2014 (revista, volumen,
+> número, página inicial, DOI); Ashby, *Design for a Brain* (Chapman & Hall, 1952;
+> 2.ª ed. 1960); Popper (el efecto Edipo se introduce en *The Poverty of
+> Historicism*). **Sin cotejar:** la página final de Thompson; la sección exacta de
+> Popper; la página de Ashby donde define «variables esenciales» (concepto
+> estándar del libro).

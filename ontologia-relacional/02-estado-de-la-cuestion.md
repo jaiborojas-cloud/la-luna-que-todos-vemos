@@ -566,7 +566,7 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
   (ed.), *The Universal Turing Machine*, 227–257. Oxford University Press.
 - Bong, K.-W., Utreras-Alarcón, A., Ghafari, F., Liang, Y.-C., Tischler, N.,
   Cavalcanti, E. G., Pryde, G. J., & Wiseman, H. M. (2020). "A strong no-go theorem
-  on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
+  on the Wigner's friend paradox." *Nature Physics*, 16, 1199 ss.
   DOI: 10.1038/s41567-020-0990-x.
 - Breuer, T. (1995). "The impossibility of accurate state self-measurements."
   *Philosophy of Science*, 62(2), 197–214.
@@ -608,10 +608,10 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 - Schlenker, P. (2003). "A Plea for Monsters." *Linguistics and Philosophy*, 26,
   29–120.
 - Simondon, G. (2005). *L'individuation à la lumière des notions de forme et
-  d'information.* Jérôme Millon (tesis de 1958).
+  d'information.* Grenoble: Jérôme Millon, col. Krisis (tesis de 1958).
 - Spencer-Brown, G. (1969). *Laws of Form.* Allen & Unwin.
 - Terrell, T., & Hooper, J. (1974). "A semantically based analysis of mood in
-  Spanish." *Hispania*, 57(3), 484–494.
+  Spanish." *Hispania*, 57, 484–494.
 - Turing, A. (1939). "Systems of Logic Based on Ordinals." *Proceedings of the
   London Mathematical Society*, s2-45(1), 161–228.
 - von Neumann, J. (1966). *Theory of Self-Reproducing Automata* (A. W. Burks,
@@ -639,7 +639,9 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 >   Whitehead formulado como doctrina, no como cita; Wolpert con sus teoremas
 >   exactos (la imposibilidad de inferencia mutua débil exige dispositivos
 >   distinguibles).
-> - **Sin cotejar contra fuente (datos estándar, a confirmar antes de publicar):**
->   volumen y páginas de Terrell & Hooper; páginas de Kaplan 1989 y la formulación
->   exacta de su prohibición de «monstruos»; página final de Bong et al.; ediciones
->   de Bello y de Simondon.
+> - **Pasada final (2026-11-05):** Terrell & Hooper (*Hispania* 57, 484–494; se
+>   retira el número de fascículo, no confirmado); Kaplan 1989 (Oxford University
+>   Press, pp. 481–563); Simondon (Grenoble, Jérôme Millon, col. Krisis, 2005).
+> - **Sin cotejar:** página final de Bong et al. (queda «1199 ss.»); la formulación
+>   exacta de la prohibición de «monstruos» en Kaplan; el pie de imprenta de la
+>   primera edición de Bello.
