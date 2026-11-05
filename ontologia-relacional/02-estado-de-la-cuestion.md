@@ -66,8 +66,8 @@ invariante. La capa coordenada es la **relatividad de la simultaneidad**.
 Una consecuencia literal: el «ahora mismo» de un evento lejano cae **siempre** en
 la región fuera de contacto, porque la hipersuperficie de simultaneidad de
 cualquier marco, salvo el propio punto, está entera en la zona tipo espacio.
-Rovelli (2018) llama a esa región el **«presente extendido»**: ni pasado ni futuro
-respecto de uno.
+Rovelli (2018) llama a esa región el **«presente expandido»** (*expanded
+present*): el conjunto de eventos que no son ni pasado ni futuro respecto de uno.
 
 **Contenido — coincide con Rovelli, por compromiso propio (tesis).** La mecánica
 cuántica relacional (Rovelli, 1996) sostiene que los valores de las magnitudes
@@ -427,7 +427,11 @@ compresión.
 **Qué dice.** En *Process and Reality* (1929): la realidad está hecha de
 **ocasiones actuales** que se constituyen **prehendiendo** su pasado; «los muchos
 se vuelven uno y aumentan en uno». Con influencia de la relatividad, sostiene que
-las ocasiones **contemporáneas son causalmente independientes** entre sí.
+las ocasiones **contemporáneas ocurren con independencia causal** unas de otras:
+una ocasión no siente a las que están en «unísono de devenir» con ella. Es una
+doctrina reiterada a lo largo de *Process and Reality* y de la segunda mitad de
+*Adventures of Ideas* (1933), más que una sola frase citable; hay lecturas que
+discuten su coherencia con otras relaciones entre contemporáneos (las espaciales).
 
 **Coincide en dos planos.** El Axioma 1 —eventos que procesan información paso a
 paso— es whiteheadiano. Y la capa de región del tiempo (§1) ya está en él: una
@@ -474,13 +478,17 @@ porque ya probaron, en física, versiones del núcleo.
   no puede reclamar L1a como aporte. **Lo que sí conserva:** la composición con L2
   (la finitud la paga la termodinámica) y la separación descripción / evaluación
   del §2.4.
-- **Wolpert (2008), «Límites físicos de la inferencia».** Formaliza dispositivos
-  físicos de inferencia (observación, predicción, memoria) y prueba, con argumentos
-  de tipo diagonal, que ningún dispositivo puede inferir todo sobre un universo que
-  lo contiene, y que dos dispositivos no pueden inferirse mutuamente de forma
-  completa. **Es la versión física de la ruta lógica del corolario.** Además, su
-  resultado sobre pares de dispositivos toca directamente C2/C3: pone un límite a
-  la evaluación cruzada que la obra usa como mecanismo de cobertura.
+- **Wolpert (2008), «Límites físicos de la inferencia».** Formaliza como
+  **dispositivos de inferencia** todo lo que observa, predice o recuerda, sin
+  depender de las leyes físicas concretas, y prueba resultados de imposibilidad que
+  él mismo compara con el problema de la parada. Tres, en su numeración: (a) para
+  todo dispositivo hay una función binaria que no infiere (Proposición 1); (b) **dos
+  dispositivos distinguibles no pueden inferirse débilmente el uno al otro**
+  (Teorema 1); (c) **dos dispositivos no pueden inferirse fuertemente el uno al
+  otro** (Teorema 3). Además, ningún universo contiene más de un dispositivo de
+  inferencia fuerte. **Es la versión física de la ruta lógica del corolario.** Los
+  teoremas 1 y 3 tocan directamente C2/C3: ponen un límite formal a la evaluación
+  cruzada que la obra usa como mecanismo de cobertura.
 
 **Toca:** §2.1, §2.4, §3, §7.2–§7.3. **Riesgo:** **el más alto de este archivo.**
 Sin ellos, el §3 se presenta como original donde no lo es.
@@ -545,15 +553,17 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 
 - Adlam, E., & Rovelli, C. (2023). "Information is physical: cross-perspective
   links in relational quantum mechanics." *Philosophy of Physics*, 1(1).
-  arXiv:2203.13342.
+  DOI: 10.31389/pop.8. arXiv:2203.13342.
 - Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the
   Entanglement of Matter and Meaning.* Duke University Press.
 - Bello, A. (1847). *Gramática de la lengua castellana destinada al uso de los
   americanos.* Santiago de Chile.
 - Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
   (ed.), *The Universal Turing Machine*, 227–257. Oxford University Press.
-- Bong, K.-W., et al. (2020). "A strong no-go theorem on the Wigner's friend
-  paradox." *Nature Physics*, 16, 1199–1205.
+- Bong, K.-W., Utreras-Alarcón, A., Ghafari, F., Liang, Y.-C., Tischler, N.,
+  Cavalcanti, E. G., Pryde, G. J., & Wiseman, H. M. (2020). "A strong no-go theorem
+  on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
+  DOI: 10.1038/s41567-020-0990-x.
 - Breuer, T. (1995). "The impossibility of accurate state self-measurements."
   *Philosophy of Science*, 62(2), 197–214.
 - Dennett, D. C. (1991). "Real Patterns." *Journal of Philosophy*, 88(1), 27–51.
@@ -580,7 +590,8 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 - Minkowski, H. (1908/1909). "Raum und Zeit." *Physikalische Zeitschrift*, 10,
   104–111.
 - Reichenbach, H. (1928). *Philosophie der Raum-Zeit-Lehre.* De Gruyter.
-- Reichenbach, H. (1947). *Elements of Symbolic Logic*, §51. Macmillan.
+- Reichenbach, H. (1947). *Elements of Symbolic Logic*, §51 («The tenses of
+  verbs»), 287–298. Macmillan.
 - Rice, H. G. (1953). "Classes of recursively enumerable sets and their decision
   problems." *Transactions of the AMS*, 74(2), 358–366.
 - Rojo, G., & Veiga, A. (1999). "El tiempo verbal. Los tiempos simples." En I.
@@ -589,7 +600,7 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 - Rovelli, C. (1996). "Relational Quantum Mechanics." *International Journal of
   Theoretical Physics*, 35(8), 1637–1678.
 - Rovelli, C. (2018). *The Order of Time.* Riverhead (orig. *L'ordine del tempo*,
-  2017).
+  Adelphi, 2017; trad. esp. *El orden del tiempo*, Anagrama, 2018).
 - Schlenker, P. (2003). "A Plea for Monsters." *Linguistics and Philosophy*, 26,
   29–120.
 - Simondon, G. (2005). *L'individuation à la lumière des notions de forme et
@@ -605,14 +616,26 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
   Oxford University Press.
 - Whitehead, A. N. (1929). *Process and Reality.* Macmillan (ed. corregida:
   Griffin & Sherburne, Free Press, 1978).
+- Whitehead, A. N. (1933). *Adventures of Ideas.* Macmillan.
 - Wolfram, S. (2002). *A New Kind of Science.* Wolfram Media.
 - Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
-  1257–1281. arXiv:0708.1362.
+  1257–1281. DOI: 10.1016/j.physd.2008.03.040. arXiv:0708.1362.
 
-> **Nota de verificación:** Gödel, Turing y Rovelli (1996) ya están en el
-> documento-puente. Antes de publicación, cotejar páginas, ediciones y la
-> formulación exacta en Kaplan (monstruos), Reichenbach §51, Terrell & Hooper, el
-> número y año de Adlam & Rovelli en *Philosophy of Physics*, y los datos de
-> Frauchiger & Renner y Bong et al.; en Whitehead, el pasaje sobre la
-> independencia causal de los contemporáneos; en Nāgārjuna, la numeración de
-> versos según la traducción usada.
+> **Nota de verificación (cotejo del 2026-11-05).** Gödel, Turing (1936) y Rovelli
+> (1996) ya están en el documento-puente.
+>
+> - **Cotejado contra fuente:** Adlam & Rovelli (volumen, número, DOI); Bong et al.
+>   (autores, volumen, página inicial, DOI); Breuer (alcance: clásico y cuántico,
+>   determinista y estocástico); Wolpert (revista, DOI, numeración de teoremas);
+>   Reichenbach (§51, pp. 287–298); Rovelli 2018 (el término es *expanded present*);
+>   Nāgārjuna (VV 29 como la «tesis de no tener tesis», tema de Westerhoff); Lawvere
+>   (LNM 92, 1969); Whitehead (la independencia causal de los contemporáneos es
+>   doctrina de *Process and Reality* y *Adventures of Ideas*).
+> - **Corregido en el cotejo:** «presente extendido» → «presente expandido»;
+>   Whitehead formulado como doctrina, no como cita; Wolpert con sus teoremas
+>   exactos (la imposibilidad de inferencia mutua débil exige dispositivos
+>   distinguibles).
+> - **Sin cotejar contra fuente (datos estándar, a confirmar antes de publicar):**
+>   volumen y páginas de Terrell & Hooper; páginas de Kaplan 1989 y la formulación
+>   exacta de su prohibición de «monstruos»; página final de Bong et al.; ediciones
+>   de Bello y de Simondon.

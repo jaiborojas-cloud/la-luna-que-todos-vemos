@@ -161,10 +161,13 @@ son versiones ya probadas, en física, de piezas de esta ruta.
    sistema del que forma parte. *Demostrado, para física clásica y cuántica.* **Es,
    en esencia, el argumento de conteo del Paso 3 (L1a).** La obra no lo reclama
    como aporte.
-6. **Wolpert (2008):** ningún dispositivo físico de inferencia puede inferir todo
-   sobre un universo que lo contiene, y dos dispositivos no pueden inferirse
-   mutuamente por completo. *Demostrado, con argumento de tipo diagonal.* Es la
-   versión física de la ruta lógica del corolario de evaluación (§2.4).
+6. **Wolpert (2008):** todo dispositivo físico de inferencia (lo que observa,
+   predice o recuerda) deja alguna función sin inferir, y dos dispositivos no
+   pueden inferirse mutuamente (Teorema 1, para inferencia débil entre
+   dispositivos distinguibles; Teorema 3, para inferencia fuerte). *Demostrado,
+   independientemente de las leyes físicas concretas; él lo compara con el problema
+   de la parada.* Es la versión física de la ruta lógica del corolario de
+   evaluación (§2.4).
 
 ### 2.3 La costura honesta
 
@@ -600,7 +603,7 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 
 - Adlam, E., & Rovelli, C. (2023). "Information is physical: cross-perspective
   links in relational quantum mechanics." *Philosophy of Physics*, 1(1).
-  arXiv:2203.13342.
+  DOI: 10.31389/pop.8. arXiv:2203.13342.
 - Ashby, W. R. (1956). *An Introduction to Cybernetics.* Chapman & Hall.
 - Babai, L. (1985). "Trading group theory for randomness." *Proceedings of the
   17th ACM Symposium on Theory of Computing (STOC)*, 421–429.
@@ -656,7 +659,7 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
   (entrada de blog, no arbitrada).
   https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
 - Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
-  1257–1281. arXiv:0708.1362.
+  1257–1281. DOI: 10.1016/j.physd.2008.03.040. arXiv:0708.1362.
 
 > **Nota de verificación:** las referencias son atribuciones estándar de cada
 > tesis. Antes de publicación, cotejar ediciones, páginas y formulación exacta
@@ -666,4 +669,6 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 > (2026-10-20); las de Adlam & Rovelli, Bennett, Kleene, Lawvere, Turing (1939) y von
 > Neumann, en la v2.1; Breuer y Wolpert, en la v2.2; Babai, Goldwasser et al. y Shamir, en la v2.3
 > (2026-11-05). Wentworth es una fuente no arbitrada y se usa solo como crítica
-> técnica.
+> técnica. **Cotejo del 2026-11-05:** Adlam & Rovelli, Breuer, Wolpert y Lawvere
+> cotejados contra fuente (ver la nota de verificación de
+> `02-estado-de-la-cuestion.md`); siguen pendientes las del párrafo anterior.
