@@ -156,6 +156,16 @@ cuándo considerarlo terminado.
   retroalimenta documento-puente §5 y §7.6.
 - **Criterio de hecho:** para cada autor/tradición, una línea "coincide en X / me
   separo en Y", y una frase final que nombre el diferencial propio.
+- **Estado (2026-11-05):** hecho en `02-estado-de-la-cuestion.md` (v1.0).
+- **Pendiente — tipología de convergencias.** El proyecto mira dónde se unen
+  contextos; no busca una teoría única. Para que el mapa distinga puentes que
+  soportan peso de palabras parecidas, se proponen tres tipos: **estructural**,
+  **estructural condicional** y **resonancia**. **Quedan registrados sin
+  aplicar** hasta encontrar criterios que los definan. Candidato a criterio, sin
+  adoptar: una convergencia es estructural si existe una traducción entre los dos
+  contextos que preserve algo no verbal (un teorema, una cantidad, una
+  predicción); análogo al test de consistencia del mapa de transición de la nota
+  09.
 
 ### Camino H — Hacer explícito el salto intra→inter-sistema ★ prioridad alta
 - **Qué:** distinguir el argumento *intra-cerebro* (la economía interna de un

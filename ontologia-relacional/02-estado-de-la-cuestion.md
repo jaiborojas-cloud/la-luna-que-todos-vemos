@@ -495,6 +495,10 @@ Sin ellos, el §3 se presenta como original donde no lo es.
 
 ### 3.10 Mapa y diferencial
 
+> **Pendiente:** la columna «tipo de convergencia» (estructural / estructural
+> condicional / resonancia) no se aplica todavía; espera criterios que definan
+> los tres tipos (ver `HOJA-DE-RUTA.md`, Camino G).
+
 | Vecino | Piso que toca | Coincidencia más fuerte | Separación decisiva | Riesgo si no se cita |
 |---|---|---|---|---|
 | Metzinger | §1–§4 | auto-modelo inevitable y no visto como modelo | el límite de evaluación sobrevive a la opacidad; tiene precio | alto |
