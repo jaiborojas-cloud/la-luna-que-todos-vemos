@@ -15,6 +15,11 @@
 > (`A-bisagra-inferencia-activa-buen-regulador.md`) y E
 > (`E-prueba-de-la-metafora-y-del-marco.md`). El título conserva la metáfora de
 > la moneda; su estatuto queda precisado en §5.
+>
+> **v2.1 — 2026-11-05.** Integra el **corolario de evaluación** (§2.4): el plano
+> cabe dentro; la evaluación completa, no. Precisa el alcance de L1a (copia de
+> estados, no descripción) en §0, §2.1 y §6.1. Situación frente a la literatura:
+> `02-estado-de-la-cuestion.md`.
 
 ---
 
@@ -22,10 +27,12 @@
 
 > **El conocimiento se comporta como una moneda —tiene valor solo en la
 > circulación— porque contener el conocimiento completo de un sistema dentro de
-> uno de sus nodos es imposible: un sistema finito no puede alojar una
-> representación fiel del todo que lo incluye. La finitud la paga la termodinámica
-> (L2); la imposibilidad la garantiza el conteo (L1a). La incompletud no es una
-> carencia: es la condición que obliga a la distribución.**
+> uno de sus nodos es imposible: un sistema finito puede alojar el plano del todo
+> que lo incluye, pero no una copia fiel de sus estados ni la evaluación completa
+> de ese plano. La finitud la paga la termodinámica (L2); la imposibilidad de la
+> copia la garantiza el conteo (L1a); la de la evaluación, la irreducibilidad y el
+> argumento diagonal (§2.4). La incompletud no es una carencia: es la condición
+> que obliga a la distribución.**
 
 El resto del documento sostiene esta frase por pisos, del cerebro individual
 (micro) a la red relacional (macro), y expone con honestidad dónde el argumento
@@ -95,8 +102,11 @@ representan). No vale para «cualquier sistema»: eso es honestidad, no debilida
 
 **Paso 3 — La imposibilidad, por conteo.** Para un sistema **finito**, una parte
 propia tiene estrictamente menos estados distinguibles que el todo. No hay
-representación *fiel e inyectiva* del todo en la parte; luego el auto-modelo
-completo es imposible. *Estatuto: demostrable para el caso finito.*
+representación *fiel e inyectiva* de los **estados** del todo en la parte; luego
+el auto-modelo completo, entendido como copia estado por estado, es imposible.
+*Estatuto: demostrable para el caso finito.* **Alcance:** el conteo no prohíbe
+una **descripción** comprimida del todo (un plano, un genoma, un quine); eso cabe
+dentro. El límite que sí alcanza a la descripción es el de su **evaluación** (§2.4).
 
 > **La finitud no es gratis: la paga L2.** Un sistema *infinito* podría poner una
 > parte propia en biyección con el todo (Dedekind) y el conteo no mordería. ¿Qué
@@ -150,6 +160,48 @@ finitud que el conteo necesita.
 - **Lo falsificaría:** exhibir un agente finito que se auto-modele completa y
   fielmente, o desacoplar la persistencia de toda regulación de lo que incluye al
   agente.
+
+### 2.4 Descripción y evaluación — el corolario de evaluación del Axioma 1
+
+> **Corolario de evaluación.** *Un sistema finito puede contener una descripción
+> completa de sí mismo, pero no puede evaluar por completo esa descripción desde
+> dentro.*
+
+Sustituye la formulación anterior («ningún sistema finito sostiene una
+representación completa de sí mismo»), falsa en sentido estricto para la
+descripción. No es un axioma nuevo; se obtiene por dos rutas:
+
+- **Proposición A — el plano sí cabe.** Kleene (teorema de recursión, 1938), los
+  quines y el autómata auto-reproductor de von Neumann (1966): una máquina puede
+  llevar su plano completo, usándolo a la vez como instrucciones y como dato que
+  se copia, sin regreso infinito. El ADN es el caso biológico.
+- **Ruta temporal (desde el Axioma 1).** Si la dinámica es computacionalmente
+  irreducible, el sistema no puede predecir sus estados futuros antes de
+  alcanzarlos: hacerlo sería un atajo. *Estatuto: casi una reformulación de la
+  premisa; su valor es de economía —el límite del autoconocimiento no necesita un
+  principio aparte.*
+- **Ruta lógica (diagonal).** Si el sistema es computacionalmente universal,
+  ningún evaluador interno decide toda propiedad no trivial de su propio
+  comportamiento, ni con tiempo ilimitado. Es el argumento de Turing, Rice y el
+  segundo teorema de Gödel; Lawvere (1969) los unificó como un teorema de punto
+  fijo. *Estatuto: demostrable, en su dominio.*
+
+**La ironía central:** el diagonal funciona *gracias* a la Proposición A. La
+autodescripción completa es lo que vuelve imposible la autoevaluación completa.
+
+**Encaje con §2.1–§3.** L1a (conteo) prohíbe la copia de estados; el corolario
+prohíbe la evaluación del plano. Son límites distintos y complementarios. En
+términos de medida: la descripción se mide por complejidad de Kolmogorov (puede
+ser corta); la evaluación, por profundidad lógica (Bennett, 1988), que no admite
+atajo si la dinámica es irreducible. Evaluar cuesta (Landauer): el residuo no
+evaluado es el precio impagable que L2 nombra.
+
+**Alcance:** no prohíbe el autoconocimiento parcial, aproximado o estadístico; no
+es un argumento sobre la conciencia (evita la trampa de Lucas–Penrose); depende de
+premisas empíricas (que un sistema físico concreto sea irreducible o universal); y
+no impide que un evaluador externo sepa de S más de lo que S sabe de sí: el límite
+es reflexivo, no general. Formalización completa: doc *Corolario de evaluación —
+límite del autoconocimiento* (2026-11-04).
 
 > Unidades de origen: `unidades/incompletud-necesaria`,
 > `patrones-de-autorregulacion`, `topologia-forma-de-la-relacion`,
@@ -387,7 +439,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 | Sostener una mente cuesta energía finita, real y continua | **Literal** | Raichle & Gusnard 2002; Friston 2010 |
 | La percepción es inferencia predictiva ("alucinación controlada") | **Literal** (marco debatido) | Seth 2021; Clark 2013 |
 | Solo la variedad absorbe variedad | **Demostrable** (teoría de control) | Ashby 1956 |
-| Una parte propia finita no modela fielmente el todo | **Demostrable** (caso finito) | conteo; §2.1 |
+| Una parte propia finita no copia fielmente los estados del todo | **Demostrable** (caso finito) | conteo; §2.1 |
+| Un sistema finito puede contener su descripción completa | **Demostrable** | Kleene 1938; von Neumann 1966; §2.4 |
+| Un sistema no puede evaluar por completo su descripción desde dentro | **Corolario** (temporal: condicional a la irreducibilidad; lógico: demostrable para sistemas universales) | §2.4; Turing 1936; Lawvere 1969 |
 | L2 (energía libre finita) licencia la finitud que L1a necesita | **Tesis-refinamiento** (candidata fuerte) | §1–§2 |
 | El agente debe regular un todo que lo incluye | **Tesis motivada** | §2.1, Paso 2 |
 | Deber regular × no poder completar → perspectiva | **Síntesis** | §3.1 |
@@ -473,6 +527,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 
 - Ashby, W. R. (1956). *An Introduction to Cybernetics.* Chapman & Hall.
 - Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
+- Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
+  (ed.), *The Universal Turing Machine: A Half-Century Survey*, 227–257. Oxford
+  University Press.
 - Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). "The Emperor's
   New Markov Blankets." *Behavioral and Brain Sciences*, 45, e183.
   DOI: 10.1017/S0140525X21002351.
@@ -491,6 +548,10 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
   173–198.
 - Hayek, F. A. (1945). "The Use of Knowledge in Society." *American Economic
   Review*, 35(4), 519–530.
+- Kleene, S. C. (1938). "On notation for ordinal numbers." *Journal of Symbolic
+  Logic*, 3(4), 150–155.
+- Lawvere, F. W. (1969). "Diagonal arguments and cartesian closed categories."
+  *Lecture Notes in Mathematics*, 92, 134–145. Springer.
 - Maturana, H., & Varela, F. (1980). *Autopoiesis and Cognition.* Reidel.
 - Raichle, M. E., & Gusnard, D. A. (2002). "Appraising the brain's energy budget."
   *PNAS*, 99(16), 10237–10239.
@@ -504,6 +565,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Virgo, N., Biehl, M., Baltieri, M., & Capucci, M. (2025). "A 'good regulator
   theorem' for embodied agents." *ALIFE 2025*; arXiv:2508.06326.
   DOI: 10.48550/arXiv.2508.06326.
+- von Neumann, J. (1966). *Theory of Self-Reproducing Automata* (A. W. Burks,
+  ed.). University of Illinois Press.
 - Wentworth, J. (2021). "Fixing the Good Regulator Theorem." *Alignment Forum*
   (entrada de blog, no arbitrada).
   https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
@@ -513,5 +576,6 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 > (en especial Conant-Ashby, la forma débil del teorema y el alcance que Friston
 > mismo reclama para el FEP). Las citas de Black, Bruineberg et al., Colombo &
 > Wright, Virgo et al. y Wentworth se añadieron en la integración A/E
-> (2026-10-20); Wentworth es una fuente no arbitrada y se usa solo como crítica
+> (2026-10-20); las de Bennett, Kleene, Lawvere y von Neumann, en la v2.1
+> (2026-11-05). Wentworth es una fuente no arbitrada y se usa solo como crítica
 > técnica.

@@ -7,7 +7,7 @@
 > documento-puente: **distinguir lo literal, lo estructural-demostrable y lo
 > analógico**, y no reclamar originalidad donde solo hay convergencia.
 >
-> **Versión:** v0.1 — 2026-11-05. Primer tramo desarrollado: **§1, el tiempo
+> **Versión:** v0.2 — 2026-11-05 (v0.1 el mismo día). Primer tramo desarrollado: **§1, el tiempo
 > relacional** (material nuevo de noviembre 2026). §2 recoge el **corolario de
 > evaluación** porque toca la tesis del documento-puente. §3 deja en borrador los
 > ocho vecinos del Camino G. §4 propone la retroalimentación a `00-documento-puente.md`.
@@ -204,25 +204,23 @@ todavía no puede.*
 > una descripción completa de sí mismo, pero no puede evaluar por completo esa
 > descripción desde dentro.*
 
-### 2.1 Una tensión que hay que saldar primero
+### 2.1 Decisión tomada: el plano cabe, la evaluación no
 
-Leído deprisa, el corolario **contradice** la tesis del documento-puente (§0, §2.1,
-fila de §6.1): «una parte propia finita no modela fielmente el todo». No la
-contradice si se distinguen dos cosas que el documento hoy no separa:
+Decidido el 2026-11-04 y formalizado en el doc *Corolario de evaluación — límite
+del autoconocimiento*; integrado al documento-puente en la v2.1 (§2.4). Se
+distinguen:
 
-- **Descripción** (generativa, comprimida): una receta que, ejecutada, produce el
-  sistema. Puede ser mucho más pequeña que el sistema. **Sí cabe dentro.**
-  Pruebas: el teorema de recursión de Kleene (1938) —todo programa puede acceder a
-  su propio código—, los *quines* (Hofstadter, 1979) y el autómata
-  auto-reproductor de von Neumann (1966). El genoma es el caso biológico.
-- **Representación de estados** (inyectiva, sin compresión): una copia de cada
-  estado distinguible del todo. **No cabe**: es el conteo de L1a.
+- **Descripción** (el plano, comprimido): **sí cabe dentro**. Kleene (1938), los
+  quines (Hofstadter, 1979), el autómata auto-reproductor de von Neumann (1966);
+  el genoma como caso biológico.
+- **Representación de estados** (copia inyectiva): **no cabe**; es el conteo de L1a.
+- **Evaluación del plano**: **no se completa desde dentro**, por dos rutas: la
+  temporal (irreducibilidad del Axioma 1) y la lógica (diagonal).
 
-El corolario desplaza el límite **de contener a evaluar**: la descripción puede
-estar entera adentro; lo que no se puede es sacar de ella, desde adentro, todas
-sus consecuencias. **Propuesta:** precisar §0 y §2.1 del documento-puente para que
-L1a hable de *representación fiel de estados*, no de *descripción*. Sin esa
-precisión, el primer lector que conozca los quines desarma el §2.
+La formulación anterior («ningún sistema finito sostiene una representación
+completa de sí mismo») queda sustituida. La ironía que la obra puede reclamar como
+lectura propia: **la autodescripción completa es la condición del límite de la
+autoevaluación** —el diagonal necesita el plano para morder—.
 
 ### 2.2 Vecinos del corolario
 
@@ -233,12 +231,20 @@ precisión, el primer lector que conozca los quines desarma el §2.
   contiene su propia descripción (vía aritmetización) y no puede demostrar su
   propia consistencia. *Me separo:* igual que en §2.3 del documento-puente, el
   transporte a cerebros es tesis.
-- **Irreducibilidad computacional (Wolfram, 2002) — el «Axioma 1» del proyecto.**
+- **Irreducibilidad computacional (Wolfram, 2002) — base del Axioma 1.**
   *Coincide:* para muchos sistemas no hay atajo; evaluar la descripción es
-  recorrerla. *Estatuto:* el propio repositorio la marca como **conjetura, no
-  teorema** (`extraccion-ideas/unidades/holonomia-y-memoria-como-torsion.md`).
-  Llamar «corolario» a lo que se sigue de una conjetura exige decir «corolario
-  condicional».
+  recorrerla. *Me separo:* Wolfram la propone como rasgo general del universo
+  computacional; la obra la usa como premisa empírica de la ruta temporal, que es
+  por eso **condicional** (si el sistema es irreducible…). La ruta lógica no
+  depende de ella.
+- **Lawvere (1969).** *Coincide:* Cantor, Gödel, Turing y Rice son un solo
+  teorema de punto fijo. Es el candidato para la **versión relacional** del
+  corolario: el límite formulado sobre morfismos, no sobre objetos (pregunta
+  abierta del doc del corolario; conecta con la teoría de categorías de §5.1 del
+  documento-puente).
+- **Bennett (1988), profundidad lógica.** *Coincide:* mide exactamente la
+  diferencia descripción/evaluación —lo corto de escribir y largo de ejecutar—.
+  Es la medida natural del «residuo no evaluado».
 - **Hofstadter (1979, 2007).** *Coincide:* el bucle extraño es una descripción
   que se contiene a sí misma. *Me separo:* Hofstadter hace del bucle la
   **identidad** del yo; la obra hace del límite de evaluación la **razón** de la
@@ -286,9 +292,9 @@ Líneas provisionales, a cotejar con las fuentes antes de fijarlas.
 
 ## 4. Retroalimentación al documento-puente (propuestas, no aplicadas)
 
-1. **§0 y §2.1 — precisión descripción / representación** (ver §2.1). Cambiar
-   «representación fiel del todo» por «representación fiel de los estados del
-   todo», y añadir el corolario de evaluación como límite complementario.
+1. ~~**§0 y §2.1 — precisión descripción / representación.**~~ **Aplicado en la
+   v2.1** del documento-puente: §0, alcance de L1a en §2.1, nueva §2.4 y filas en
+   §6.1.
 2. **§5.1 — Rovelli.** Añadir que la gramática temporal se funda en la
    relatividad especial (literal) y que la RQM es horizonte en disputa; citar Adlam
    & Rovelli (2023) para el problema de los hechos compartidos.
@@ -319,8 +325,12 @@ Líneas provisionales, a cotejar con las fuentes antes de fijarlas.
   Strange Loop.* Basic Books.
 - Kaplan, D. (1989). "Demonstratives." En J. Almog, J. Perry & H. Wettstein
   (eds.), *Themes from Kaplan*, 481–563. Oxford University Press.
+- Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
+  (ed.), *The Universal Turing Machine*, 227–257. Oxford University Press.
 - Kleene, S. C. (1938). "On notation for ordinal numbers." *Journal of Symbolic
   Logic*, 3(4), 150–155.
+- Lawvere, F. W. (1969). "Diagonal arguments and cartesian closed categories."
+  *Lecture Notes in Mathematics*, 92, 134–145.
 - Luhmann, N. (1984). *Soziale Systeme.* Suhrkamp.
 - Metzinger, T. (2003). *Being No One.* MIT Press.
 - Minkowski, H. (1908/1909). "Raum und Zeit." *Physikalische Zeitschrift*, 10,
