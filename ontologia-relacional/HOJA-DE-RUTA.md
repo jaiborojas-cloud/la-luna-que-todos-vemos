@@ -5,7 +5,7 @@
 > (para no re-discutirlo) y cuáles son los caminos naturales a seguir, en orden.
 > El texto fundacional es `00-documento-puente.md`, en esta misma carpeta.
 
-Última actualización: 2026-10-20.
+Última actualización: 2026-11-05.
 
 ---
 
@@ -156,6 +156,16 @@ cuándo considerarlo terminado.
   retroalimenta documento-puente §5 y §7.6.
 - **Criterio de hecho:** para cada autor/tradición, una línea "coincide en X / me
   separo en Y", y una frase final que nombre el diferencial propio.
+- **Estado (2026-11-05):** hecho en `02-estado-de-la-cuestion.md` (v1.0).
+- **Pendiente — tipología de convergencias.** El proyecto mira dónde se unen
+  contextos; no busca una teoría única. Para que el mapa distinga puentes que
+  soportan peso de palabras parecidas, se proponen tres tipos: **estructural**,
+  **estructural condicional** y **resonancia**. **Quedan registrados sin
+  aplicar** hasta encontrar criterios que los definan. Candidato a criterio, sin
+  adoptar: una convergencia es estructural si existe una traducción entre los dos
+  contextos que preserve algo no verbal (un teorema, una cantidad, una
+  predicción); análogo al test de consistencia del mapa de transición de la nota
+  09.
 
 ### Camino H — Hacer explícito el salto intra→inter-sistema ★ prioridad alta
 - **Qué:** distinguir el argumento *intra-cerebro* (la economía interna de un
@@ -170,6 +180,11 @@ cuándo considerarlo terminado.
 - **Dónde toca:** documento-puente §3 (C3) y §5; posible nuevo archivo o sección.
 - **Criterio de hecho:** un argumento que diga con precisión *qué* del límite
   individual se transfiere a lo colectivo y *qué no*, y por qué.
+- **Estado (2026-11-05): primera versión hecha** en
+  `ontologia-relacional/H-salto-intra-inter-sistema.md`. Abierto: agencia
+  colectiva (trabajo futuro, con criterio de hecho: variables esenciales,
+  regulación e irreductibilidad a un nodo, aplicados a un caso concreto); costo de
+  verificar frente a producir; ritmo de regeneración de diversidad.
 
 ### Camino I — De la imposibilidad a la regulación (perspectividad dinámica) ★ prioridad alta
 - **Abierto por:** la nota 08 (2026-09-04), «Curvatura sin métrica».
@@ -310,10 +325,23 @@ paso).
 - `extraccion-ideas/unidades/` y `unidades-obra/` — las unidades individuales.
 - `extraccion-ideas/notas-crudas/` — las 10 notas fuente.
 - `ontologia-relacional/02-estado-de-la-cuestion.md` — Camino G.
+- `ontologia-relacional/H-salto-intra-inter-sistema.md` — Camino H.
 - `ontologia-relacional/A-bisagra-inferencia-activa-buen-regulador.md` — Camino A.
 - `ontologia-relacional/E-prueba-de-la-metafora-y-del-marco.md` — Camino E.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
+
+- **2026-11-05 (Camino H, rama `camino-h-salto-intra-inter`)** — Creado
+  `H-salto-intra-inter-sistema.md`. Tres preguntas en lugar del comodín
+  «sistema»: el **límite de copia se hereda** (sin Paso 2); el **deber de regular
+  no se hereda** (perspectiva colectiva solo si la red es agente); el **límite de
+  evaluación se transforma** en asimetría (Wolpert). Cinco condiciones para que la
+  red funcione como red de verificadores (diversidad, asimetría verificar /
+  producir, código común, costo pagable, puntos ciegos no correlacionados). Tensión
+  central: **la circulación erosiona la diversidad** (March 1991, Zollman 2010), así
+  que una red distribuida persiste solo si la regenera; «no repetir» como condición
+  de persistencia; la fungibilidad como patología por exceso. Documento-puente a
+  **v2.4**.
 
 - **2026-11-05 (Camino G, rama `camino-g-estado-de-la-cuestion`, PR #4)** —
   Creado `02-estado-de-la-cuestion.md` (v1.0): tiempo relacional en tres capas
