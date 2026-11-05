@@ -30,6 +30,10 @@
 > **v2.3 — 2026-11-05.** Acepta a Luhmann (solo circula la comunicación) y lo
 > deriva del corolario; corrige el criterio de C3 (§7.3) y precisa el mecanismo de
 > C2 con las pruebas interactivas (§7.2). Abre la nota 10.
+>
+> **v2.4 — 2026-11-05.** Integra el **Camino H**: C3 acotada (§3.3); el paso 3 de
+> la derivación exige condiciones (§3.2); patología por exceso (§5.2); condición de
+> independencia para C2 (§7.2).
 
 ---
 
@@ -310,6 +314,11 @@ supuesto.
 3. **Complementariedad → distribución.** Si el «todo» no está en ningún nodo pero
    queda cubierto por el conjunto de modelos parciales *más sus interacciones*, el
    conocimiento del sistema existe solo a través de la red. Eso es «distribuido».
+   *Precisión (Camino H):* que el conocimiento **esté** distribuido es forzoso (el
+   límite de copia se hereda: ningún nodo contiene la red). Que distribuirlo
+   **mejore** la cobertura no es automático: exige diversidad, asimetría verificar /
+   producir, código común, costo pagable y puntos ciegos no del todo correlacionados
+   (`H-salto-intra-inter-sistema.md` §3).
 4. **Distribución → relacionalidad.** Lo que un nodo sabe queda fijado por su
    posición en la trama y solo se completa con otros → la unidad del conocimiento
    es la relación, no el nodo. Cada modelo parcial y único es lo que la obra llama
@@ -329,10 +338,15 @@ supuesto.
 - **C2 — cobertura:** el paso 3 asume que el conjunto de nodos *cubre* el todo; la
   unión de puntos ciegos podría dejar un punto ciego global. Falta mostrar que
   distribuir *mejora* la cobertura, no solo que es forzoso. → **Camino D.**
-- **C3 — salto intra→inter-sistema:** los pasos 4–5 saltan de la economía interna
-  de *un* cerebro a una red *social* de cerebros; son argumentos distintos y el
-  salto debe hacerse explícito, no por juego de palabras con «sistema». →
-  **Camino H.**
+- **C3 — salto intra→inter-sistema (acotada por el Camino H, v2.4):** los pasos
+  4–5 saltaban de la economía interna de *un* cerebro a una red *social* de
+  cerebros. El Camino H separa tres preguntas y responde: **el límite de copia se
+  hereda** (sin necesitar el Paso 2); **el deber de regular no se hereda** (la red
+  tiene perspectiva propia solo si es agente, con variables esenciales); **el
+  límite de evaluación se transforma** de reflexivo en asimétrico (Wolpert, 2008).
+  Criterio que reemplaza al comodín: un nivel cuenta como «sistema» si y solo si
+  tiene variables esenciales que debe regular. Queda abierto el criterio empírico
+  de agencia colectiva. → `H-salto-intra-inter-sistema.md`.
 - **C4 — no sobre-reclamar identidad:** la composición (conteo × costo) no es una
   identidad metafísica profunda entre lógica y termodinámica. L1b queda como
   formulación de respaldo, no como segunda prueba independiente.
@@ -446,7 +460,10 @@ supuesto que falsea lo que quiere decir.
 - **Consérvala** donde el tema es la *dinámica de la circulación y sus patologías*:
   atesoramiento, trampas de liquidez, deflación por dinero que no circula,
   concentración que ahoga el flujo. Ahí la metáfora **nombra una forma de fallo**
-  que «distribuido y relacional» a secas no nombra.
+  que «distribuido y relacional» a secas no nombra. *Segundo uso (Camino H, v2.4):*
+  la patología **por exceso**. Una red que circula sin regenerarse homogeniza a sus
+  nodos hasta volver **fungibles** sus perspectivas, y pierde su cobertura. La
+  fungibilidad, que no describe la mente, sí describe esa patología.
 - **Retírala** —o marca su límite— donde el tema es la *singularidad de la
   perspectiva*. Ahí la fungibilidad del dinero contradice la tesis y usarla es
   «fuera de rigor» en el sentido de §6.
@@ -526,8 +543,12 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    es la ganancia de la distribución. El límite se mantiene: hay verdades sobre mí
    sin certificado verificable, y dos sistemas no se infieren mutuamente por
    completo (Wolpert, 2008). Las cadenas de Turing (1939) no tienen último
-   eslabón. Falta mostrar que la unión de puntos ciegos no deja un punto ciego
-   global.
+   eslabón. **Condición (Camino H, v2.4):** el punto ciego global es la
+   intersección de los puntos ciegos de todos los nodos; distribuir mejora la
+   cobertura si y solo si esos puntos ciegos no están todos correlacionados (la
+   independencia de Condorcet). Y la circulación misma tiende a correlacionarlos
+   (March, 1991; Zollman, 2010): una red distribuida persiste solo si regenera
+   diversidad. Falta medir esa correlación.
 3. **C3 — salto intra→inter-sistema.** Explicitar qué se transfiere de la
    economía interna de un cerebro a una red social de cerebros, y qué no. (Camino H.)
    **Criterio candidato (v2.3), en tres piezas:**
@@ -549,6 +570,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    pasado común; los resultados circulan; la evaluación no viaja: cada uno evalúa
    lo que el otro le ofrece.** Desarrollo y pregunta abierta (¿cómo nace un nodo
    con una capacidad nueva?): `extraccion-ideas/notas-crudas/nota-10-plano-modulo-de-evaluacion-y-nodo-nuevo.md`.
+   **Argumento completo (v2.4):** `H-salto-intra-inter-sistema.md`: qué se hereda,
+   qué no y qué se transforma; cinco condiciones para que la red funcione como red
+   de verificadores; y la tensión entre circulación y diversidad.
 4. **La moneda — veredicto y frontera.** El Camino E cerró la pregunta «¿añade
    poder explicativo?» con un veredicto de dos usos: sirve como vocabulario para
    patologías de circulación; no sirve para la singularidad. La tarea pendiente
@@ -594,8 +618,10 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - **§7 agenda:** `unidades/circulacion-consciente-pregunta-abierta`,
   conciencia-como-forma-de-relacion, modelos-que-descubren-relaciones;
   + Caminos A, D, E, G, H.
-- **Anexos:** `A-bisagra-inferencia-activa-buen-regulador.md` (§2–§3, §5–§7) y
-  `E-prueba-de-la-metafora-y-del-marco.md` (§5–§7).
+- **Anexos:** `A-bisagra-inferencia-activa-buen-regulador.md` (§2–§3, §5–§7),
+  `E-prueba-de-la-metafora-y-del-marco.md` (§5–§7),
+  `02-estado-de-la-cuestion.md` (§2, §5, §7) y
+  `H-salto-intra-inter-sistema.md` (§3, §5.2, §7.2–§7.3).
 
 ---
 
@@ -637,6 +663,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
   Logic*, 3(4), 150–155.
 - Lawvere, F. W. (1969). "Diagonal arguments and cartesian closed categories."
   *Lecture Notes in Mathematics*, 92, 134–145. Springer.
+- March, J. G. (1991). "Exploration and exploitation in organizational learning."
+  *Organization Science*, 2(1), 71–87.
 - Maturana, H., & Varela, F. (1980). *Autopoiesis and Cognition.* Reidel.
 - Raichle, M. E., & Gusnard, D. A. (2002). "Appraising the brain's energy budget."
   *PNAS*, 99(16), 10237–10239.
@@ -660,6 +688,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
   https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
 - Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
   1257–1281. DOI: 10.1016/j.physd.2008.03.040. arXiv:0708.1362.
+- Zollman, K. J. S. (2010). "The epistemic benefit of transient diversity."
+  *Erkenntnis*, 72(1), 17–35. DOI: 10.1007/s10670-009-9194-6.
 
 > **Nota de verificación:** las referencias son atribuciones estándar de cada
 > tesis. Antes de publicación, cotejar ediciones, páginas y formulación exacta
