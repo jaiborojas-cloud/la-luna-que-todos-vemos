@@ -203,6 +203,9 @@ cual Φ es un candidato») hasta decidirlo de frente.
 7. `nota-07-eguentropia-informacion-y-cuellos-de-botella-cosmologicos.md` (2026-08-17)
 8. `nota-08-curvatura-sin-metrica-perspectividad-dinamica.md` (2026-09-04)
 9. `nota-09-geometria-de-las-cartas-de-perspectiva.md` (2026-09-04)
+10. `nota-10-plano-modulo-de-evaluacion-y-nodo-nuevo.md` (2026-11-05) — registro de
+    conversación, no nota pegada; abre material para el Camino H. Sin extraer a
+    unidades todavía.
 
 **Total de unidades**: 36 · **Núcleo (≥2)**: 25 · **Ocurrencias (1)**: 11
 

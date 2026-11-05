@@ -26,6 +26,10 @@
 > **v2.2 — 2026-11-05.** Tras situar a los vecinos: Breuer (1995) y Wolpert (2008)
 > entran como antecedentes directos del núcleo (§2.2); el §3 reclama la
 > construcción, no los ladrillos.
+>
+> **v2.3 — 2026-11-05.** Acepta a Luhmann (solo circula la comunicación) y lo
+> deriva del corolario; corrige el criterio de C3 (§7.3) y precisa el mecanismo de
+> C2 con las pruebas interactivas (§7.2). Abre la nota 10.
 
 ---
 
@@ -510,17 +514,28 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    tarea: quedó como corroboración débil. (Camino A.)
 2. **C2 — emergencia.** Precisar qué distingue la realidad compartida de un mero
    promedio estadístico de percepciones; proponer un criterio operacional. (Camino D.)
-   **Pista (v2.1):** el corolario de evaluación (§2.4) da un *mecanismo* por el que
-   distribuir mejora la cobertura: un evaluador externo decide de S lo que S no
-   decide de sí. Las cadenas de Turing (1939), en que cada sistema añade lo que el
-   anterior no decidía, no tienen último eslabón. Falta mostrar que la unión de
-   puntos ciegos no deja un punto ciego global.
+   **Pista (v2.3):** el corolario de evaluación (§2.4) da un *mecanismo* por el que
+   distribuir mejora la cobertura. El otro no decide por mí: **pone su perspectiva
+   en la mesa y yo la verifico** con mi propio módulo. Modelo formal: los sistemas
+   de prueba interactiva (Goldwasser, Micali & Rackoff, 1985; Babai, 1985), donde un
+   verificador débil queda convencido de verdades que no podría calcular solo
+   (Shamir, 1992). Verificar suele ser mucho más barato que producir: esa asimetría
+   es la ganancia de la distribución. El límite se mantiene: hay verdades sobre mí
+   sin certificado verificable, y dos sistemas no se infieren mutuamente por
+   completo (Wolpert, 2008). Las cadenas de Turing (1939) no tienen último
+   eslabón. Falta mostrar que la unión de puntos ciegos no deja un punto ciego
+   global.
 3. **C3 — salto intra→inter-sistema.** Explicitar qué se transfiere de la
    economía interna de un cerebro a una red social de cerebros, y qué no. (Camino H.)
-   **Criterio candidato (v2.1), en dos piezas:**
+   **Criterio candidato (v2.3), en tres piezas:**
    - *Qué no se transfiere:* el límite de evaluación es **reflexivo, no general**
      (§2.4). No pasa al colectivo como límite, sino como lo contrario: como razón
-     del otro, porque cada uno evalúa lo que el otro no puede evaluar de sí.
+     del otro, porque cada uno puede verificar lo que el otro no puede evaluar de
+     sí.
+   - *Qué circula (con Luhmann):* entre mentes solo circula la comunicación. El
+     marco lo **deriva**: la descripción se comprime y puede viajar (planos,
+     resultados); la evaluación es profundidad lógica, no se comprime y no viaja.
+     **La comunicación es la parte del conocimiento que admite compresión.**
    - *Qué sí se transfiere:* en la capa de región del tiempo relacional
      (`02-estado-de-la-cuestion.md` §1), lo que dos observadores pueden afirmar
      juntos es, como mínimo, la **intersección de sus pasados causales**. Lo que
@@ -528,7 +543,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
      el acuerdo en contenido más allá de ese mínimo es postulado.
 
    Con eso el salto deja de apoyarse en el comodín «sistema»: **se hereda el
-   pasado común; la evaluación se intercambia.**
+   pasado común; los resultados circulan; la evaluación no viaja: cada uno evalúa
+   lo que el otro le ofrece.** Desarrollo y pregunta abierta (¿cómo nace un nodo
+   con una capacidad nueva?): `extraccion-ideas/notas-crudas/nota-10-plano-modulo-de-evaluacion-y-nodo-nuevo.md`.
 4. **La moneda — veredicto y frontera.** El Camino E cerró la pregunta «¿añade
    poder explicativo?» con un veredicto de dos usos: sirve como vocabulario para
    patologías de circulación; no sirve para la singularidad. La tarea pendiente
@@ -547,9 +564,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    **corolario de evaluación** (Kleene, von Neumann, Turing, Rice, Gödel, Lawvere,
    Bennett, Wolfram) y los ocho vecinos de la lista, más dos que no tenía:
    **Breuer (1995) y Wolpert (2008)**, antecedentes directos del núcleo (§2.2).
-   Riesgos abiertos que deja: la objeción de Luhmann a C3 (circulan
-   comunicaciones, no mentes) y el límite de Wolpert a la inferencia mutua, que
-   acota el mecanismo de cobertura de §7.2. Falta cotejar fuentes primarias.
+   La objeción de Luhmann a C3 (circulan comunicaciones, no mentes) quedó
+   **aceptada y derivada** (§7.3, v2.3); el límite de Wolpert a la inferencia
+   mutua acota el mecanismo de §7.2. Falta cotejar fuentes primarias.
 
 ---
 
@@ -585,6 +602,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
   links in relational quantum mechanics." *Philosophy of Physics*, 1(1).
   arXiv:2203.13342.
 - Ashby, W. R. (1956). *An Introduction to Cybernetics.* Chapman & Hall.
+- Babai, L. (1985). "Trading group theory for randomness." *Proceedings of the
+  17th ACM Symposium on Theory of Computing (STOC)*, 421–429.
 - Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
   (ed.), *The Universal Turing Machine: A Half-Century Survey*, 227–257. Oxford
   University Press.
@@ -607,6 +626,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica
   und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38,
   173–198.
+- Goldwasser, S., Micali, S., & Rackoff, C. (1985). "The knowledge complexity of
+  interactive proof-systems." *Proceedings of the 17th ACM STOC*, 291–304.
 - Hayek, F. A. (1945). "The Use of Knowledge in Society." *American Economic
   Review*, 35(4), 519–530.
 - Kleene, S. C. (1938). "On notation for ordinal numbers." *Journal of Symbolic
@@ -619,6 +640,7 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Rovelli, C. (1996). "Relational Quantum Mechanics." *International Journal of
   Theoretical Physics*, 35(8), 1637–1678.
 - Seth, A. (2021). *Being You: A New Science of Consciousness.* Faber.
+- Shamir, A. (1992). "IP = PSPACE." *Journal of the ACM*, 39(4), 869–877.
 - Simmel, G. (1900). *Philosophie des Geldes.*
 - Turing, A. (1936). "On Computable Numbers, with an Application to the
   Entscheidungsproblem." *Proceedings of the London Mathematical Society*,
@@ -642,6 +664,6 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 > mismo reclama para el FEP). Las citas de Black, Bruineberg et al., Colombo &
 > Wright, Virgo et al. y Wentworth se añadieron en la integración A/E
 > (2026-10-20); las de Adlam & Rovelli, Bennett, Kleene, Lawvere, Turing (1939) y von
-> Neumann, en la v2.1; Breuer y Wolpert, en la v2.2
+> Neumann, en la v2.1; Breuer y Wolpert, en la v2.2; Babai, Goldwasser et al. y Shamir, en la v2.3
 > (2026-11-05). Wentworth es una fuente no arbitrada y se usa solo como crítica
 > técnica.

@@ -327,11 +327,17 @@ observación de segundo orden es exactamente el **evaluador externo** del corola
 - **Quién circula.** Para Luhmann las conciencias son **entorno** de la sociedad:
   no circulan entre mentes, circulan comunicaciones. Es la objeción más seria a C3:
   la obra habla de una red de mentes; Luhmann diría que lo que se hereda no pasa de
-  mente a mente. La obra debe responder que lo heredado (el pasado común) es
-  físico, no comunicativo, y que la evaluación ajena llega **por** comunicación sin
-  ser comunicación. *Estatuto: pendiente; es trabajo del Camino H.*
+  mente a mente. **Resuelto (2026-11-05): la obra acepta la objeción y la deriva.**
+  Por el corolario, la descripción se comprime y viaja; la evaluación no se
+  comprime y no viaja. Lo que circula es exactamente lo comprimible: la
+  comunicación. El otro pone su perspectiva en la mesa y cada uno la evalúa con su
+  propio módulo. *Estatuto: síntesis; el transporte a mentes sigue siendo trabajo
+  del Camino H* (nota 10).
 
-**Toca:** §2.4, §7.3. **Riesgo:** alto para C3.
+**Toca:** §2.4, §7.3. **Riesgo:** alto si no se cita; la obra sale reforzada.
+**Coincidencia que la obra puede reclamar como propia:** no la tesis de Luhmann,
+sino su derivación: *la comunicación es la parte del conocimiento que admite
+compresión.*
 
 ### 3.3 Hofstadter — el bucle extraño
 
@@ -484,7 +490,7 @@ Sin ellos, el §3 se presenta como original donde no lo es.
 | Vecino | Piso que toca | Coincidencia más fuerte | Separación decisiva | Riesgo si no se cita |
 |---|---|---|---|---|
 | Metzinger | §1–§4 | auto-modelo inevitable y no visto como modelo | el límite de evaluación sobrevive a la opacidad; tiene precio | alto |
-| Luhmann | §2.4, §7.3 | punto ciego; observación de segundo orden | precio termodinámico; quién circula (mentes vs. comunicaciones) | alto (C3) |
+| Luhmann | §2.4, §7.3 | punto ciego; observación de segundo orden; solo circula la comunicación (aceptado) | precio termodinámico; la obra deriva por qué solo circula lo comprimible | alto si no se cita |
 | Hofstadter | §2.4, §7.3 | bucle extraño; yo parcialmente en otros | límite como razón de distribución, no como identidad | bajo |
 | Simondon | §3, §4, §7.3 | relación constituyente; individuación incompleta que lleva a lo colectivo | deriva la incompletud; termodinámica como premisa | medio |
 | Barad | §5.1 | relata que no preexisten; corte local | marco, no ontología; perspectiva derivada | medio |
@@ -504,8 +510,8 @@ que queda como candidato a aporte es **la construcción**:
    ironía: el plano completo es la condición del límite de su evaluación.
 3. **El motor:** deber regular × no poder evaluar → perspectiva, derivada y no
    postulada.
-4. **El criterio de herencia:** se hereda el pasado común; la evaluación se
-   intercambia.
+4. **El criterio de herencia:** se hereda el pasado común; los resultados
+   circulan; la evaluación no viaja.
 
 **Frase de diferencial (global):** *ningún ladrillo es nuevo —la relación primaria
 tiene dos mil años, el conteo treinta, el punto ciego cuarenta—; lo propio de la
@@ -524,8 +530,9 @@ descripción, y decir con precisión qué pasa de una perspectiva a otra.*
    perspectivas para lo compartido. §6.2 recibe la fila correspondiente.
 3. **§7.2 — C2:** el corolario aporta un mecanismo de mejora de cobertura (el
    evaluador externo decide lo que S no decide de sí).
-4. **§7.3 — C3:** criterio de herencia intra→inter: se hereda el pasado común; la
-   evaluación se intercambia; el límite reflexivo no se transfiere como límite.
+4. **§7.3 — C3:** criterio de herencia intra→inter (corregido en la v2.3, con
+   Luhmann): se hereda el pasado común; los resultados circulan; la evaluación no
+   viaja; el límite reflexivo no se transfiere como límite.
 5. **§7.6 — Camino G:** estado actualizado y enlace a este archivo.
 6. **§2.2, §3 y §6.1 — Breuer y Wolpert (v2.2):** entran como convergencias del
    núcleo; el §3 deja de reclamar los ladrillos y reclama la construcción (§3.10).
