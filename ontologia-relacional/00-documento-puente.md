@@ -18,8 +18,10 @@
 >
 > **v2.1 — 2026-11-05.** Integra el **corolario de evaluación** (§2.4): el plano
 > cabe dentro; la evaluación completa, no. Precisa el alcance de L1a (copia de
-> estados, no descripción) en §0, §2.1 y §6.1. Situación frente a la literatura:
-> `02-estado-de-la-cuestion.md`.
+> estados, no descripción) en §0, §2.1 y §6.1. Declara el compromiso con la
+> mecánica cuántica relacional solo en la capa de contenido del tiempo (§5.1,
+> §6.2) y da criterios candidatos para C2 y C3 (§7.2, §7.3). Situación frente a
+> la literatura: `02-estado-de-la-cuestion.md`.
 
 ---
 
@@ -380,8 +382,16 @@ que subrayarla, porque su convergencia es sugestiva pero no es una sola prueba�
   económico.)
 - **Rovelli (1996), mecánica cuántica relacional:** los valores de las magnitudes
   físicas son relativos a la interacción; un sistema no tiene estado "en sí". (Una
-  *interpretación* física en disputa, no consenso; y su sentido de «relación» es
-  físico, no epistémico-social: ilumina, no se transfiere.)
+  *interpretación* física en disputa, no consenso; empíricamente equivalente a la
+  mecánica cuántica estándar, así que adoptarla no da a la ontología relacional
+  contenido predictivo propio.) **Compromiso declarado (v2.1):** la obra la adopta
+  solo en la *capa de contenido* del tiempo relacional —qué es un hecho, relativo
+  a la interacción en que ocurre—, porque el Axioma 1 ya lo exige; la partición
+  causal (qué pudo alcanzar a quién) se funda en la relatividad especial, que es
+  literal; el acuerdo entre observadores requiere un postulado adicional (Adlam &
+  Rovelli, 2023). Su sentido de «relación» sigue siendo físico, no
+  epistémico-social: no se transfiere por sí solo a la red de mentes (C3). Detalle
+  en `02-estado-de-la-cuestion.md` §1.
 - **Teoría de categorías:** un objeto matemático se caracteriza por sus morfismos
   —sus relaciones— y no por su interior. (Formal.)
 
@@ -466,6 +476,9 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 | La moneda describe patologías de circulación | **Analógico productivo** (ilumina formas de fallo) | §5.2 |
 | La moneda describe la singularidad de la perspectiva | **Prohibido** (la fungibilidad contradice la tesis) | §5.2 |
 | Crear orden no implica crear justicia | **Límite declarado** | §5.2 |
+| La partición causal del tiempo (región) es la misma para todo observador | **Literal** | relatividad especial; `02` §1.2 |
+| Los hechos son relativos a la interacción en que ocurren (capa de contenido) | **Tesis interpretativa declarada** (coherente con el Axioma 1) | Rovelli 1996; §5.1 |
+| Dos observadores coinciden en contenido más allá de su pasado común | **Postulado** | Adlam & Rovelli 2023 |
 
 ---
 
@@ -477,8 +490,25 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    tarea: quedó como corroboración débil. (Camino A.)
 2. **C2 — emergencia.** Precisar qué distingue la realidad compartida de un mero
    promedio estadístico de percepciones; proponer un criterio operacional. (Camino D.)
+   **Pista (v2.1):** el corolario de evaluación (§2.4) da un *mecanismo* por el que
+   distribuir mejora la cobertura: un evaluador externo decide de S lo que S no
+   decide de sí. Las cadenas de Turing (1939), en que cada sistema añade lo que el
+   anterior no decidía, no tienen último eslabón. Falta mostrar que la unión de
+   puntos ciegos no deja un punto ciego global.
 3. **C3 — salto intra→inter-sistema.** Explicitar qué se transfiere de la
    economía interna de un cerebro a una red social de cerebros, y qué no. (Camino H.)
+   **Criterio candidato (v2.1), en dos piezas:**
+   - *Qué no se transfiere:* el límite de evaluación es **reflexivo, no general**
+     (§2.4). No pasa al colectivo como límite, sino como lo contrario: como razón
+     del otro, porque cada uno evalúa lo que el otro no puede evaluar de sí.
+   - *Qué sí se transfiere:* en la capa de región del tiempo relacional
+     (`02-estado-de-la-cuestion.md` §1), lo que dos observadores pueden afirmar
+     juntos es, como mínimo, la **intersección de sus pasados causales**. Lo que
+     esté fuera de contacto para alguno, y el futuro de cada uno, no se hereda;
+     el acuerdo en contenido más allá de ese mínimo es postulado.
+
+   Con eso el salto deja de apoyarse en el comodín «sistema»: **se hereda el
+   pasado común; la evaluación se intercambia.**
 4. **La moneda — veredicto y frontera.** El Camino E cerró la pregunta «¿añade
    poder explicativo?» con un veredicto de dos usos: sirve como vocabulario para
    patologías de circulación; no sirve para la singularidad. La tarea pendiente
@@ -488,12 +518,15 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
    *por qué hay experiencia*. La "circulación consciente"
    (`unidades/circulacion-consciente-pregunta-abierta`) sigue siendo pregunta
    abierta, y debe declararse como tal, no resolverse por metáfora.
-6. **Situarse frente a la literatura (Camino G).** El documento no inventa la
-   relacionalidad: Simondon, Barad, Metzinger, Ladyman & Ross, Luhmann,
+6. **Situarse frente a la literatura (Camino G) — en curso.** El documento no
+   inventa la relacionalidad: Simondon, Barad, Metzinger, Ladyman & Ross, Luhmann,
    Whitehead, Hofstadter, Nāgārjuna. El diferencial no es la tesis relacional,
    sino **derivar su necesidad de una restricción termodinámico-estructural**
-   (§1–§3). Falta el trabajo de situar esa diferencia sin reclamar originalidad
-   donde solo hay convergencia.
+   (§1–§3). Estado (2026-11-05): `02-estado-de-la-cuestion.md` sitúa ya el **tiempo
+   relacional** (Einstein/Minkowski, Rovelli, Reichenbach, Kaplan) y el
+   **corolario de evaluación** (Kleene, von Neumann, Turing, Rice, Gödel, Lawvere,
+   Bennett, Wolfram). Pendientes: los ocho vecinos de la lista, con Metzinger
+   primero.
 
 ---
 
@@ -525,11 +558,14 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 
 ## Referencias
 
+- Adlam, E., & Rovelli, C. (2023). "Information is physical: cross-perspective
+  links in relational quantum mechanics." *Philosophy of Physics*, 1(1).
+  arXiv:2203.13342.
 - Ashby, W. R. (1956). *An Introduction to Cybernetics.* Chapman & Hall.
-- Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
 - Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
   (ed.), *The Universal Turing Machine: A Half-Century Survey*, 227–257. Oxford
   University Press.
+- Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153–164.
 - Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). "The Emperor's
   New Markov Blankets." *Behavioral and Brain Sciences*, 45, e183.
   DOI: 10.1017/S0140525X21002351.
@@ -562,6 +598,8 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Turing, A. (1936). "On Computable Numbers, with an Application to the
   Entscheidungsproblem." *Proceedings of the London Mathematical Society*,
   s2-42(1), 230–265.
+- Turing, A. (1939). "Systems of Logic Based on Ordinals." *Proceedings of the
+  London Mathematical Society*, s2-45(1), 161–228.
 - Virgo, N., Biehl, M., Baltieri, M., & Capucci, M. (2025). "A 'good regulator
   theorem' for embodied agents." *ALIFE 2025*; arXiv:2508.06326.
   DOI: 10.48550/arXiv.2508.06326.
@@ -576,6 +614,7 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 > (en especial Conant-Ashby, la forma débil del teorema y el alcance que Friston
 > mismo reclama para el FEP). Las citas de Black, Bruineberg et al., Colombo &
 > Wright, Virgo et al. y Wentworth se añadieron en la integración A/E
-> (2026-10-20); las de Bennett, Kleene, Lawvere y von Neumann, en la v2.1
+> (2026-10-20); las de Adlam & Rovelli, Bennett, Kleene, Lawvere, Turing (1939) y von
+> Neumann, en la v2.1
 > (2026-11-05). Wentworth es una fuente no arbitrada y se usa solo como crítica
 > técnica.

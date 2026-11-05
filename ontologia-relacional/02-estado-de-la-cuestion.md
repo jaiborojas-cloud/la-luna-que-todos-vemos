@@ -7,7 +7,8 @@
 > documento-puente: **distinguir lo literal, lo estructural-demostrable y lo
 > analógico**, y no reclamar originalidad donde solo hay convergencia.
 >
-> **Versión:** v0.2 — 2026-11-05 (v0.1 el mismo día). Primer tramo desarrollado: **§1, el tiempo
+> **Versión:** v0.3 — 2026-11-05 (v0.1 y v0.2 el mismo día). La v0.3 adopta la
+> **decisión híbrida** sobre Rovelli y deja la gramática en MENTEMONEDA. Primer tramo desarrollado: **§1, el tiempo
 > relacional** (material nuevo de noviembre 2026). §2 recoge el **corolario de
 > evaluación** porque toca la tesis del documento-puente. §3 deja en borrador los
 > ocho vecinos del Camino G. §4 propone la retroalimentación a `00-documento-puente.md`.
@@ -31,170 +32,170 @@ termodinámico-estructural** (documento-puente §1–§3).
 
 ## 1. El tiempo relacional
 
-### 1.1 Lo que la obra propone
+> **Reparto entre obras (decidido 2026-11-05).** Aquí va la **estructura**: las
+> tres capas, sus fuentes y su estatuto. La **gramática** que la encarna en
+> español (dativo, subjuntivo, futuro de subjuntivo, «se es») pertenece a
+> MENTEMONEDA; §1.6 es solo el puente. Mismo patrón que el «pago»: el mecanismo se
+> explica aquí, la otra obra lo encarna.
 
-**Tesis gramatical:** el tiempo de un evento no es una propiedad del evento sino de
-la relación entre el evento y quien lo nombra. Se organiza en dos capas:
+### 1.1 Lo que la obra propone: tres capas
 
-- **Capa causal (absoluta, igual para todo observador):** respecto de un
-  observador, todo evento está en una de tres regiones —**ya me alcanzó** (su luz o
-  sus efectos llegaron), **puedo alcanzarlo** (mis efectos pueden llegarle) o
-  **fuera de contacto** (ni lo uno ni lo otro, todavía).
-- **Capa coordenada (relativa al marco):** dentro de lo que está fuera de contacto,
-  el «antes», el «ahora» y el «después» dependen de una elección de marco. No hay
-  un hecho que decida cuál es el correcto.
+**Tesis:** el tiempo de un evento no es una propiedad del evento sino de su
+relación con quien lo registra. Esa relación tiene tres capas, cada una con su
+fuente y su estatuto:
 
-**Traducción al español** (probada en literatura:
-`capitulos/fragmento_luna_roja_gramatica_relacional.md`, PR #3):
+| Capa | Pregunta | Fuente | Estatuto |
+|---|---|---|---|
+| **Región** | ¿Pudo alcanzarme? Tres respuestas: ya me alcanzó / puedo alcanzarlo / fuera de contacto | Relatividad especial (conos de luz) | **Literal** |
+| **Contenido** | ¿Qué es el hecho? Relativo a la interacción en que ocurre | Mecánica cuántica relacional | **Tesis interpretativa declarada** |
+| **Lo compartido** | ¿Qué podemos afirmar juntos? | Intersección de conos pasados; enlaces entre perspectivas | **Literal** en su mínimo; **postulado** en lo demás |
 
-| Región / función | Recurso gramatical | Ejemplo |
-|---|---|---|
-| El observador como ancla | **Dativo** | «me es», «me ha sido», «me será» |
-| Ya me alcanzó (pasado causal) | Dativo + pretérito / antepresente indicativo | «me ha sido», «la luna nos era» |
-| Puedo alcanzarlo (futuro causal) | Dativo + futuro indicativo | «nos será después, si llega» |
-| Fuera de contacto (separación tipo espacio) | **Subjuntivo** (no aserción) | «me esté sucediendo» |
-| Los yo posibles (cambio del propio ancla) | **Futuro de subjuntivo** | «me fuere», «me seré el que se levante» |
-| Invariantes, válidos en todo marco | **Impersonal «se es»** | «se es» |
+Dentro de la región «fuera de contacto», además, el antes / ahora / después
+depende del marco (**capa coordenada**): no hay hecho que decida cuál es el
+correcto.
 
-Epígrafe: *Fuere lo que fuere.*
+### 1.2 Física: la decisión híbrida
 
-### 1.2 Física: lo que es literal y lo que no
+**Región — coincide con Einstein y Minkowski (literal).** La capa de región es la
+estructura de conos de luz de la relatividad especial (Einstein, 1905; Minkowski,
+1908): para cada evento, el espacio-tiempo se parte en **pasado absoluto**,
+**futuro absoluto** y una región **separada tipo espacio**. La partición es
+invariante. La capa coordenada es la **relatividad de la simultaneidad**.
 
-**Coincide (literal).** La capa causal es exactamente la estructura de conos de
-luz de la relatividad especial (Einstein, 1905; Minkowski, 1908): para cada evento
-de referencia, el espacio-tiempo se parte en **pasado absoluto**, **futuro
-absoluto** y una región **separada tipo espacio** («el resto», *elsewhere*). Esa
-partición es invariante: todos los marcos inerciales coinciden en ella. La capa
-coordenada es la **relatividad de la simultaneidad**: para eventos separados tipo
-espacio, el orden temporal depende del marco.
+Una consecuencia literal: el «ahora mismo» de un evento lejano cae **siempre** en
+la región fuera de contacto, porque la hipersuperficie de simultaneidad de
+cualquier marco, salvo el propio punto, está entera en la zona tipo espacio.
+Rovelli (2018) llama a esa región el **«presente extendido»**: ni pasado ni futuro
+respecto de uno.
 
-**Una consecuencia que el fragmento ya acierta.** El «ahora mismo» de un evento
-lejano cae **siempre** en la región fuera de contacto: la hipersuperficie de
-simultaneidad de cualquier marco, salvo el propio punto, está entera en la zona
-tipo espacio. Por eso «¿cuántos llantos me estén ocurriendo ahora mismo?» no es
-licencia poética sino física correcta: el llanto lejano «de ahora» es, por
-construcción, algo que no se puede afirmar todavía. Rovelli (2018) llama a esa
-región el **«presente extendido»**: ni pasado ni futuro respecto de uno. La obra
-la gramaticaliza como subjuntivo.
+**Contenido — coincide con Rovelli, por compromiso propio (tesis).** La mecánica
+cuántica relacional (Rovelli, 1996) sostiene que los valores de las magnitudes
+—los hechos— son relativos al sistema con el que se interactúa. La obra la
+adopta **en esta capa y solo en ella**, porque el Axioma 1 y sus corolarios ya lo
+exigen: redes de eventos relacionales, variables físicas relacionales,
+indeterminación que se resuelve en la interacción. Rechazarla aquí haría que el
+capítulo del tiempo contradijera el Axioma 1.
 
-**Me separo de Rovelli en una precisión de origen.** Las dos capas vienen de la
-relatividad **especial**, no de la mecánica cuántica relacional (Rovelli, 1996). La
-RQM dice algo más fuerte y distinto: que los valores de las magnitudes —los
-*hechos*— son relativos al sistema con el que se interactúa. Si se toma en serio,
-**relativiza incluso lo que la capa causal trata como absoluto**: «me ha sido» sería
-un hecho relativo a mí, no un hecho del mundo. La obra debe elegir:
+Las dos capas se encuentran en un punto: **«ya me alcanzó» y «se volvió hecho
+para mí» son lo mismo.** Que algo me alcance es que hubo una cadena de
+interacciones; en la RQM el hecho nace en la interacción.
 
-- **Opción prudente (recomendada):** fundar la gramática en la relatividad
-  especial (consenso, literal) y citar la RQM solo como horizonte (interpretación en
-  disputa, como ya advierte §5.1 del documento-puente).
-- **Opción fuerte:** abrazar la RQM y tratar «se es» no como invariante dado sino
-  como **construido**. Aquí ayuda Adlam & Rovelli (2023): el postulado de
-  **enlaces entre perspectivas** (*cross-perspective links*) se añadió a la RQM
-  precisamente para que observadores distintos puedan compartir hechos. Es,
-  literalmente, la pregunta de la luna: qué podemos afirmar juntos.
+**Lo compartido — el problema que la RQM tuvo que resolver.** Si los hechos son
+relativos, ¿cómo comparten hechos dos observadores? Adlam & Rovelli (2023)
+añadieron el postulado de **enlaces entre perspectivas** (*cross-perspective
+links*): si A consulta el registro que B dejó de una variable, A obtiene lo mismo
+que B. La crítica que recibe es la que importa a la obra: al garantizar hechos
+compartidos, el postulado podría reintroducir hechos absolutos.
 
-**Una ganancia para el documento-puente (§4, realidad compartida).** En la capa
-causal, lo que dos observadores pueden afirmar juntos es lo que está en el pasado
-de ambos: la **intersección de sus conos pasados**. «Solo la luna nos era» dice
-eso con exactitud. *La luna que todos vemos* recibe así una lectura literal y
-mínima —el pasado causal común— que no depende de la metáfora de la moneda. No
-resuelve la costura C2 (emergencia ≠ promedio), pero le da un suelo: el mundo
-compartido empieza por la intersección de pasados, no por un consenso.
+La obra toma de aquí un **mínimo literal** que no depende del postulado: lo que
+dos observadores pueden afirmar juntos está, como mínimo, en la **intersección de
+sus conos pasados**. *La luna que todos vemos* recibe así una lectura literal: el
+pasado causal común. Lo que vaya más allá de ese mínimo (que lo afirmado coincida
+en contenido) queda como postulado, declarado.
+
+**Me separo de Rovelli en dos puntos.** (1) Su relación es física; la obra no la
+transfiere sin más a la red de mentes (eso es la costura C3). (2) La RQM no tiene
+partición causal propia; la obra la toma de la relatividad especial y no le pide
+a la RQM lo que no da.
+
+**Dos objeciones que la decisión resiste.**
+
+- **¿Reabre el veredicto del Camino E?** No. Las interpretaciones de la mecánica
+  cuántica son empíricamente equivalentes: adoptar la RQM no da a la ontología
+  relacional contenido predictivo propio. Sigue siendo **marco** (documento-puente
+  §5.1), ahora con un compromiso físico declarado.
+- **¿Es infalsable?** En parte, como toda interpretación. Pero la pregunta «¿hay
+  hechos independientes del observador?» está acotada por los teoremas y
+  experimentos tipo *amigo de Wigner* (Frauchiger & Renner, 2018; Bong et al.,
+  2020), que muestran que ciertos supuestos sobre hechos absolutos no pueden
+  sostenerse a la vez. La capa de contenido toma partido en un debate con soporte
+  empírico, no solo especulativo.
 
 ### 1.3 Reichenbach: S, E, R
 
 **Qué dice.** Reichenbach (1947, §51) analiza los tiempos verbales con tres puntos:
 **S** (momento del habla), **E** (momento del evento) y **R** (punto de
-referencia). El antepresente («he visto») es E antes de S con R = S; el
-pluscuamperfecto («había visto»), E antes de R antes de S.
+referencia). Ningún tiempo verbal se define por E solo.
 
-**Coincide.** El tiempo verbal ya es relacional en Reichenbach: ningún tiempo se
-define por E solo. El dativo de la obra hace visible lo que S deja implícito:
-**S tiene dueño**.
+**Coincide:** el tiempo nombrado ya es relacional; depende de quien lo nombra (S).
 
-**Me separo en (tesis, no demostrada):** la obra reparte los tres puntos entre las
-dos capas. **S** es el vértice del cono del observador (el dativo); la posición de
-**E** respecto de ese cono decide el **modo** (indicativo si está en un cono,
-subjuntivo si está fuera); **R** es la elección de marco, es decir, **la capa
-coordenada**. Reichenbach no hizo esta correspondencia en la gramática, pero es
-la figura puente natural: es también autor de la **teoría causal del tiempo** y
-de la tesis de la **convencionalidad de la simultaneidad** (Reichenbach, 1928). Que
-R sea convencional en su gramática y la simultaneidad sea convencional en su
-física es una convergencia que la obra puede explotar, siempre como lectura
-propia, no como algo que él afirmó.
+**Me separo en (tesis estructural):** la obra reparte los tres puntos entre sus
+capas. **S** es el vértice del observador; la posición de **E** respecto de su
+cono da la **región**; **R** es la elección de marco, es decir, la **capa
+coordenada**. Reichenbach es la figura puente natural, porque también es autor de
+la **teoría causal del tiempo** y de la **convencionalidad de la simultaneidad**
+(Reichenbach, 1928). Que R sea convencional en su análisis del lenguaje y la
+simultaneidad lo sea en su física es una convergencia que la obra explota como
+lectura propia, no como algo que él afirmó.
 
 ### 1.4 Kaplan: indexicales
 
 **Qué dice.** Kaplan (1989) distingue el **carácter** de una expresión (la regla
 que fija su contenido según el contexto) del **contenido** (lo que dice en ese
-contexto). «Yo», «aquí», «ahora» son indexicales puros. «Yo estoy aquí ahora» es
+contexto). «Yo», «aquí», «ahora» son indexicales puros; «yo estoy aquí ahora» es
 verdadera en todo contexto de uso, aunque no sea necesaria.
 
-**Coincide.** El dativo funciona como un indexical: «me» fija el contexto (el
-observador, su aquí, su ahora) del que depende todo lo demás. **«Me es»** es el
-análogo gramatical del «yo estoy aquí ahora» de Kaplan: verdadero siempre en su
-vértice, y solo en su vértice.
+**Coincide:** el observador funciona como contexto kaplaniano; el contenido de
+«ahora» depende de él. La capa de región es la versión física del carácter: una
+regla fija («lo que pudo alcanzarme») que da contenidos distintos según el
+vértice.
 
-**Me separo en dos puntos:**
+**Me separo en:** Kaplan relativiza el **contenido de las expresiones**; la capa
+de contenido de la obra relativiza **los hechos mismos** (vía RQM). Es un paso más
+fuerte, y por eso se declara como tesis, no se hereda de Kaplan.
 
-- **Los monstruos.** Kaplan sostuvo que no hay operadores que cambien el contexto
-  de evaluación de un indexical («monstruos»). El futuro de subjuntivo de la obra
-  («me fuere», «los yo posibles») hace justamente eso: desplaza el ancla, evalúa
-  desde un yo que todavía no es. Es un **monstruo kaplaniano**. La lingüística
-  posterior discute que existan en algunas lenguas (Schlenker, 2003); la obra no
-  necesita resolver ese debate, pero sí debe declarar que su futuro de subjuntivo
-  es un uso **deliberadamente marcado**, no la gramática estándar.
-- **El impersonal.** En Kaplan, lo invariante es lo que vale en todo contexto. La
-  obra lo gramaticaliza con **«se es»**: el «se» genérico cuantifica sobre
-  cualquier sujeto, que aquí es tanto como decir *sobre cualquier observador*.
-  Correspondencia limpia, pero estructural, no demostrada.
+### 1.5 Veredicto del tramo
 
-### 1.5 La tradición hispánica: el español ya era relacional
+- **Literal:** la partición en tres regiones; la relatividad de la simultaneidad;
+  el «ahora» lejano en zona tipo espacio; el pasado común como intersección de
+  conos.
+- **Tesis interpretativa declarada:** los hechos son relativos a la interacción
+  (RQM), coherente con el Axioma 1.
+- **Postulado:** el acuerdo en contenido entre observadores, más allá del pasado
+  común (enlaces entre perspectivas).
+- **Tesis estructural:** la asignación S / E / R → vértice / región / marco.
+- **Lo falsificaría:** que la partición en tres regiones dependiera del marco; o,
+  para la capa de contenido, que se estableciera la existencia de hechos
+  absolutos independientes de toda interacción.
 
-Esta sección es la que más protege la obra de reclamar de más.
+**Frase de diferencial (tiempo):** *la relacionalidad del tiempo nombrado ya
+estaba en Reichenbach y Kaplan, y la del tiempo físico en Einstein y Rovelli; lo
+propio de la obra es componerlas en tres capas con estatutos distintos —región
+literal, contenido interpretativo, acuerdo postulado— y derivar de ellas qué se
+hereda de un observador a otro: el pasado común, y nada más sin postulado.*
 
-- **Bello (1847)** nombró los tiempos del español por sus **relaciones**:
-  *antepresente*, *pospretérito*, *antecopretérito*. Su sistema es una gramática
-  relacional del tiempo un siglo antes de Reichenbach. *Coincide:* la obra no
-  inventa que el tiempo verbal sea relacional en español. *Me separo:* Bello
-  relaciona eventos entre sí; la obra los relaciona con un **observador físico**
-  y con su cono causal.
-- **Rojo & Veiga (1999)** formalizan el tiempo verbal del español como sistema
-  **vectorial** desde un punto origen. *Coincide* en el origen como ancla. *Me
-  separo:* su origen es el acto de habla; el de la obra es un observador situado
-  en el espacio-tiempo.
-- **El subjuntivo como no aserción** es una lectura clásica en la lingüística del
-  español (Terrell & Hooper, 1974): el subjuntivo marca lo que el hablante no
-  afirma. La obra le da una **razón física** a esa no aserción: no se afirma lo que
-  no ha podido alcanzarnos. «Ninguno de los dos puede afirmarlo todavía» es la
-  definición de la región tipo espacio puesta en boca de un hablante.
-- **El futuro de subjuntivo** está casi extinto en el uso, pero sobrevive en
-  fórmulas («sea lo que fuere», «adonde fueres, haz lo que vieres») y en el
-  lenguaje jurídico. Que el epígrafe sea una fórmula fosilizada es acertado: la
-  obra **reactiva** una forma que la lengua conserva sin usarla.
+### 1.6 Puente con MENTEMONEDA: la gramática
 
-**Advertencia de estatuto.** Varios usos de la obra son agramaticales en el
-estándar: subjuntivo en oración principal sin inductor («me esté sucediendo»),
-dativo con *ser* existencial («me es»). Ahí está su fuerza literaria y su riesgo
-de rigor: es una **gramática propuesta**, no una descripción del español.
+La estructura de §1.1 tiene una encarnación literaria en español, probada en
+`capitulos/fragmento_luna_roja_gramatica_relacional.md` (PR #3), con el epígrafe
+*Fuere lo que fuere*:
 
-### 1.6 Veredicto del tramo
+| Capa / función | Recurso | Ejemplo |
+|---|---|---|
+| El observador como vértice | Dativo | «me es», «me ha sido», «me será» |
+| Fuera de contacto | Subjuntivo | «me esté sucediendo» |
+| Los yo posibles | Futuro de subjuntivo | «me fuere» |
+| Invariantes | Impersonal | «se es» |
 
-- **Literal:** las dos capas (conos de luz; relatividad de la simultaneidad); el
-  «ahora» lejano en zona tipo espacio; el pasado común como intersección de conos.
-- **Estructural (tesis):** la asignación S / E / R → vértice / modo / marco; el
-  dativo como indexical; «se es» como invariante.
-- **Analógico / literario:** el futuro de subjuntivo como «yo posibles»; la
-  extensión de la gramática a la conciencia o a la red social.
-- **Lo falsificaría:** que un hablante pudiera afirmar con sentido, en indicativo,
-  un evento lejano «de ahora» sin que haya llegado ninguna señal suya; o que la
-  partición en tres regiones dependiera del marco.
+Pertenece a MENTEMONEDA, no a esta obra. Para que allí no reclame de más, conviene
+llevar consigo esta tradición:
 
-**Frase de diferencial (tiempo):** *la relacionalidad del tiempo verbal ya estaba
-en Bello y Reichenbach, y la del tiempo físico en Einstein y Rovelli; lo propio de
-la obra es hacer que el **modo** gramatical —indicativo o subjuntivo— lo decida la
-**causalidad**: se afirma lo que ya nos alcanzó, y se deja en subjuntivo lo que
-todavía no puede.*
+- **Bello (1847)** ya nombró los tiempos del español por sus relaciones
+  (*antepresente*, *pospretérito*). **Rojo & Veiga (1999)** los formalizan como
+  sistema vectorial desde un origen. El español ya era relacional en su tiempo
+  verbal; lo nuevo es anclar el origen en un observador físico.
+- **El subjuntivo como no aserción** (Terrell & Hooper, 1974): marca lo que el
+  hablante no afirma. La gramática le da una razón física: no se afirma lo que no
+  ha podido alcanzarnos.
+- **El futuro de subjuntivo** sobrevive en fórmulas («sea lo que fuere») y en el
+  lenguaje jurídico; el epígrafe reactiva una forma fosilizada.
+- **«Me fuere» es un monstruo kaplaniano:** un operador que desplaza el propio yo,
+  lo que Kaplan creía imposible y Schlenker (2003) discute que exista en algunas
+  lenguas.
+- **Advertencia:** varios usos son agramaticales en el estándar (subjuntivo en
+  oración principal sin inductor; dativo con *ser* existencial). Es una gramática
+  propuesta, no una descripción del español: fuerza literaria allá, riesgo de
+  rigor aquí.
 
 ---
 
@@ -255,10 +256,11 @@ autoevaluación** —el diagonal necesita el plano para morder—.
 - **Metzinger (2003).** *Coincide:* el sistema tiene un modelo de sí y no puede
   reconocerlo como modelo (transparencia). *Me separo:* ver §3.
 
-**Puente con §1.** Evaluar por completo la propia descripción exigiría estar ya en
-el propio futuro causal. Lo que de mí todavía no me alcanza queda, para mí, en
-subjuntivo: **«me fuere»**. El corolario y la gramática dicen lo mismo en dos
-idiomas. *Estatuto: analógico-estructural.*
+**Puente con §1.** Evaluar por completo la propia descripción exigiría tener ya
+en el propio pasado causal lo que todavía está en el propio futuro: la región
+«puedo alcanzarlo» de uno mismo. El corolario temporal es la capa de región
+aplicada al sistema sobre sí. *Estatuto: estructural.* (En MENTEMONEDA, esa
+región de uno mismo tiene nombre gramatical: «me fuere».)
 
 ---
 
@@ -290,25 +292,20 @@ Líneas provisionales, a cotejar con las fuentes antes de fijarlas.
 
 ---
 
-## 4. Retroalimentación al documento-puente (propuestas, no aplicadas)
+## 4. Retroalimentación al documento-puente (aplicada en la v2.1)
 
-1. ~~**§0 y §2.1 — precisión descripción / representación.**~~ **Aplicado en la
-   v2.1** del documento-puente: §0, alcance de L1a en §2.1, nueva §2.4 y filas en
-   §6.1.
-2. **§5.1 — Rovelli.** Añadir que la gramática temporal se funda en la
-   relatividad especial (literal) y que la RQM es horizonte en disputa; citar Adlam
-   & Rovelli (2023) para el problema de los hechos compartidos.
-3. **§4 — realidad compartida.** Añadir la lectura mínima: el mundo común empieza
-   por la intersección de pasados causales. Suelo para C2, no solución.
-4. **§6.2 — filas nuevas:** «El modo verbal lo decide la causalidad» (tesis
-   estructural); «Los yo posibles en futuro de subjuntivo» (analógico).
-5. **§7.6 — Camino G.** Enlazar este archivo y sustituir «falta el trabajo de
-   situar» por el estado real.
+1. **§0, §2.1, §2.4, §6.1 — corolario de evaluación:** el plano cabe; la copia de
+   estados y la evaluación completa, no.
+2. **§5.1 — Rovelli:** compromiso declarado con la RQM solo en la capa de
+   contenido; partición causal desde la relatividad especial; enlaces entre
+   perspectivas para lo compartido. §6.2 recibe la fila correspondiente.
+3. **§7.2 — C2:** el corolario aporta un mecanismo de mejora de cobertura (el
+   evaluador externo decide lo que S no decide de sí).
+4. **§7.3 — C3:** criterio de herencia intra→inter: se hereda el pasado común; la
+   evaluación se intercambia; el límite reflexivo no se transfiere como límite.
+5. **§7.6 — Camino G:** estado actualizado y enlace a este archivo.
 
-> Nota de numeración: la hoja de ruta indica que el Camino G retroalimenta
-> **§5 y §7.6** (en la v2, la agenda de G es el punto 6 de §7). Si §7.3 era
-> intencional (C3, el salto intra→inter), habría que añadir allí cómo la gramática
-> separa el tiempo de un observador del tiempo compartido.
+La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 
 ---
 
@@ -319,14 +316,18 @@ Líneas provisionales, a cotejar con las fuentes antes de fijarlas.
   arXiv:2203.13342.
 - Bello, A. (1847). *Gramática de la lengua castellana destinada al uso de los
   americanos.* Santiago de Chile.
+- Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
+  (ed.), *The Universal Turing Machine*, 227–257. Oxford University Press.
+- Bong, K.-W., et al. (2020). "A strong no-go theorem on the Wigner's friend
+  paradox." *Nature Physics*, 16, 1199–1205.
 - Einstein, A. (1905). "Zur Elektrodynamik bewegter Körper." *Annalen der Physik*,
   17, 891–921.
+- Frauchiger, D., & Renner, R. (2018). "Quantum theory cannot consistently
+  describe the use of itself." *Nature Communications*, 9, 3711.
 - Hofstadter, D. (1979). *Gödel, Escher, Bach.* Basic Books. — (2007). *I Am a
   Strange Loop.* Basic Books.
 - Kaplan, D. (1989). "Demonstratives." En J. Almog, J. Perry & H. Wettstein
   (eds.), *Themes from Kaplan*, 481–563. Oxford University Press.
-- Bennett, C. H. (1988). "Logical depth and physical complexity." En R. Herken
-  (ed.), *The Universal Turing Machine*, 227–257. Oxford University Press.
 - Kleene, S. C. (1938). "On notation for ordinal numbers." *Journal of Symbolic
   Logic*, 3(4), 150–155.
 - Lawvere, F. W. (1969). "Diagonal arguments and cartesian closed categories."
@@ -350,11 +351,14 @@ Líneas provisionales, a cotejar con las fuentes antes de fijarlas.
   29–120.
 - Terrell, T., & Hooper, J. (1974). "A semantically based analysis of mood in
   Spanish." *Hispania*, 57(3), 484–494.
+- Turing, A. (1939). "Systems of Logic Based on Ordinals." *Proceedings of the
+  London Mathematical Society*, s2-45(1), 161–228.
 - von Neumann, J. (1966). *Theory of Self-Reproducing Automata* (A. W. Burks,
   ed.). University of Illinois Press.
 - Wolfram, S. (2002). *A New Kind of Science.* Wolfram Media.
 
 > **Nota de verificación:** Gödel, Turing y Rovelli (1996) ya están en el
 > documento-puente. Antes de publicación, cotejar páginas, ediciones y la
-> formulación exacta en Kaplan (monstruos), Reichenbach §51, Terrell & Hooper, y
-> el número y año de Adlam & Rovelli en *Philosophy of Physics*.
+> formulación exacta en Kaplan (monstruos), Reichenbach §51, Terrell & Hooper, el
+> número y año de Adlam & Rovelli en *Philosophy of Physics*, y los datos de
+> Frauchiger & Renner y Bong et al.
