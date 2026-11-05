@@ -90,6 +90,35 @@ documento-puente). Entre nodos no desaparece: **cambia de forma**.
 verificación es *demostrable en complejidad computacional*; que las mentes
 funcionen así es **tesis**. **El límite se transforma: de reflexivo a asimétrico.**
 
+**Dos mecanismos que no hay que confundir.** El límite de un nodo sobre sí mismo
+tiene dos fuentes distintas, y se comportan distinto al pasar a otro nodo:
+
+- **Contención** (Breuer; conteo): el nodo es parte de lo que intenta medir. Para
+  otro nodo, el primero ya no lo contiene: este límite **no viaja**. B puede
+  distinguir estados de A que A no distingue de sí.
+- **Autorreferencia** (diagonal): el nodo consulta un veredicto sobre sí mismo y
+  puede hacer lo contrario. Este límite **sí puede reaparecer** entre dos nodos, y
+  aparece por la comunicación misma: si B predice «A hará X» y A recibe la
+  predicción antes de actuar, A puede hacer lo contrario. El bucle A → B → A
+  reconstruye el diagonal. Es lo que impide la inferencia mutua completa
+  (Wolpert, Teoremas 1 y 3).
+
+**La condición que esto impone a la circulación (efecto Edipo).** Popper llamó
+*efecto Edipo* a la influencia de una predicción sobre el hecho predicho. Aquí
+toma una forma precisa, que distingue dos clases de evaluación ajena:
+
+- Lo que B sabe del **estado o el pasado** de A se puede comunicar sin perder
+  valor: A lo recibe, lo verifica y lo usa.
+- Lo que B sabe de la **conducta futura** de A, sobre la que A puede reaccionar,
+  **se anula en parte al comunicarse**. Conserva su valor solo mientras quede fuera
+  del pasado causal de A hasta que el hecho ocurra.
+
+Así, la capa de región del tiempo relacional (`02-estado-de-la-cuestion.md` §1)
+decide qué evaluación ajena puede circular sin destruirse. Matiza el modelo de
+«el otro pone su perspectiva en la mesa»: hay perspectivas que, puestas en la
+mesa, dejan de ser ciertas. *Estatuto: la reconstrucción del diagonal es
+demostrable (Wolpert); su forma temporal es tesis estructural.*
+
 ### 2.3 No se hereda: el deber de regular (Q3)
 
 El motor del documento-puente es *deber regular × no poder completar →
@@ -132,7 +161,10 @@ pasados; no la crea.
 | Límite de copia (L1a) | sí | sí: el nodo es parte de la red | **Se hereda**, sin Paso 2 |
 | Finitud (L2) | por el presupuesto del nodo | por el de cada nodo | **Se hereda** |
 | Deber de regular (Paso 2) | sí: condición de persistir | solo si la red es agente | **No se hereda**: condición |
-| Límite de evaluación | reflexivo | asimétrico (Wolpert) | **Se transforma** |
+| Punto ciego por **contención** | el nodo no distingue todos sus estados | el otro nodo no lo contiene: puede verlo | **Se invierte**: lo ve el otro |
+| Punto ciego por **autorreferencia** | el nodo no decide toda propiedad de sí | reaparece si el veredicto ajeno llega antes del hecho (efecto Edipo) | **Se conserva condicionado** por la capa de región |
+| Transparencia total (nadie tiene la vista completa) | imposible | imposible: ni nodo ni comité la tienen (conteo; Wolpert, T1 y T3) | **Se conserva** para la red entera |
+| Evaluación (profundidad lógica + pago L2) | no admite atajo | no viaja: cada nodo evalúa con su módulo | **No viaja** |
 | Perspectiva | derivada | una por nodo; colectiva solo si la red es agente | **Parcial** |
 | Lo que circula | — | lo comprimible (comunicación) | — |
 | Suelo común | — | intersección de pasados causales | literal |
@@ -159,7 +191,12 @@ en mentes, tesis.*
 
 **V3 — Código común.** Un resultado ofrecido solo se puede verificar si el que lo
 recibe puede leerlo. Hace falta un código compartido: el contexto que disuelve la
-ambigüedad de lo comprimido solo para quien conoce el sistema. **Tensión con V1:**
+ambigüedad de lo comprimido solo para quien conoce el sistema. **De dónde sale
+el código:** el código común es **pasado común sedimentado**. Dos nodos pueden
+decodificar lo que circula entre ellos en la medida en que comparten historia
+causal; donde no la comparten, el receptor completa lo que falta con lo más
+probable en su propio modelo, y lo que obtiene es un artefacto. V3 es así la capa
+de región del tiempo vista desde la comunicación. **Tensión con V1:**
 demasiado código común homogeniza (falla V1); demasiado poco vuelve ruido lo que
 circula (falla V3). *Estatuto: tesis, ligada al hilo de compresión.*
 
@@ -252,6 +289,9 @@ Ladyman & Ross, 2007.)
 | Ese límite no necesita el Paso 2 | **Demostrable** | §2.1 |
 | Dos nodos no se infieren por completo el uno al otro | **Demostrable** (con sus condiciones) | Wolpert 2008, Teoremas 1 y 3 |
 | Un verificador limitado puede certificar lo que no produce | **Demostrable** (complejidad) | Goldwasser et al. 1985; Babai 1985; Shamir 1992 |
+| El punto ciego por contención lo ve otro nodo; el de autorreferencia reaparece por comunicación | **Demostrable** en su núcleo | Breuer 1995; Wolpert 2008; §2.2 |
+| La evaluación ajena de la conducta futura se anula en parte al comunicarse | **Tesis estructural** | Popper 1957 (efecto Edipo); §2.2 |
+| El código común es pasado común sedimentado | **Tesis** | §3, V3; `02` §1 |
 | Las mentes funcionan como red de verificadores | **Tesis** | §2.2 |
 | La red tiene perspectiva propia | **Solo si es agente** (condición) | §2.3 |
 | Distribuir mejora la cobertura si y solo si V1–V5 | **Tesis estructural** | §3 |
@@ -316,6 +356,7 @@ Ladyman & Ross, 2007.)
 - Luhmann, N. (1984). *Soziale Systeme.* Suhrkamp.
 - March, J. G. (1991). "Exploration and exploitation in organizational learning."
   *Organization Science*, 2(1), 71–87.
+- Popper, K. R. (1957). *The Poverty of Historicism.* Routledge & Kegan Paul.
 - Shamir, A. (1992). "IP = PSPACE." *Journal of the ACM*, 39(4), 869–877.
 - Thompson, A. (2014). "Does diversity trump ability? An example of the misuse of
   mathematics in the social sciences." *Notices of the AMS*, 61(9), 1024–1030.
@@ -324,8 +365,12 @@ Ladyman & Ross, 2007.)
 - Zollman, K. J. S. (2010). "The epistemic benefit of transient diversity."
   *Erkenntnis*, 72(1), 17–35. DOI: 10.1007/s10670-009-9194-6.
 
+> **Revisión (2026-11-05, misma sesión).** §2.2 separa contención y
+> autorreferencia y añade el efecto Edipo; §2.5 divide la fila del límite de
+> evaluación; V3 recibe el origen del código común.
+>
 > **Nota de verificación (2026-11-05).** Cotejados contra fuente: March 1991
 > (revista, volumen, páginas y resultado), Zollman 2010 (revista, volumen, páginas,
 > DOI y la idea de diversidad transitoria), Hong & Page 2004 (existencia de la
-> crítica). Sin cotejar: la referencia exacta de Thompson 2014 y de Ashby 1952 para
-> «variables esenciales».
+> crítica). Sin cotejar: la referencia exacta de Thompson 2014, de Ashby 1952 para
+> «variables esenciales» y el lugar exacto del «efecto Edipo» en Popper.
