@@ -331,6 +331,13 @@ paso).
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
 
+- **2026-11-05 (E003, repositorio `experimentos-aislados`)** — Primer experimento
+  derivado del Camino H. Piloto: instrumento APTO SOLO PARA H2. Confirmatoria:
+  **H2 FALLA**; la diversidad de parámetro no mejora la cobertura frente a la de
+  trayectoria. Exploratorio: la red no gana frente a concentrar porque produce de
+  más, lo que sugiere una condición de no redundancia para V2. H3 pasa a E004. El
+  Camino H cita el resultado en V1, V2, el libro de cuentas y §8.
+
 - **2026-11-05 (Camino H, rama `camino-h-salto-intra-inter`)** — Creado
   `H-salto-intra-inter-sistema.md`. Tres preguntas en lugar del comodín
   «sistema»: el **límite de copia se hereda** (sin Paso 2); el **deber de regular

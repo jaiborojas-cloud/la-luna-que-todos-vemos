@@ -205,10 +205,33 @@ en tareas reales es una afirmación empírica que el Camino H **no hace**: queda
 **fuera de su alcance**. Hong & Page se cita solo como antecedente del tema, no
 como apoyo.
 
+**Referencia experimental (E003, 2026-11-05).** En el repositorio
+`experimentos-aislados`, el experimento E003 probó una versión de V1 en un modelo de
+agentes que resuelven problemas SAT, con preregistro y cohorte confirmatoria. Una red
+con 8 parámetros distintos **no** cubrió más que una red de 8 agentes con el mismo
+parámetro y semillas distintas; en una de las dos familias cubrió **menos** (H2
+FALLA: A −0.010 [−0.021, 0.000]; B −0.048 [−0.066, −0.031]). Lectura, dentro del
+modelo: lo que separó los puntos ciegos fue la diversidad de **trayectoria**, no la de
+**parámetro**, y diversificar el parámetro sin cuidado añadió nodos peores. V1 se
+mantiene, pero se precisa: la diversidad que cuenta es la que descorrelaciona los
+puntos ciegos (V5), no cualquier diferencia entre nodos. *Alcance:* resultado sobre
+el modelo, no sobre mentes; E003 no mide V5 directamente. Detalle:
+`experimentos/E003-verificar-producir/resultados/CIERRE_CONFIRMATORIO.md`.
+
 **V2 — Asimetría verificar / producir.** La ganancia existe donde verificar es más
 barato que producir. Donde verificar cuesta lo mismo que producir, distribuir es
 solo **replicar**. *Estatuto: demostrable en su dominio (complejidad); su alcance
 en mentes, tesis.*
+
+**Referencia experimental (E003, exploratoria).** En E003 la asimetría se cumplió de
+sobra: verificar costó entre el 1.4 % y el 2.2 % de producir cuando había certificado
+corto, y entre 42 y 63 veces más cuando no lo había. **Aun así, la red no ganó:** un
+solo agente con ocho veces el presupuesto cubrió igual o más, con entre la mitad y un
+quinto de las operaciones. El costo no estuvo en verificar (1–6 % del total) sino en
+**producir de más**: ocho agentes trabajando donde uno bastaba. Lectura, exploratoria
+y dentro del modelo: **V2 parece necesaria pero no suficiente**; le falta una
+condición de no redundancia en la producción, es decir, de coordinación sobre quién
+produce qué. Queda como candidata a condición nueva, no como resultado.
 
 **V3 — Código común.** Un resultado ofrecido solo se puede verificar si el que lo
 recibe puede leerlo. Hace falta un código compartido: el contexto que disuelve la
@@ -316,6 +339,8 @@ Ladyman & Ross, 2007.)
 | Las mentes funcionan como red de verificadores | **Tesis** | §2.2 |
 | La red tiene perspectiva propia | **Solo si es agente** (condición) | §2.3 |
 | Distribuir mejora la cobertura si y solo si V1–V5 | **Tesis estructural** | §3 |
+| La diversidad de parámetro no mejora la cobertura frente a la de trayectoria (en un modelo SAT) | **Resultado experimental, en el modelo** | E003, H2 FALLA |
+| A V2 le falta una condición de no redundancia en la producción | **Candidata; exploratoria** | E003, H2b |
 | La circulación erosiona la diversidad | **Tesis con apoyo en modelos** | March 1991; Zollman 2010 |
 | Una red distribuida persiste solo si regenera diversidad | **Tesis** | §4 |
 | La fungibilidad describe la patología por exceso | **Analógico productivo** | §4; Camino E |
@@ -343,8 +368,18 @@ Ladyman & Ross, 2007.)
   los tres requisitos —variables esenciales, regulación, irreductibilidad a un
   nodo— a un caso concreto. Pregunta lateral: si la autopoiesis de Luhmann cumple
   el requisito 2.
-- **El costo de verificar frente a producir** (V2, V4): medible en un caso de
-  juguete; candidato a experimento preregistrado.
+- **El costo de verificar frente a producir** (V2, V4): **medido en E003**. La
+  asimetría se confirmó como control; la ganancia de la red no apareció por la
+  producción redundante (ver V2). Abierto: si una red con **coordinación** de la
+  producción recupera la ganancia, y cuánto cuesta coordinar.
+- **H3 sin probar (E004).** E003 no pudo probar la erosión de la diversidad por
+  circulación: las familias de problemas no ofrecían un cambio de entorno real.
+  Queda para E004, que debe medir directamente la correlación de fallos (V5) y
+  separar lo que se copia (el parámetro, la descripción) de lo que no se puede
+  copiar (la trayectoria, la evaluación). Una observación del piloto, no evidencia:
+  al imitar, los agentes copiaron el parámetro y la cobertura no bajó, porque cada
+  uno conservó su propia trayectoria. Coincide con §2.4: circula el plano; la
+  evaluación no viaja.
 - **El ritmo de regeneración.** Zollman muestra que la diversidad debe ser
   transitoria: ¿hay un ritmo óptimo de variación frente a convergencia? Conecta con
   la pregunta de la nota 10 sobre el umbral de von Neumann.
@@ -390,6 +425,9 @@ Ladyman & Ross, 2007.)
 - Zollman, K. J. S. (2010). "The epistemic benefit of transient diversity."
   *Erkenntnis*, 72(1), 17–35. DOI: 10.1007/s10670-009-9194-6.
 
+> **Referencia experimental (2026-11-05).** V1, V2, el libro de cuentas y §8 citan
+> el experimento E003 del repositorio `experimentos-aislados` (cerrado; H2 FALLA).
+>
 > **Revisión (2026-11-05, misma sesión).** §2.2 separa contención y
 > autorreferencia y añade el efecto Edipo; §2.5 divide la fila del límite de
 > evaluación; V3 recibe el origen del código común.
