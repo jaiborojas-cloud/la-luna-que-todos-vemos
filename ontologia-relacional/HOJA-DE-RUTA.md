@@ -5,7 +5,7 @@
 > (para no re-discutirlo) y cuáles son los caminos naturales a seguir, en orden.
 > El texto fundacional es `00-documento-puente.md`, en esta misma carpeta.
 
-Última actualización: 2026-11-05.
+Última actualización: 2026-11-25.
 
 ---
 
@@ -330,6 +330,13 @@ paso).
 - `ontologia-relacional/E-prueba-de-la-metafora-y-del-marco.md` — Camino E.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
+
+- **2026-11-25 (Camino G, rama `camino-g-wheeler`)** — Wheeler (*it from bit*,
+  universo participativo) entra como vecino en `02` §3.11 y en §5.1 del
+  documento-puente (v2.5). Coincide en el registro irreversible como nacimiento de
+  un hecho; la obra se separa en la unidad bit, la retrocausalidad y el «para».
+  Postura ante la teleología: **«no podía no pasar por nosotros»**, necesidad sin
+  intención; el sentido llega *con* los evaluadores, no *para* ellos.
 
 - **2026-11-05 (E003, repositorio `experimentos-aislados`)** — Primer experimento
   derivado del Camino H. Piloto: instrumento APTO SOLO PARA H2. Confirmatoria:

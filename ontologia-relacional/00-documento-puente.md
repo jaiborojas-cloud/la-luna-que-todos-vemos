@@ -34,6 +34,9 @@
 > **v2.4 — 2026-11-05.** Integra el **Camino H**: C3 acotada (§3.3); el paso 3 de
 > la derivación exige condiciones (§3.2); patología por exceso (§5.2); condición de
 > independencia para C2 (§7.2).
+>
+> **v2.5 — 2026-11-25.** Añade a Wheeler (*it from bit*) en §5.1 y la postura ante
+> la teleología: *no podía no pasar por nosotros* (necesidad sin intención).
 
 ---
 
@@ -433,6 +436,15 @@ que subrayarla, porque su convergencia es sugestiva pero no es una sola prueba�
   Rovelli, 2023). Su sentido de «relación» sigue siendo físico, no
   epistémico-social: no se transfiere por sí solo a la red de mentes (C3). Detalle
   en `02-estado-de-la-cuestion.md` §1.
+- **Wheeler (1990), *it from bit*:** todo «it» deriva su existencia de respuestas
+  registradas por un acto irreversible; el universo es participativo. (Programa
+  especulativo, no teoría.) La obra toma de él el **registro irreversible** como
+  nacimiento de un hecho, no el bit como unidad ni la participación en el pasado.
+  **Postura ante la teleología (2026-11-25):** *no podía no pasar por nosotros*.
+  Si la tendencia a generar información nueva es necesaria, los evaluadores son
+  un paso obligado, no una meta: **necesidad sin intención**. El sentido llega
+  *con* los evaluadores; la obra no afirma que el universo existiera *para* ellos.
+  Detalle en `02-estado-de-la-cuestion.md` §3.11.
 - **Teoría de categorías:** un objeto matemático se caracteriza por sus morfismos
   —sus relaciones— y no por su interior. (Formal.)
 
@@ -686,6 +698,10 @@ o la relacionalidad como si fundara §3— es el error que el Camino E detectó.
 - Wentworth, J. (2021). "Fixing the Good Regulator Theorem." *Alignment Forum*
   (entrada de blog, no arbitrada).
   https://www.alignmentforum.org/posts/Dx9LoqsEh3gHNJMDk/fixing-the-good-regulator-theorem
+- Wheeler, J. A. (1990). "Information, physics, quantum: The search for links."
+  En *Proceedings of the 3rd International Symposium on Foundations of Quantum
+  Mechanics* (Tokio, 1989), 354–368. Reimpreso en W. H. Zurek (ed.), *Complexity,
+  Entropy, and the Physics of Information*, Addison-Wesley, 1990.
 - Wolpert, D. H. (2008). "Physical limits of inference." *Physica D*, 237(9),
   1257–1281. DOI: 10.1016/j.physd.2008.03.040. arXiv:0708.1362.
 - Zollman, K. J. S. (2010). "The epistemic benefit of transient diversity."
