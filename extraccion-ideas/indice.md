@@ -206,6 +206,9 @@ cual Φ es un candidato») hasta decidirlo de frente.
 10. `nota-10-plano-modulo-de-evaluacion-y-nodo-nuevo.md` (2026-11-05) — registro de
     conversación, no nota pegada; abre material para el Camino H. Sin extraer a
     unidades todavía.
+11. `nota-11-pluralidad-de-perspectivas-y-alineamiento.md` (2026-11-25) — registro de
+    conversación, no nota pegada; registrada en RIPG como Q18 (repositorio
+    leviathan). Sin extraer a unidades todavía.
 
 **Total de unidades**: 36 · **Núcleo (≥2)**: 25 · **Ocurrencias (1)**: 11
 
