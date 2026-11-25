@@ -38,7 +38,9 @@ Lo trajo Jaibo, de la [ficha de *Heterotheca inuloides* en Wikipedia](https://es
 - ***inuloides*:** «parecida a *Inula*».
 - **Nombres comunes:** acahual (de origen náhuatl, para asteráceas amarillas), árnica de campo, árnica de monte, árnica mexicana, cuauteteco, falsa árnica, hornilla, tabaco de las montañas, xochihuepal.
 
-**Observación de Claude:** los «frutos desiguales» son dos clases de semilla en la misma cabezuela. Las de las florecitas del centro llevan vilano, la pelusa que las deja viajar con el viento; las de los pétalos de la orilla suelen no llevarlo, o llevarlo muy reducido, y caen cerca. Una misma flor suelta semillas para llegar lejos y semillas para quedarse.
+La [página del género en Wikipedia en inglés](https://en.wikipedia.org/wiki/Heterotheca), que también trajo Jaibo, precisa que el nombre se refiere a la diferencia de **forma** entre los frutos de las florecitas del centro y los de la orilla, **en algunas especies**. Añade que *H. inuloides* (árnica mexicana) crece de Nuevo León a Oaxaca, y que *H. subaxillaris* se extiende desde Belice hasta California, Dakota del Sur y Massachusetts.
+
+**Observación de Claude, corregida:** dije antes que las semillas de la orilla no llevan vilano y caen cerca, mientras las del centro viajan. Eso ocurre en algunas especies del género, pero ninguna de las dos fuentes lo confirma para la planta del patio, y no consta en ellas para *H. inuloides*. Lo que sí es seguro es lo que dice el nombre: frutos distintos en una misma cabezuela.
 
 ### Lo que se sabe de ella
 
@@ -61,7 +63,7 @@ Registradas como posibles, no como decididas:
 - **El reconocimiento mutuo:** «sentí que me observó y yo la observé»; la relación ocurre antes que cada uno por separado.
 - **La irreproducibilidad de cada mirada:** «dudo que alguien más la observara como yo».
 - **La decisión como semilla:** se suelta sin poder cubrir todas las posibilidades; el encuentro depende de que otros observen.
-- **Receptáculo diferente:** el nombre de la planta dice lo que Jaibo dijo de las decisiones: algunas llegan muy lejos y otras se quedan en el camino.
+- **Receptáculo diferente:** una misma cabezuela da frutos distintos. Resuena con lo que Jaibo dijo de las decisiones: algunas llegan muy lejos y otras se quedan en el camino.
 
 ---
 
