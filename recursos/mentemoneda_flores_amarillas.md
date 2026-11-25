@@ -40,6 +40,17 @@ Lo trajo Jaibo, de la [ficha de *Heterotheca inuloides* en Wikipedia](https://es
 
 **Observación de Claude:** los «frutos desiguales» son dos clases de semilla en la misma cabezuela. Las de las florecitas del centro llevan vilano, la pelusa que las deja viajar con el viento; las de los pétalos de la orilla suelen no llevarlo, o llevarlo muy reducido, y caen cerca. Una misma flor suelta semillas para llegar lejos y semillas para quedarse.
 
+### Lo que se sabe de ella
+
+Fuente que trajo Jaibo: Rodríguez-Chávez, J. L., Egas, V., Linares, E., Bye, R., Hernández, T., Espinosa-García, F. J., y Delgado, G. (2017). «Mexican Arnica (*Heterotheca inuloides* Cass. Asteraceae: Astereae): Ethnomedical uses, chemical constituents and biological properties». *Journal of Ethnopharmacology*, 195, 39–63. DOI: [10.1016/j.jep.2016.11.021](https://doi.org/10.1016/j.jep.2016.11.021). [PubMed 27847336](https://pubmed.ncbi.nlm.nih.gov/27847336/).
+
+Es una revisión de la literatura. Según su resumen:
+
+- **Usos tradicionales en México:** reumatismo, inflamación de la piel, dolor muscular y cólicos, dolor ligado a inflamación, enfermedades dentales y trastornos gastrointestinales.
+- **Química:** más de 140 compuestos identificados; los autores consideran que los sesquiterpenos de tipo cadinano son los principales componentes activos.
+- **Actividad:** la antiinflamatoria y la citotóxica tienen respaldo en estudios farmacológicos.
+- **Límites que señalan los propios autores:** los reportes sobre su toxicidad son limitados, y el modo de acción de sus componentes necesita más investigación.
+
 ---
 
 ## Conexiones con la obra
