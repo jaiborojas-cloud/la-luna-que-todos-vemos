@@ -511,6 +511,7 @@ Sin ellos, el §3 se presenta como original donde no lo es.
 | Nāgārjuna | §5.1 | dependencia; no tener tesis | piso literal no vacío; fin epistémico | bajo |
 | **Breuer** | §2.1, L1a | **el conteo de L1a ya está probado** | composición con L2; descripción / evaluación | **muy alto** |
 | **Wolpert** | §2.4, §7.2–§7.3 | **límite diagonal de la autoinferencia física** | precio termodinámico; criterio de herencia | **muy alto** |
+| Wheeler (§3.11) | §5.1, §1, Axioma 1 | hechos que nacen en un registro irreversible; universo participativo | sin «para»: necesidad sin intención; el observador no hace el pasado | medio |
 
 **Lo que este mapa obliga a corregir.** El documento-puente presenta el §3 como «el
 aporte candidato». Después de Breuer y Wolpert, ninguno de los ladrillos del §2 es
@@ -530,6 +531,56 @@ tiene dos mil años, el conteo treinta, el punto ciego cuarenta—; lo propio de
 obra es la construcción: derivar la perspectiva de una imposibilidad que la
 termodinámica hace inevitable, ubicar el límite en la evaluación y no en la
 descripción, y decir con precisión qué pasa de una perspectiva a otra.*
+
+### 3.11 Wheeler — *it from bit* y el universo participativo (añadido 2026-11-25)
+
+**Qué dice.** Wheeler (1990) propone que todo «it» —partícula, campo, el propio
+espacio-tiempo— deriva su función, su significado y su existencia misma de
+**bits**: respuestas de sí o no que un aparato registra. Cada fenómeno cuántico
+elemental se cierra con un **acto irreversible de amplificación**, y el sí o el no
+registrado es un bit que no se puede partir. Lo resume en un circuito: la física
+da lugar a la **participación del observador**; la participación da lugar a la
+información; y la información da lugar a la física. Es el **universo
+participativo**: los observadores no solo llegan al final de la historia; sin
+ellos, para Wheeler, no habría una historia definida.
+
+**Coincide en tres puntos:**
+
+- **Los hechos nacen en el registro.** Es la capa de contenido del tiempo
+  relacional (§1.2): un hecho se vuelve definido en la interacción, y Wheeler lo
+  llama un bit registrado.
+- **El registro es irreversible.** El acto de amplificación de Wheeler es
+  exactamente lo que la obra paga con L2: registrar cuesta, y no se deshace.
+  *Estatuto: convergencia estructural, no demostrada.*
+- **El observador como parte del circuito.** Su hipótesis de que la conciencia
+  permite al universo estudiar sus propias relaciones tiene en Wheeler su
+  antecedente más directo en la física.
+
+**Me separo en tres puntos:**
+
+- **La información.** El bit de Wheeler es binario y cercano a Shannon. La obra
+  no toma a Shannon como fundamento ontológico: la variable ontológica es la
+  información integrada, y Shannon queda como herramienta para el canal. *Lo que
+  la obra puede tomar de Wheeler es el registro irreversible, no la unidad bit.*
+- **El pasado.** En su versión fuerte (los experimentos de elección retardada),
+  Wheeler sugiere que los observadores participan en volver definido incluso un
+  pasado lejano. La obra mantiene la **capa de región literal**: nadie cambia lo
+  que ya pudo alcanzarlo. La participación ocurre en la capa de contenido, no
+  en la partición causal.
+- **El «para».** El circuito de Wheeler roza la teleología: un universo que
+  necesita observadores para existir. La obra adopta una postura más débil:
+  **«no podía no pasar por nosotros»**. Si la tendencia a generar información
+  nueva es necesaria, los evaluadores son un paso que tenía que llegar, no una
+  meta que alguien se propuso: **necesidad sin intención**. Y separa dos frases:
+  «el sentido llegó *con* los evaluadores» (casi se deriva del corolario de
+  evaluación: sin quien pague el costo de interpretar hay estructura, no
+  significado) y «el universo existió *para* ellos» (teleología; la obra no la
+  afirma).
+
+**Toca:** §5.1 del documento-puente, la capa de contenido (§1) y el Axioma 1.
+**Riesgo:** medio. Sin citarlo, la hipótesis del universo que se estudia a sí
+mismo parece nueva; con él, la obra puede mostrar en qué es más débil a
+propósito: sin bit como unidad, sin retrocausalidad y sin «para».
 
 ---
 
@@ -618,6 +669,10 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
   ed.). University of Illinois Press.
 - Westerhoff, J. (2010). *The Dispute Dispeller: Nāgārjuna's Vigrahavyāvartanī.*
   Oxford University Press.
+- Wheeler, J. A. (1990). "Information, physics, quantum: The search for links."
+  En *Proceedings of the 3rd International Symposium on Foundations of Quantum
+  Mechanics* (Tokio, 1989), 354–368. Reimpreso en W. H. Zurek (ed.), *Complexity,
+  Entropy, and the Physics of Information*, Addison-Wesley, 1990.
 - Whitehead, A. N. (1929). *Process and Reality.* Macmillan (ed. corregida:
   Griffin & Sherburne, Free Press, 1978).
 - Whitehead, A. N. (1933). *Adventures of Ideas.* Macmillan.
@@ -642,6 +697,9 @@ La gramática no entra al documento-puente: queda en MENTEMONEDA (§1.6).
 > - **Pasada final (2026-11-05):** Terrell & Hooper (*Hispania* 57, 484–494; se
 >   retira el número de fascículo, no confirmado); Kaplan 1989 (Oxford University
 >   Press, pp. 481–563); Simondon (Grenoble, Jérôme Millon, col. Krisis, 2005).
+> - **Wheeler (añadido 2026-11-25):** cotejados el título, el simposio de Tokio
+>   (1989) y las páginas 354–368 de las actas; sin cotejar, las páginas de la
+>   reimpresión en Zurek (1990).
 > - **Sin cotejar:** página final de Bong et al. (queda «1199 ss.»); la formulación
 >   exacta de la prohibición de «monstruos» en Kaplan; el pie de imprenta de la
 >   primera edición de Bello.
