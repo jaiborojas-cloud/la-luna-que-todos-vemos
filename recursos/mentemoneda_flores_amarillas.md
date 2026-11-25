@@ -1,0 +1,46 @@
+# MENTEMONEDA — La planta de flores amarillas
+
+*Sesión: 25 de noviembre de 2026*
+
+> **Qué es este archivo:** el registro de una experiencia vivida, contada por Jaibo. Sus palabras van tal como las escribió, con la ortografía corregida y sin cambiar nada más. Lo que no es suyo está marcado como observación de Claude.
+
+---
+
+## La experiencia
+
+> «En una ocasión, mirando una planta en un día soleado por la tarde, disfrutando el convivir con mis amigos, charlando, fui a orinar a un lugar; ahí estaba la planta. Yo me encontraba al aire libre, en el rancho, en una parcela. La planta tenía flores amarillas pequeñas y bastas. Había todo un ecosistema ahí: abejas rondando y demás insectos y plantas. Sentí que me observó y yo la observé. En ese momento sentí que nos conocimos y de alguna manera nuestra existencia se validó. Dudo que alguien más la observara como yo, hablando de esa misma planta. Puede ser que en otra variante sintiente pudiere ser.»
+
+## La planta del patio
+
+> «Ahora, en el patio de mi casa, creció una planta similar en medio de los ladrillos. No hay pasto; nació en una pequeña hendidura de los ladrillos que cubren el piso. Inclusive mis perros se la comieron dos veces cuando era pequeña, yo la arranqué un par de veces, y ahora creció demasiado y me recuerda tanto a esa planta. Tiene muchas flores amarillas.»
+
+![La planta entre los ladrillos del patio](imagenes/flores_amarillas_entre_ladrillos.jpg)
+
+## Las semillas
+
+> «Está creciendo, y no solo eso: he recolectado las semillas para llevarlas a mi pueblo y esparcirlas.»
+
+> «Es como la decisión que tomé en algún punto, es bastante parecida. Para ser honesto, no sé el género. Varios días pasados, mientras recolecto las semillas, he pensado en que esos momentos lleguen a pasar. Me he imaginado todas las posibilidades y no las cubro, pero sé que tienen que observar.»
+
+## El ecosistema del patio
+
+![Catarinas y pulgones en la planta del patio](imagenes/flores_amarillas_catarinas.jpg)
+
+**Observación de Claude, a partir de la foto:** la planta ya sostiene su propio ecosistema. Hay pulgones a lo largo de un tallo, una catarina caminando hacia ellos y dos catarinas sobre una cabezuela seca, que parecen estar apareándose. Se ven también cabezuelas secas con pelusa blanca (vilano), de donde salen las semillas.
+
+**Identificación, observación de Claude, no confirmada:** familia de las margaritas (Asteráceas). Por las hojas que abrazan el tallo, los tallos con pelitos y el vilano, probablemente del género *Heterotheca*. En el centro de México lo más común sería la árnica mexicana (*Heterotheca inuloides*) o *Heterotheca subaxillaris*. Si es así, es nativa de México.
+
+---
+
+## Conexiones con la obra
+
+Registradas como posibles, no como decididas:
+
+- **La suculenta y el colibrí** ([mentemoneda_suculenta_colibri.md](mentemoneda_suculenta_colibri.md)): otra planta y otro encuentro irrepetible.
+- **El reconocimiento mutuo:** «sentí que me observó y yo la observé»; la relación ocurre antes que cada uno por separado.
+- **La irreproducibilidad de cada mirada:** «dudo que alguien más la observara como yo».
+- **La decisión como semilla:** se suelta sin poder cubrir todas las posibilidades; el encuentro depende de que otros observen.
+
+---
+
+*Jaibo Rojas — MENTEMONEDA*

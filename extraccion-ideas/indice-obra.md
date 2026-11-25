@@ -48,6 +48,7 @@ obra donde aparece la idea.
 | Unidad | Estado | Apar. |
 |--------|--------|:-----:|
 | [La suculenta y el colibrí — la moneda que no se anuncia, se reconoce](unidades-obra/suculenta-y-colibri.md) | en desarrollo | 3 |
+| [La planta de flores amarillas — el encuentro que valida](unidades-obra/flores-amarillas.md) | semilla | 1 |
 
 ---
 
@@ -83,10 +84,10 @@ anotaron dentro de unidades existentes en vez de crear archivo propio:
 
 **Fuentes de la obra procesadas**: `CLAUDE_CONTEXT.md`, `README.md`,
 `docs/GLOSARIO.md`, `docs/PLAN_INTEGRACION.md`, los capítulos de `capitulos/`
-(00, 01, 03, 04, 06, 07 y epílogo luna roja), `recursos/` (resumen ejecutivo y
-suculenta–colibrí) y los dos blueprints de `archivo_versiones_anteriores/`.
+(00, 01, 03, 04, 06, 07 y epílogo luna roja), `recursos/` (resumen ejecutivo,
+suculenta–colibrí y flores amarillas) y los dos blueprints de `archivo_versiones_anteriores/`.
 
-**Total de unidades de la obra**: 16 · (+2 facetas fundidas en unidades de notas)
+**Total de unidades de la obra**: 17 · (+2 facetas fundidas en unidades de notas)
 
 > Fase actual: extracción y conteo de recurrencia. Aún **no** se propone
 > estructura de libro ni capítulos para ninguna de las dos obras.
