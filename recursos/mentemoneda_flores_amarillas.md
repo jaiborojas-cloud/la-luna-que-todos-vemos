@@ -30,6 +30,16 @@
 
 **Identificación, observación de Claude, no confirmada:** familia de las margaritas (Asteráceas). Por las hojas que abrazan el tallo, los tallos con pelitos y el vilano, probablemente del género *Heterotheca*. En el centro de México lo más común sería la árnica mexicana (*Heterotheca inuloides*) o *Heterotheca subaxillaris*. Si es así, es nativa de México.
 
+### El nombre
+
+Lo trajo Jaibo, de la [ficha de *Heterotheca inuloides* en Wikipedia](https://es.wikipedia.org/wiki/Heterotheca_inuloides):
+
+- ***Heterotheca*:** del griego *heterós*, «diferente», y *théke*, «receptáculo»: «receptáculo diferente», por los frutos desiguales de las especies del género.
+- ***inuloides*:** «parecida a *Inula*».
+- **Nombres comunes:** acahual (de origen náhuatl, para asteráceas amarillas), árnica de campo, árnica de monte, árnica mexicana, cuauteteco, falsa árnica, hornilla, tabaco de las montañas, xochihuepal.
+
+**Observación de Claude:** los «frutos desiguales» son dos clases de semilla en la misma cabezuela. Las de las florecitas del centro llevan vilano, la pelusa que las deja viajar con el viento; las de los pétalos de la orilla suelen no llevarlo, o llevarlo muy reducido, y caen cerca. Una misma flor suelta semillas para llegar lejos y semillas para quedarse.
+
 ---
 
 ## Conexiones con la obra
@@ -40,6 +50,7 @@ Registradas como posibles, no como decididas:
 - **El reconocimiento mutuo:** «sentí que me observó y yo la observé»; la relación ocurre antes que cada uno por separado.
 - **La irreproducibilidad de cada mirada:** «dudo que alguien más la observara como yo».
 - **La decisión como semilla:** se suelta sin poder cubrir todas las posibilidades; el encuentro depende de que otros observen.
+- **Receptáculo diferente:** el nombre de la planta dice lo que Jaibo dijo de las decisiones: algunas llegan muy lejos y otras se quedan en el camino.
 
 ---
 
