@@ -323,13 +323,19 @@ paso).
 - `extraccion-ideas/indice.md` — 36 unidades de las notas (25 de núcleo).
 - `extraccion-ideas/indice-obra.md` — 16 unidades de la obra original.
 - `extraccion-ideas/unidades/` y `unidades-obra/` — las unidades individuales.
-- `extraccion-ideas/notas-crudas/` — las 10 notas fuente.
+- `extraccion-ideas/notas-crudas/` — las 11 notas fuente.
 - `ontologia-relacional/02-estado-de-la-cuestion.md` — Camino G.
 - `ontologia-relacional/H-salto-intra-inter-sistema.md` — Camino H.
 - `ontologia-relacional/A-bisagra-inferencia-activa-buen-regulador.md` — Camino A.
 - `ontologia-relacional/E-prueba-de-la-metafora-y-del-marco.md` — Camino E.
 
 ## 6. Bitácora (añadir una línea por sesión, lo más reciente arriba)
+
+- **2026-11-25 (nota 11)** — Pluralidad de perspectivas y alineamiento: en RIPG, la
+  geometría base no fija qué es relevante (F_A = F_B, ω_A ≠ ω_B); la pregunta es si
+  optimizar una sola perspectiva deja ciego al modelo ante las demás. Frontera:
+  admisibilidad no implica legitimidad, ni inadmisibilidad ilegitimidad. Registrada
+  también como Q18 en el repositorio de RIPG.
 
 - **2026-11-05 (E003, repositorio `experimentos-aislados`)** — Primer experimento
   derivado del Camino H. Piloto: instrumento APTO SOLO PARA H2. Confirmatoria:
